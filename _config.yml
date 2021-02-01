@@ -1,7 +1,5 @@
 title: Arpit Tripathi
 theme: jekyll-theme-leaf
-remote_theme: SupunKavinda/jekyll-theme-leaf
-iconURL: /assets/logo-arpit04tripathi.jpeg
 email: your-email@example.com
 cdn: https://image.shutterstock.com/image-photo
 description: >- # this means to ignore newlines until "baseurl:"
@@ -10,6 +8,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# custom variables
+iconURL: /assets/logo-arpit04tripathi.jpeg
+# remote_theme: SupunKavinda/jekyll-theme-leaf
+remote_theme: jekyll-theme-leaf
+
+# social icons
 twitter_username: jekyllrb
 github_username:  blogs-arpit04tripathi
 
