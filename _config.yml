@@ -12,8 +12,10 @@ iconURL: /assets/logo-arpit04tripathi.jpeg
 
 # custom variables
 cdn: https://image.shutterstock.com/image-photo
-# theme: jekyll-theme-leaf
-remote_theme: SupunKavinda/jekyll-theme-leaf
+
+# Setting theme
+# theme: jekyll-theme-leaf                      # For supported theme
+remote_theme: SupunKavinda/jekyll-theme-leaf    # For custom themes
 
 # social icons
 twitter_username: jekyllrb
@@ -22,7 +24,6 @@ github_username:  blogs-arpit04tripathi
 # Build settings
 plugins:
   - jekyll-feed
-
 collections:
   src:
     output: true
