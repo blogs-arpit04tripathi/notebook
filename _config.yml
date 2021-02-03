@@ -8,7 +8,7 @@ url: "http://blogs.arpit04tripathi.com" # the base hostname & protocol for your 
 baseurl: "/notebook" # the subpath of your site, e.g. /blog
 
 # theme variables
-iconURL: /notebook/assets/logo/logo-arpit04tripathi.jpeg
+iconURL: assets/logo/logo-arpit04tripathi.jpeg
 
 # custom variables
 cdn: https://image.shutterstock.com/image-photo
