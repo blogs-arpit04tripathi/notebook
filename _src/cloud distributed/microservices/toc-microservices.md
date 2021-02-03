@@ -1,0 +1,78 @@
+---
+layout: post
+title: Microservices
+permalink: /microservices
+---
+
+# Microservices
+- [12 Factor App](https://12factor.net/){:target="_blank"}
+- [Software Architecture Evolution](/software-architecture/evolution)
+  - [Microservices Architecture Components](/microservices/components)
+- [Microservices Introduction](/microservices/introduction)
+  - [Monolithic vs Microservices](/microservices/monolithic-vs-microservices)
+  - [Microservices Features](/microservices/features) - Advantages, Disadvantages, Features, Best Practices
+  - [Shared Objects in Microservices](/microservices/shared-objects)
+- [Service Discovery](/microservices/service-discovery)
+  - [Service Discovery Tools](/microservices/service-discovery/tools)
+  - [Service Discovery Types](/microservices/service-discovery/types)
+  - [Netflix Eureka](/microservices/service-discovery/netflix-eureka)
+  - Load Balancing
+    - [Netflix Zuul - Server Side Load Balancer](/microservices/load-balancing/netflix-zuul)
+    - [Netflix Ribbon - Client Side Load Balancer](/microservices/load-balancing/netflix-ribbon)
+    - [Netflix Feign - Declarative REST Client](/microservices/load-balancing/netflix-feign)
+- [Fault Tolerance and Resilience](/microservices/fault-tolerance)
+  - [Issues with Microservices](/microservices/issue-with-microservices)
+  - [Circuit Breaker Pattern](/microservices/circuit-breaker)
+    - [Hystrix](/microservices/hystrix)
+    - [How does Hystrix Work?](/microservices/hystrix/working)
+    - [Hystrix Configuration Parameters](/microservices/hystrix/config-params)
+    - [Hystrix Dashboard](/microservices/hystrix/dashboard)
+  - [BulkHead Pattern](/microservices/bulkhead)
+- [Microservices Configuration](/microservices/configuration)
+  - [Profile Based Config](/microservices/configuration/profile-based)
+  - [Config as a Microservice](/microservices/configuration/service)
+  - [Configuration Strategies](/microservices/configuration/strategies)
+  - [Configuration Security](/microservices/configuration/security)
+- Microservice Design Patterns
+  - [Microservice Architecture Design Principles](/microservices/design-principles)
+  - Microservice Design Patterns for Effective Collaboration
+    - [Aggregator Pattern](/microservices/patterns/aggregator)
+    - [Branch Pattern](/microservices/patterns/branch)
+    - [API Gateway](/microservices/patterns/api-gateway)
+  - Microservice Design Patterns for Performance Monitoring
+    - [Log Aggregation](/microservices/patterns/log-aggregation)
+    - [Semantic Monitoring](/microservices/patterns/semantic-monitoring)
+    - [API Health Check](/microservices/patterns/api-healthcheck)
+  - Microservice Design Patterns for Breaking down to Business Capability (Decomposition Patterns)
+    - [Microservice per Business Capability](/microservices/patterns/per-capability)
+    - [Around similar Business Capability](/microservices/patterns/around-similar-capability)
+    - [Strangler Vine Pattern](/microservices/patterns/strangler-vine)
+  - Microservice Design Patterns for Optimizing Database Storage
+    - [Individual Database per Service](/microservices/patterns/individual-db)
+    - [Shared Database per Service](/microservices/patterns/shared-db)
+    - [Event Sourcing Design Pattern](/microservices/patterns/event-sourcing)
+    - [Command Query Responsibility Segregation (CQRS)](/microservices/patterns/cqrs)
+  - Microservice Design Patterns for Seamless Deployment
+    - [Service Discovery](/microservices/patterns/service-discovery)
+    - [Blue-Green Deployment](/microservices/patterns/blue-green)
+  - [Chain of responsibility](/microservices/patterns/chain-of-responsibility)
+    - [Asynchronous Messaging Pattern](/microservices/patterns/async-messaging-pattern)
+  - [SAGA Transaction Pattern](/microservices/patterns/saga-transaction-pattern)
+  - Service Mesh (Sidecar Pattern) - Control Plane and sidecar plane
+- [Microservices Authentication](/microservices/authentication)
+- [Microservices Testing](/microservices/testing)
+- [Domain Driven Design](/domain-driven-design)
+- [Microservice Architecture - Sample Application](/microservices/sample-applications)
+- [Monitoring](/microservices/monitoring)
+- [Spring Cloud](/spring-cloud)
+- [Spring Cloud Bus](/spring-cloud-bus)
+- [Spring Cloud Data Flow](/spring-cloud-data-flow)
+- [Pivotal Cloud Foundry(PCF)](/pcf)
+
+# References
+- [microservices.io]( http://microservices.io/)
+- [Microservices Design Patterns - Microservices Architecture Patterns - Edureka](https://www.youtube.com/watch?v=xuH81XGWeGQ)
+- [Circuit Breaker Pattern - Fault Tolerant Microservices](https://www.youtube.com/watch?v=ADHcBxEXvFA)
+-	[top-29-microservices-interview-questions-for-2019](https://dzone.com/articles/top-29-microservices-interview-questions-for-2019)
+-	[top-microservices-interview-questions-for-2019-par](https://dzone.com/articles/top-microservices-interview-questions-for-2019-par)
+-	[microservices-interview-quesions](https://www.javainuse.com/spring/microservices-interview-quesions)

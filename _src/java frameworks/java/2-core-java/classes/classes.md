@@ -1,0 +1,18 @@
+---
+layout: post
+title: Classes
+permalink: /java/classes
+---
+
+* Defines a new data type, works as a template. 	
+* class is logical construct while object has physical reality.
+  * object occupies space in memory.
+* variables defined within a class are called ***instance variables***.
+* ***constructor*** used for initialization on creation.
+
+```java
+ClassName(){ }
+```
+
+# Assigning Object reference variables
+![assign-object](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/core-java/assign-object.png)

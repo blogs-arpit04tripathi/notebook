@@ -1,0 +1,43 @@
+---
+layout: post
+title: Distributed Computing
+permalink: /distributed-systems
+---
+
+- [A Thorough Introduction to Distributed Systems](https://www.freecodecamp.org/news/a-thorough-introduction-to-distributed-systems-3b91562c9b3c/){:target="_blank"}
+- **Data Intensive Applications** - We call an application data-intensive if data is its primary challenge—the quantity of data, the complexity of data, or the speed at which it is changing—as opposed to compute-intensive, where CPU cycles are the bottleneck.
+- Distributed System Approaches
+  - [Master Slave](/distributed-systems/master-slave)
+  - [Masterless](/distributed-systems/masterless)
+- [Big Data Problems](/distributed-systems/big-data-problems)
+- Issues to be Figured out
+  - [Replication](/distributed-systems/replication)
+  - Scalability
+    - [Storage Scalability Introduction](/distributed-systems/storage-scalability)
+    - [Vertical scaling and Horizontal scaling](/distributed-systems/horizontal-vertical-scaling)
+  - [CAP theorem](/distributed-systems/cap-theorem)
+    - [Consistency](/distributed-systems/consistency)
+      - Eventual consistency
+    - [Reliability - Partition Tolerance](/distributed-systems/partition-tolerance)
+    - [Availability](/distributed-systems/availability)
+  - Efficiency
+  - Maintainability
+- Tools
+  - [Relational Database](/distributed-systems/rdbms)
+  - [NoSQL Data Stores](/distributed-systems/nosql)
+    - ACID
+  - Stream Processor
+  - Batch Processor
+  - Message Brokers
+- Buzz Words
+  - Big Data
+  - Web-scale
+  - [Sharding](/distributed-systems/sharding)
+  - Cloud services
+  - MapReduce
+  - Real-time
+  - [Elastic Search](/distributed-systems/elastic-search)
+- single-node versus distributed systems
+- online/interactive versus offline/batch processing systems
+- [Real life example of scaling using MySQL](https://medium.com/@Pinterest_Engineering/sharding-pinterest-how-we-scaled-our-mysql-fleet-3f341e96ca6f){:target="_blank"}
+- [Paxos Consensus](https://en.wikipedia.org/wiki/Paxos_(computer_science)){:target="_blank"}
