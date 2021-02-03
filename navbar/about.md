@@ -4,15 +4,14 @@ title: About
 permalink: /about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I am [**Arpit Tripathi**](https://arpit04tripathi.github.io){:target="_blank"} - [*github.io link*](https://arpit04tripathi.github.io/about-me){:target="_blank"}
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+See the [***Youtube channel***](https://www.youtube.com/channel/UCtjFqAKM4ve325kLmM0l-ow){:target="_blank"}.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This is for personal use.
 
+No intent of publishing yet.
 
-[jekyll-organization]: https://github.com/jekyll
+{{site.cdn}}
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#273036" fill-opacity="1" d="M0,96L120,106.7C240,117,480,139,720,133.3C960,128,1200,96,1320,80L1440,64L1440,0L1320,0C1200,0,960,0,720,0C480,0,240,0,120,0L0,0Z"></path></svg>
