@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Abstract Data Types
-permalink: /ds/abstract-data-types
+permalink: /:collection/ds/abstract-data-types
 ---
 
 # Abstract Data Type

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data Structures Introduction
-permalink: /ds/introduction
+permalink: /:collection/ds/introduction
 ---
 
 `Data Structure` is a way to store and organize `data` so that it can be used efficiently.
