@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bloom Filters
-permalink: /ds/hashing/bloom-filters
+permalink: /:collection/cs/ds/hashing/bloom-filters
 ---
 
 - A probabilistic data structure which was designed to check whether an element is present in a set with memory and time efficiency.

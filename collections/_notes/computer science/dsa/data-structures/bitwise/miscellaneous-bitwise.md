@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bitwise Miscellaneous
-permalink: /bitwise/miscellaneous
+permalink: /:collection/cs/bitwise/miscellaneous
 ---
 
 **Modulo**

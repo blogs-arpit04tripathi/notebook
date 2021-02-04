@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hashing
-permalink: /ds/hashing
+permalink: /:collection/cs/ds/hashing
 ---
 
 **What is Hashing?**

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SQL
-permalink: /notes/dbms/sql
+permalink: /:collection/cs/dbms/sql
 ---
 
 - TOC

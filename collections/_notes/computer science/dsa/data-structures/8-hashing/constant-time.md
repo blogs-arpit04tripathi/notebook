@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Hashing gets O(1) Complexity
-permalink: /ds/hashing/constant-time
+permalink: /:collection/cs/ds/hashing/constant-time
 ---
 
 **how hashing gets O(1) if multiple elements map to the same location?**

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Computer Networks
-permalink: /computer-networks
+permalink: /:collection/cs/computer-networks/
 ---
 
 - Introduction to CN

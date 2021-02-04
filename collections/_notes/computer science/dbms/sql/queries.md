@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SQL Queries
-permalink: /notes/dbms/queries
+permalink: /:collection/cs/dbms/queries
 ---
 
 - TOC

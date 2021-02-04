@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Components of Hashing
-permalink: /ds/hashing/components
+permalink: /:collection/cs/ds/hashing/components
 ---
 
 - TOC

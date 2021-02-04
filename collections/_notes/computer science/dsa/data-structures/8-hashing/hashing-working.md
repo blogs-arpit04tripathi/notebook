@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hashing - How it works
-permalink: /ds/hashing/understanding
+permalink: /:collection/cs/ds/hashing/understanding
 ---
 
 **Print the first repeated character**

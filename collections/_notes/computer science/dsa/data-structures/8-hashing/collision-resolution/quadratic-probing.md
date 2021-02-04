@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quadratic probing
-permalink: /ds/hashing/quadratic-probing
+permalink: /:collection/cs/ds/hashing/quadratic-probing
 ---
 
 - The problem of Clustering can be reduced if we use the quadratic probing method.

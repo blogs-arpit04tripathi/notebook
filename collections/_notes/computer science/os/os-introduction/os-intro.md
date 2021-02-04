@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Operating Systems Intro
-permalink: /os/intro
+permalink: /:collection/cs/os/intro
 ---
 
 - TOC

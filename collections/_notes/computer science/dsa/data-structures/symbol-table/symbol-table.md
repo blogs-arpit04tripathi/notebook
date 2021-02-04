@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Symbol Table
-permalink: /ds/symbol-table
+permalink: /:collection/cs/ds/symbol-table
 ---
 
 - Real time examples for dictionaries

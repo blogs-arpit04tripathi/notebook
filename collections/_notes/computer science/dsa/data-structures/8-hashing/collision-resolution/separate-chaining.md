@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Separate Chaining
-permalink: /ds/hashing/separate-chaining
+permalink: /:collection/cs/ds/hashing/separate-chaining
 ---
 
 - combines linked representation with hash table.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Types of Operating Systems
-permalink: /os/types-of-os
+permalink: /:collection/cs/os/types-of-os
 ---
 
 - TOC

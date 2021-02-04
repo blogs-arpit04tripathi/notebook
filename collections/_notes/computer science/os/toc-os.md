@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Operating System
-permalink: /os
+permalink: /:collection/cs/os/
 ---
 
 **Introduction to OS**
-- [Introduction to OS](/os/intro)
-- [Types of OS](os/types-of-os)
+- [Introduction to OS](intro)
+- [Types of OS](types-of-os)
 - Services and Examples
 - Types of OS
   - Single Tasking

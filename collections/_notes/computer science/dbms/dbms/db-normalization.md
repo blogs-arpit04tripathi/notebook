@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Database Normalization
-permalink: /notes/dbms/database-normalization
+permalink: /:collection/cs/dbms/database-normalization
 ---
 
 - TOC

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Double hashing
-permalink: /ds/hashing/double-hashing
+permalink: /:collection/cs/ds/hashing/double-hashing
 ---
 
 - Double hashing reduces clustering in a better way. 

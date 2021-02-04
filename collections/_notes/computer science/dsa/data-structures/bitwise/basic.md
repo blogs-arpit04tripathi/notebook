@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Basic Bitwise Operations
-permalink: /bitwise/basic
+permalink: /:collection/cs/bitwise/basic
 ---
 
 

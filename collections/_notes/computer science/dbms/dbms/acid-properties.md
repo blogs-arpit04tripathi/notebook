@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ACID properties in DBMS
-permalink: /notes/dbms/acid-properties
+permalink: /:collection/cs/dbms/acid-properties
 ---
 
 # ACID properties in DBMS

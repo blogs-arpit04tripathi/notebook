@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Check 2 Unordered Arrays
-permalink: /ds/hashing/two-unordered-arrays
+permalink: /:collection/cs/ds/hashing/two-unordered-arrays
 ---
 
 ```

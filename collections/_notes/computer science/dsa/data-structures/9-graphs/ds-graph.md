@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Graphs
-permalink: /ds/graphs
+permalink: /:collection/cs/ds/graphs
 ---
 
 - TOC

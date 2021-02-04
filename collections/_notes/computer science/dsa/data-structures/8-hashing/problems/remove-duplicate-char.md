@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Remove Duplicate from character array
-permalink: /ds/hashing/remove-duplicate-char
+permalink: /:collection/cs/ds/hashing/remove-duplicate-char
 ---
 
 # Brute Force

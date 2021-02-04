@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hashing Questions
-permalink: /ds/hashing/problems
+permalink: /:collection/cs/ds/hashing/problems
 ---
 
 **report all pairs**

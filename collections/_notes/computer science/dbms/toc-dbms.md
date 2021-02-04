@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DBMS
-permalink: /dbms
+permalink: /:collection/cs/dbms/
 ---
 
 - TOC
@@ -10,14 +10,14 @@ permalink: /dbms
 <hr><br>
 
 # DBMS
-- [Database Normalization](/notes/dbms/database-normalization)
-- [ACID properties in DBMS](/notes/dbms/acid-properties)
+- [Database Normalization](database-normalization)
+- [ACID properties in DBMS](acid-properties)
 
 # SQL
-- [SQL](/notes/dbms/sql)
+- [SQL](sql)
 
 # Queries
-- [Queries](/notes/dbms/queries)
+- [Queries](queries)
 
 # ToDo
 - Why DBMS

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Where not to use Hashing
-permalink: /ds/hashing/not-suitable
+permalink: /:collection/cs/ds/hashing/not-suitable
 ---
 
 - Problems for which data ordering is required

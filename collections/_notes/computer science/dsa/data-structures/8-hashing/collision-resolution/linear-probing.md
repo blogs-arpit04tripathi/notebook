@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Linear probing
-permalink: /ds/hashing/linear-probing
+permalink: /:collection/cs/ds/hashing/linear-probing
 ---
 
 - interval between probes is fixed at 1.

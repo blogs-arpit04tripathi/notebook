@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hashing Techniques
-permalink: /ds/hashing/techniques
+permalink: /:collection/cs/ds/hashing/techniques
 ---
 
 1. **Static Hashing**

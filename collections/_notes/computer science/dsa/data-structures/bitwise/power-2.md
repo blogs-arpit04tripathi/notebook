@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Power of 2
-permalink: /bitwise/power-2
+permalink: /:collection/cs/bitwise/power-2
 ---
 
 

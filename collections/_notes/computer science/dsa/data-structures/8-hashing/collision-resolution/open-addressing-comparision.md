@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Comparisons - Open Addressing methods
-permalink: /ds/hashing/open-addressing-comparision
+permalink: /:collection/cs/ds/hashing/open-addressing-comparision
 ---
 
 |Linear Probing|Quadratic Probing|Double Hashing|
