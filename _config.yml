@@ -24,6 +24,9 @@ github_username:  blogs-arpit04tripathi
 # Build settings
 plugins:
   - jekyll-feed
+
+# Collections - post, notes, etc.
+collections_dir: collections
 collections:
-  src:
+  notes:
     output: true

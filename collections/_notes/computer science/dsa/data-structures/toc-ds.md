@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data Structures
-permalink: /ds
+permalink: /:collection/ds
 ---
 
 # Introduction
