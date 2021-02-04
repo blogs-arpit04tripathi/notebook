@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Testing Spring Boot
-permalink: /junit/spring-boot
+permalink: /:collection/junit/spring-boot
 ---
 
 

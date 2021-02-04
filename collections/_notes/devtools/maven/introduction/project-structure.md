@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project Structure
-permalink: /maven/project-structure
+permalink: /:collection/maven/project-structure
 ---
 
 |Directory name	|Purpose|

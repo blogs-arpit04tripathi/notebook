@@ -1,16 +1,16 @@
 ---
 layout: post
 title: Maven
-permalink: /maven
+permalink: /:collection/maven/
 ---
 
-- [Introduction to Maven](/maven/introduction)
-- [Maven Goals](/maven/goals)
-- [How Maven Works](/maven/working)
-- [Maven Repository Manager Products](/maven/repo-manager-products)
-- [Project Structure](/maven/project-structure)
-- [POM Structure](/maven/pom-structure)
-  - [GroupId naming conventions](/maven/groupid-naming-convention)
-- [Maven Build LifeCycle](/maven/build-lifeCycle)
-- [Maven Archetypes](/maven/archetypes)
-- [Maven Commands](/maven/commands)
+- [Introduction to Maven](introduction)
+- [Maven Goals](goals)
+- [How Maven Works](working)
+- [Maven Repository Manager Products](repo-manager-products)
+- [Project Structure](project-structure)
+- [POM Structure](pom-structure)
+  - [GroupId naming conventions](groupid-naming-convention)
+- [Maven Build LifeCycle](build-lifeCycle)
+- [Maven Archetypes](archetypes)
+- [Maven Commands](commands)

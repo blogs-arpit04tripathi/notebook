@@ -1,7 +1,7 @@
 ---
 layout: post
 title: URL (Uniform resource locator)
-permalink: /http/url
+permalink: /:collection/http/url
 ---
 
 - string that constitutes a reference to an Internet resource.

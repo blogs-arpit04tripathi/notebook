@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Create Users and Manage Roles
-permalink: /jenkins/user-and-roles
+permalink: /:collection/jenkins/user-and-roles
 ---
 
 Run Jenkins.war > java –jar Jenkins.war –httpPort=9080

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JUnit ToDo
-permalink: /junit/todo
+permalink: /:collection/junit/todo
 ---
 
 - What and Why

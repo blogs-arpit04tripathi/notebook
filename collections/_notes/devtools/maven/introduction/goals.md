@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Maven Goals
-permalink: /maven/goals
+permalink: /:collection/maven/goals
 ---
 
 - Maven’s primary goal is to allow a developer to comprehend the complete state of a development effort in the shortest period of time. 

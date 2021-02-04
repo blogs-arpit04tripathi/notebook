@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jenkins CLI
-permalink: /jenkins/cli
+permalink: /:collection/jenkins/cli
 ---
 
 **Why to use CLI ?**

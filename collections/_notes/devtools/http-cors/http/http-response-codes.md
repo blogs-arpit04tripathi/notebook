@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HTTP Response Codes
-permalink: /http/response-codes
+permalink: /:collection/http/response-codes
 ---
 
 

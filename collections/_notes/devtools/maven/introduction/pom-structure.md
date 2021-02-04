@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POM Structure
-permalink: /maven/pom-structure
+permalink: /:collection/maven/pom-structure
 ---
 
 - Project Object Model

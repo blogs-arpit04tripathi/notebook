@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Install Jenkins
-permalink: /jenkins/install
+permalink: /:collection/jenkins/install
 ---
 
 - Download war file for Jenkins from Jenkins.io

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JUnit 5 Architecture
-permalink: /junit/junit5-architecture
+permalink: /:collection/junit/junit5-architecture
 ---
 
 ```

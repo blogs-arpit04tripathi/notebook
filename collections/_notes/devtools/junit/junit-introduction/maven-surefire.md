@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Maven Surefire Plugin
-permalink: /junit/surefire
+permalink: /:collection/junit/surefire
 ---
 
 - To run unit test using maven command, such as in jenkins pipeline.

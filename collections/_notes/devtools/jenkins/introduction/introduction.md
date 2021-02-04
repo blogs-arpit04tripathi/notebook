@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction to Jenkins
-permalink: /jenkins/introduction
+permalink: /:collection/jenkins/introduction
 ---
 
 ***Jenkins is a java application used for continuous integration and delivery.***

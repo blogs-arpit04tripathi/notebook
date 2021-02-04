@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Setup Using git bash
-permalink: /git/setup/git-bash
+permalink: /:collection/git/setup/git-bash
 ---
 
 - [Adding an existing project to GitHub using the command line](https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line)

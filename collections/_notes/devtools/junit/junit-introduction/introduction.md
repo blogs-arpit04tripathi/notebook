@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JUnit Introduction
-permalink: /junit/introduction
+permalink: /:collection/junit/introduction
 ---
 
 **Why write Tests**  

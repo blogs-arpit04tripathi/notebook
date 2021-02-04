@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Conditional Execution
-permalink: /junit/conditional-execution
+permalink: /:collection/junit/conditional-execution
 ---
 
 ```java

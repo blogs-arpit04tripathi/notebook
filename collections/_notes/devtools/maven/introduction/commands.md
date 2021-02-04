@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Maven
-permalink: /maven/commands
+permalink: /:collection/maven/commands
 ---
 
 - [Maven All Commands](http://tutorials.jenkov.com/maven/maven-commands.html)

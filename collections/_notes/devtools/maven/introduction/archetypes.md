@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Maven Archetypes
-permalink: /maven/archetypes
+permalink: /:collection/maven/archetypes
 ---
 
 - Archetypes can be used to create new maven projects.

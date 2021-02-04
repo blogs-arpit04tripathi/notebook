@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unit Testing with @WebMvcTest
-permalink: /junit/spring-boot/webmvctest
+permalink: /:collection/junit/spring-boot/webmvctest
 ---
 
 Mock the Service layer code for our unit tests of `@Controller`.

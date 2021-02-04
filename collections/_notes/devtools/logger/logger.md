@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Logger
-permalink: /logger
+permalink: /:collection/logger/
 ---
 
 - TOC

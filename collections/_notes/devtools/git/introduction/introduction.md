@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Git
-permalink: /git/introduction
+permalink: /:collection/git/introduction
 ---
 
 ***Git is a distributed version control system.***

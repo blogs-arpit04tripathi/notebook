@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Http Request and Response Message
-permalink: /http/request-response
+permalink: /:collection/http/request-response
 ---
 
 - The request line and headers must all end with `<CR><LF>` 

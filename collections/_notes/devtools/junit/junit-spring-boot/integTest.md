@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Integration Testing with @SpringBootTest
-permalink: /junit/spring-boot/integTest
+permalink: /:collection/junit/spring-boot/integTest
 ---
 
 **Integration Tests**

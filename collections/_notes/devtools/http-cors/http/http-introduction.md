@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Http (Hypertext Transfer Protocol)
-permalink: /http/introduction
+permalink: /:collection/http/introduction
 ---
 
 - Application protocol for distributed, collaborative, hypermedia information systems. 

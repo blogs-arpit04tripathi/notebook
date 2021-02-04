@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Swagger
-permalink: /swagger
+permalink: /:collection/swagger/
 ---
 
 - TOC

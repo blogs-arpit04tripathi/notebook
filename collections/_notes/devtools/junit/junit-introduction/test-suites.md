@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Test Suites
-permalink: /junit/test-suites
+permalink: /:collection/junit/test-suites
 ---
 
 * Using **JUnit 5 test suites**, you can run tests spread into multiple test classes and different packages. 

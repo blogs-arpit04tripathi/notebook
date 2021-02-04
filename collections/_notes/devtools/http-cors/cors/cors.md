@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CORS
-permalink: /cors
+permalink: /:collection/http/cors
 ---
 
 - TOC

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Http Methods
-permalink: /http/methods
+permalink: /:collection/http/methods
 ---
 
 **Safety**

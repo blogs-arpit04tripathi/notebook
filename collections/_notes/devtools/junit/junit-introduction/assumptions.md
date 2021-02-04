@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JUnit 5 Assumptions
-permalink: /junit/assumptions
+permalink: /:collection/junit/assumptions
 ---
 
 * Assumptions class provides static methods to support conditional test execution based on assumptions. 

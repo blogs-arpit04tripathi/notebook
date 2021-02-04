@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JSON (Java Script Object Notion)
-permalink: /json
+permalink: /:collection/json/
 ---
 
 - TOC

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FixMethodOrder Annotation
-permalink: /junit/fix-method-order
+permalink: /:collection/junit/fix-method-order
 ---
 
 **How to test methods in specific order using JUnit4?**

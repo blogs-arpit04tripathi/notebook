@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Auto-Configured Tests
-permalink: /junit/spring-boot/auto-configured
+permalink: /:collection/junit/spring-boot/auto-configured
 ---
 
 One of the amazing features of Spring Boot’s auto-configured annotations is that it helps to load parts of the complete application and test specific layers of the codebase.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Change Home Directory
-permalink: /jenkins/change-home-dir
+permalink: /:collection/jenkins/change-home-dir
 ---
 
 - User Profile/.jenkins – contains info about logs, jobs, plugins, configuration etc.

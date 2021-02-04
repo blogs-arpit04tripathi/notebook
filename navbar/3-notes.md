@@ -54,9 +54,9 @@ permalink: /notes/
   - [Puzzles](others/puzzles)
 
 **FrontEnd Technologies**
-  - [Javascript](ui/js)
-  - [Bootstrap](ui/bootstrap)
+  - [Javascript](js)
+  - [Bootstrap](bootstrap)
 
 **Others**
-  - [Chrome Extn](notes/chrome-extn)
+  - [Chrome Extn](chrome-extn)
   - [Jekyll](jekyll/intro)

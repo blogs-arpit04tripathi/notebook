@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Setup Jenkins on Tomcat
-permalink: /jenkins/setup-on-tomcat
+permalink: /:collection/jenkins/setup-on-tomcat
 ---
 
 Apart from being started Jenkins on Standalone server. It can also be started on tomcat.

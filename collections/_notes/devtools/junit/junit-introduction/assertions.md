@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JUnit 5 Assertions
-permalink: /junit/assertions
+permalink: /:collection/junit/assertions
 ---
 
 

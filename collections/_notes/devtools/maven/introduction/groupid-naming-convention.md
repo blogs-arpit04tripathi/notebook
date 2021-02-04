@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GroupId naming conventions
-permalink: /maven/groupid-naming-convention
+permalink: /:collection/maven/groupid-naming-convention
 ---
 
 - [Maven groupId and package name in java source](https://stackoverflow.com/questions/5214075/maven-groupid-and-package-name-in-java-source)

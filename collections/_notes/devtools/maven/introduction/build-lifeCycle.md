@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Maven Build LifeCycle
-permalink: /maven/build-lifeCycle
+permalink: /:collection/maven/build-lifeCycle
 ---
 
 - Validate

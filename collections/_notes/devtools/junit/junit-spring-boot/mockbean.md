@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mocking with @MockBean
-permalink: /junit/spring-boot/mockbean
+permalink: /:collection/junit/spring-boot/mockbean
 ---
 
 For Unit Testing, Service layer needs to be independent of repository layer implementation.

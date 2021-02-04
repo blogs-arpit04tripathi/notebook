@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Setup Using eclipse
-permalink: /git/setup/eclipse
+permalink: /:collection/git/setup/eclipse
 ---
 
 1. Right click on your eclipse project -> Team -> Share project

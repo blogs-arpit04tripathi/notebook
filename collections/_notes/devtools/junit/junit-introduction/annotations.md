@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JUnit 5 Annotations
-permalink: /junit/annotations
+permalink: /:collection/junit/annotations
 ---
 
 

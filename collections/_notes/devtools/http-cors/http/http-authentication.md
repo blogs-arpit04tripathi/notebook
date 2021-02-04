@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Http Authentication
-permalink: /http/authentication
+permalink: /:collection/http/authentication
 ---
 
 # Transfer Layer Security (TLS / SSL)

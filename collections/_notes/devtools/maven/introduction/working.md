@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Maven Works
-permalink: /maven/working
+permalink: /:collection/maven/working
 ---
 
 - Creates local repository

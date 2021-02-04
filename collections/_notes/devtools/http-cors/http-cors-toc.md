@@ -1,16 +1,16 @@
 ---
 layout: post
 title: Http and CORS
-permalink: /http-cors
+permalink: /:collection/http/
 ---
 
 # Http
-- [Http Introduction](/http/introduction)
-- [URL (Uniform resource locator)](/http/url)
-- [Request and Response Message](/http/request-response)
-- [Http Methods](/http/methods)
-- [HTTP Response Codes](/http/response-codes)
-- [Http Authentication](/http/authentication)
+- [Http Introduction](introduction)
+- [URL (Uniform resource locator)](url)
+- [Request and Response Message](request-response)
+- [Http Methods](methods)
+- [HTTP Response Codes](response-codes)
+- [Http Authentication](authentication)
 
 # CORS
-- [CORS](/cors)
+- [CORS](cors)

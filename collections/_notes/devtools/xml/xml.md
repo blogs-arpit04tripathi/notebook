@@ -1,7 +1,7 @@
 ---
 layout: post
 title: XML (eXtensible Markup Language)
-permalink: /xml
+permalink: /:collection/xml/
 ---
 
 - TOC

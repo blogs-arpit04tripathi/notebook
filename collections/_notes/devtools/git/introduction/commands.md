@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Git Commands
-permalink: /git/commands
+permalink: /:collection/git/commands
 ---
 
 ```

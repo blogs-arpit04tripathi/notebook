@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Maven Repository Manager Products
-permalink: /maven/repo-manager-products
+permalink: /:collection/maven/repo-manager-products
 ---
 
 - Archiva --> Apache

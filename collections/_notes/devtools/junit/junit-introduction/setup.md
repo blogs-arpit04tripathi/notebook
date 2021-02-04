@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JUnit Setup
-permalink: /junit/setup
+permalink: /:collection/junit/setup
 ---
 **How to include JUnit 5 to your project ?**
 

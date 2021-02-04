@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JUnit Lifecycle
-permalink: /junit/lifecycle
+permalink: /:collection/junit/lifecycle
 ---
 
 JUnit 5 creates new instance of test class for every method run.

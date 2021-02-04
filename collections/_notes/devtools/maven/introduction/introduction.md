@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Maven Introduction
-permalink: /maven/introduction
+permalink: /:collection/maven/introduction
 ---
 
 ***Maven is a build automation tool used primarily for Java projects.***

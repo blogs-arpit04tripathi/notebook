@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Git
-permalink: /git
+permalink: /:collection/git/
 ---
 
-- [Introduction](/git/introduction)
+- [Introduction](introduction)
 - Setup
-  - [Using git bash](/git/setup/git-bash)
-  - [Using eclipse](/git/setup/eclipse)
-- [Git commands](/git/commands)
+  - [Using git bash](setup/git-bash)
+  - [Using eclipse](setup/eclipse)
+- [Git commands](commands)
