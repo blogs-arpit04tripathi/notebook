@@ -2,7 +2,7 @@
 # layout: dashboard-cards
 layout: page
 title: Notes
-permalink: /notes
+permalink: notes/
 ---
 
 [To Do Topics](todo){:target="_blank"}
