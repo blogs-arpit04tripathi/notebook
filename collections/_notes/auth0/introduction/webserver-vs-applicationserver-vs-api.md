@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Web Server vs Application Server vs API
-permalink: /auth0/webserver-vs-applicationserver-vs-api
+permalink: /:collection/auth0/webserver-vs-applicationserver-vs-api
 ---
 
 - Web Server

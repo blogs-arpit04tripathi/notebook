@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Multi Tenancy
-permalink: /auth0/multi-tenancy
+permalink: /:collection/auth0/multi-tenancy
 ---
 
 # Multi Tenancy

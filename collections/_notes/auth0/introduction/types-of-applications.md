@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Types of Applications
-permalink: /auth0/types-of-applications
+permalink: /:collection/auth0/types-of-applications
 ---
 
 - Regular Web App - 

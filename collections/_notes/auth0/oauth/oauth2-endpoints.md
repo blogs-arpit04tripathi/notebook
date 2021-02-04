@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OAuth Endpoints
-permalink: /auth0/oauth2/endpoints
+permalink: /:collection/auth0/oauth2/endpoints
 ---
 
 OAuth 2.0 utilizes two endpoints: the Authorization endpoint and the Token endpoint.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OpenID Connect (OIDC)
-permalink: /auth0/oidc
+permalink: /:collection/auth0/oidc
 ---
 
 OpenID Connect (OIDC) is an authentication protocol, based on the OAuth 2.0 family of specifications. It uses simple JSON Web Tokens (JWT), which you can obtain using flows conforming to the OAuth 2.0 specifications.

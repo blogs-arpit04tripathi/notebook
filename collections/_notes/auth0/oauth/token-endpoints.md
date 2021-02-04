@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Token endpoint
-permalink: /auth0/endpoints/token
+permalink: /:collection/auth0/endpoints/token
 ---
 
 - The Token endpoint is used by the application in order to get an Access Token or a Refresh Token. It is used by all flows, except for the Implicit Flow (since an Access Token is issued directly).

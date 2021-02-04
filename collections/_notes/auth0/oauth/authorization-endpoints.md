@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Authorization endpoint
-permalink: /auth0/endpoints/authorization
+permalink: /:collection/auth0/endpoints/authorization
 ---
 
 The Authorization endpoint is used to interact with the resource owner and get the authorization to access the protected resource.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Authentication
-permalink: /auth0/authentication
+permalink: /:collection/auth0/authentication
 ---
 
 Authentication refers to the process of confirming identity. While often used interchangeably with [authorization](https://auth0.com/docs/authorization), authentication represents a fundamentally different function.

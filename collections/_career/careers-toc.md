@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Career
-permalink: /career
+permalink: /:collection/
 ---
 
 # United Kingdom (UK)
@@ -11,6 +11,6 @@ permalink: /career
 - [gov.uk](https://www.gov.uk/){:target="_blank"}
 
 # Job Search
-- [Apply](/jobs/apply)
-- [Certifications](/career/certs)
-- [Discussion](/jobs/discussion)
+- [Apply](jobs/apply)
+- [Discussion](jobs/discussion)
+- [Certifications](certs)

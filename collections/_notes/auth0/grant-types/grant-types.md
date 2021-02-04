@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Authorization Grant Types
-permalink: /auth0/grant-types
+permalink: /:collection/auth0/grant-types
 ---
 
 The OAuth 2.0 Authorization Framework specification defines four flows to get an Access Token. These flows are called grant types. Deciding which one is suited for your case depends mostly on the type of your application.

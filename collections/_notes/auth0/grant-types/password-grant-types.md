@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Password
-permalink: /auth0/grant-types/password
+permalink: /:collection/auth0/grant-types/password
 ---
 
 ![grant-password.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/auth0/grant-password.png)

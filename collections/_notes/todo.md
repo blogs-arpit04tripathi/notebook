@@ -1,7 +1,7 @@
 ---
 layout: post
 title: To Do
-permalink: /notes/todo
+permalink: /:collection/todo/
 ---
 
 - TOC

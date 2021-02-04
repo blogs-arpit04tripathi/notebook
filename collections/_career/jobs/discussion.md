@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interview Discussion
-permalink: /jobs/discussion
+permalink: /:collection/jobs/discussion
 ---
 
 - TOC

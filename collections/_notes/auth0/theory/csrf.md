@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CSRF (Cross Site Request Forgery)
-permalink: /auth0/csrf
+permalink: /:collection/auth0/csrf
 ---
 
 # State Parameter

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Auth0 ToDo
-permalink: /auth0/todo
+permalink: /:collection/auth0/todo
 ---
 
 # Auth0 - References

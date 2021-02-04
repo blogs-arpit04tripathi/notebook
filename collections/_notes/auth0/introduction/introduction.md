@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Auth0 Introduction
-permalink: /auth0/introduction
+permalink: /:collection/auth0/introduction
 ---
 
 - Auth0 is a flexible, drop-in solution to add authentication and authorization services to your applications.

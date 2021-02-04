@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JWT (JSON Web Tokens)
-permalink: /auth0/jwt
+permalink: /:collection/auth0/jwt
 ---
 
 JWT is a self-contained authentication token that can contain information such as a user identifier, roles and permissions of a user, and anything else you might want to store in it. It can be easily read and parsed by anyone and can be verified as authentic with a secret key. 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Auth0 Terminology
-permalink: /auth0/terminology
+permalink: /:collection/auth0/terminology
 ---
 
 - [Auth0 Glossary](https://auth0.com/docs/glossary)

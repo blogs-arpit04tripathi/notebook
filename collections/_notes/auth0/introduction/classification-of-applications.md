@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Classification of Applications
-permalink: /auth0/classification-of-applications
+permalink: /:collection/auth0/classification-of-applications
 ---
 
 - Confidential Apps - Can securely hold credentials

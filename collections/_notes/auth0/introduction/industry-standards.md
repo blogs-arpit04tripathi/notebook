@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Industry Standards Used in Auth0
-permalink: /auth0/industry-standards
+permalink: /:collection/auth0/industry-standards
 ---
 
 - **Open Authorization 2 (OAuth2)**

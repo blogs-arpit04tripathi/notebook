@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apply
-permalink: /jobs/apply
+permalink: /:collection/jobs/apply
 ---
 
 - TOC

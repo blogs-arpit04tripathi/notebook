@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OAuth 2.0 Protocol
-permalink: /auth0/oauth2
+permalink: /:collection/auth0/oauth2
 ---
 
 - OAuth 2.0 is the industry-standard protocol for authorization.
