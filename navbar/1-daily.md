@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Daily
-permalink: /daily
+permalink: /daily/
 ---
 
 **Quotes**

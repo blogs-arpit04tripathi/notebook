@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring Cloud Bus
-permalink: /spring-cloud-bus
+permalink: /:collection/spring-cloud-bus
 ---
 
 **What is Spring Cloud Bus? Need for it?**

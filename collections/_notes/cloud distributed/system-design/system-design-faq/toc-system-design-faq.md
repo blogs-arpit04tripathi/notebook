@@ -1,7 +1,7 @@
 ---
 layout: post
 title: System Design FAQ
-permalink: /system-design/faq
+permalink: /:collection/system-design/faq/
 ---
 
 - [Steps To Approach A System Design Problem](/system-design/faq/how-to-approach-a-problem)

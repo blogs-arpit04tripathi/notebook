@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ECS Introduction
-permalink: /aws/ecs/introduction
+permalink: /:collection/aws/ecs/introduction
 ---
 
 - TOC

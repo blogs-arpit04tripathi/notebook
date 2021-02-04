@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Containerization
-permalink: /containerization
+permalink: /:collection/containerization/
 ---
 
 # References

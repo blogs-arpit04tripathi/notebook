@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Setting Up Docker
-permalink: /docker/setup
+permalink: /:collection/docker/setup
 ---
 
 # Installing Docker Manually

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Benefits of Docker
-permalink: /docker/benefits
+permalink: /:collection/docker/benefits
 ---
 
 The main advantages of Docker are:

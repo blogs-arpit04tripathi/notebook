@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Monitoring
-permalink: /microservices/monitoring
+permalink: /:collection/microservices/monitoring
 ---
 
 **Why Would You Need Reports and Dashboards in Microservices?**  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: System Design
-permalink: /notes/system-design
+permalink: /:collection/system-design/
 ---
 
 - TOC

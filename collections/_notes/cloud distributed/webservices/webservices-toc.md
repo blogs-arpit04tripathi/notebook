@@ -1,24 +1,24 @@
 ---
 layout: post
 title: Web Services
-permalink: /webservices
+permalink: /:collection/webservices/
 ---
 
 # References
 [Web Services Interview Questions]( http://www.softwaretestinghelp.com/web-services-interview-questions){:target="_blank"}
 
 # Webservices
-- [WebServices Introduction](/webservices/introduction)
-- [SOA - Service Oriented architecture](/webservices/soa)
-- [WS and WSDL Model](/webservices/ws-wsdl-model)
-  - [WSDL (Web service Description Language)](/webservices/wsdl)
-- [How Web Service Works](/webservices/how-webservices-work)
-  - [UDDI (Universal Description, Discovery and Integration)](/webservices/uddi)
-- [Types of Web Services](/webservices/types) - SOAP vs REST
-- [RESTful Web Services](/webservices/restful)
-- [SOAP Web Services](/webservices/soap)
-- [Web Service Protocols Layers](/webservices/protocol-layers)
-- [Web Services Security](/webservices/security)
-- [Jersey JAXB](/webservices/jaxb)
-- [JSESSIONID](/webservices/jsessionid)
-- [WebServices FAQ](/webservices/faq)
+- [WebServices Introduction](introduction)
+- [SOA - Service Oriented architecture](soa)
+- [WS and WSDL Model](ws-wsdl-model)
+  - [WSDL (Web service Description Language)](wsdl)
+- [How Web Service Works](how-webservices-work)
+  - [UDDI (Universal Description, Discovery and Integration)](uddi)
+- [Types of Web Services](types) - SOAP vs REST
+- [RESTful Web Services](restful)
+- [SOAP Web Services](soap)
+- [Web Service Protocols Layers](protocol-layers)
+- [Web Services Security](security)
+- [Jersey JAXB](jaxb)
+- [JSESSIONID](jsessionid)
+- [WebServices FAQ](faq)

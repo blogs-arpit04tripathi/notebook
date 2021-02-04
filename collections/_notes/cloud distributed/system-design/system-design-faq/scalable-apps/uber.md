@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Uber System Design
-permalink: /system-design/scalable/uber
+permalink: /:collection/system-design/scalable/uber
 ---
 
 # Reference

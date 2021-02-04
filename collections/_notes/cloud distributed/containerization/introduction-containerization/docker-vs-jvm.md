@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Docker vs JVM
-permalink: /docker/docker-vs-jvm
+permalink: /:collection/docker/docker-vs-jvm
 ---
 
 - The JVM is Java’s solution for application portability across different platforms — but Docker provides a different kind of virtualization that makes use of the guest operating system libraries, not just the Java application.

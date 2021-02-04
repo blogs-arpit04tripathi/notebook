@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Containerization Introduction
-permalink: /containerization/introduction
+permalink: /:collection/containerization/introduction
 ---
 
 **Linux container**
