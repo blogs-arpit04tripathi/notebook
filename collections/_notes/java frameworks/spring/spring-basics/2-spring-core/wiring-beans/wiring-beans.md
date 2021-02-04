@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wiring Beans
-permalink: /spring/wiring-beans
+permalink: /:collection/spring/wiring-beans
 ---
 
 - Objects aren’t responsible for finding or creating the other objects that they need to do their jobs. 

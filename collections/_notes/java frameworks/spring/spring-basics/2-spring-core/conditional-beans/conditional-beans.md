@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Conditional Beans
-permalink: /spring/conditional-beans
+permalink: /:collection/spring/conditional-beans
 ---
 
 If you want one or more beans to be configured 

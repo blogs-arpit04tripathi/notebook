@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Automatic Wiring
-permalink: /spring/automatic-wiring
+permalink: /:collection/spring/automatic-wiring
 ---
 
 ***Why bother explicitly wiring beans together if Spring can be configured to automatically do it for you?***

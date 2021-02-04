@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ECMA Script and TypeScript
-permalink: /angular/ecma-ts
+permalink: /:collection/angular/ecma-ts
 ---
 
 # ECMA Script 

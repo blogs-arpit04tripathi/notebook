@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wiring Beans with Java
-permalink: /spring/wiring-beans-with-java
+permalink: /:collection/spring/wiring-beans-with-java
 ---
 
 - When need to wire components from some third-party library where you cannot annotate its classes with @Component and @Autowired. Then you must turn to explicit configuration (Java or XML). 

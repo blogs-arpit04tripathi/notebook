@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring WebFlux
-permalink: /spring-webflux
+permalink: /:collection/spring/spring-webflux
 ---
 
 # Spring Reactive Web

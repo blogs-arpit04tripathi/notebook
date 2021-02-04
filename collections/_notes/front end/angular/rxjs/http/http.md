@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Http Calls using RxJs
-permalink: /angular/rxjs/http
+permalink: /:collection/angular/rxjs/http
 ---
 
 ![rxjs-http](https://github.com/arpit04tripathi/files-cdn/raw/cdn/angular/rxjs-http.png)

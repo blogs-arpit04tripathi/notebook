@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring Bean Definition Metadata
-permalink: /spring/bean-metadata
+permalink: /:collection/spring/bean-metadata
 ---
 
 Bean definition contains the information called configuration metadata, which is needed for the container to know the following −

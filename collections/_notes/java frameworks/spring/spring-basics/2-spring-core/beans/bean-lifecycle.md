@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lifecycle of Bean
-permalink: /spring/bean-lifecycle
+permalink: /:collection/spring/bean-lifecycle
 ---
 
 

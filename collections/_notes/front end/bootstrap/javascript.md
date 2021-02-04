@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Javascript
-permalink: /notes/ui/js
+permalink: /:collection/js
 ---
 
 - TOC

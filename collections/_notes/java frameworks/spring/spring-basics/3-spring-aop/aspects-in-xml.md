@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Declaring aspects in XML
-permalink: /spring/aop/aspects-in-xml
+permalink: /:collection/spring/aop/aspects-in-xml
 ---
 
 

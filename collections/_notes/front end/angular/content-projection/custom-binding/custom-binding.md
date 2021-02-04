@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Custom Binding - Property and Event
-permalink: /angular/custom-binding
+permalink: /:collection/angular/custom-binding
 ---
 
 - app-root - contains servers array, app-server-edit, list of app-server-element

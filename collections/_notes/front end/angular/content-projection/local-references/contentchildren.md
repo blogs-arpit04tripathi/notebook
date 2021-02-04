@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Decorator @ContentChildren()
-permalink: /angular/contentchildren
+permalink: /:collection/angular/contentchildren
 ---
 
 @ContentChildren(myPredicate) myChildComponents;

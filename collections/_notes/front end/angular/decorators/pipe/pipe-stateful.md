@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stateful Pipes
-permalink: zzz
+permalink: /:collection/angular/pipe
 ---
 
 | Pure Functions | Impure Functions |

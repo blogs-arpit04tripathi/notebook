@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Decorator @ViewChildren()
-permalink: /angular/viewchildren
+permalink: /:collection/angular/viewchildren
 ---
 
 @ViewChildren(myPredicate) myChildComponents;

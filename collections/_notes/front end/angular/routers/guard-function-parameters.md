@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Guard Function Parameters
-permalink: /angular/routers/guards/function-parameters
+permalink: /:collection/angular/routers/guards/function-parameters
 ---
 
 To help determining whether or not a guard should accept or deny access the guard function can be passed certain arguments:

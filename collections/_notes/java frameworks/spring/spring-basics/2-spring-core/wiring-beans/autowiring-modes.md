@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Autowiring Modes
-permalink: /spring/autowiring-modes
+permalink: /:collection/spring/autowiring-modes
 ---
 
 **Autowiring**

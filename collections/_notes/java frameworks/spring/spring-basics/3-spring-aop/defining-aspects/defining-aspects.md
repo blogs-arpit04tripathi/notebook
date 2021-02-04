@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Defining an aspect
-permalink: /spring/aop/defining-aspects
+permalink: /:collection/spring/aop/defining-aspects
 ---
 
 ```java

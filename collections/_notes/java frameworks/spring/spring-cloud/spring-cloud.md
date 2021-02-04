@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring Cloud
-permalink: /spring/cloud
+permalink: /:collection/spring/spring-cloud
 ---
 
 - TOC

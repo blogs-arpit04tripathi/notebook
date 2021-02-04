@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sample pom xml with starter template
-permalink: /spring-boot/starter-template/example
+permalink: /:collection/spring/spring-boot/starter-template/example
 ---
 
 - parent pom declarations allows us to manage following things for multiple child projects.

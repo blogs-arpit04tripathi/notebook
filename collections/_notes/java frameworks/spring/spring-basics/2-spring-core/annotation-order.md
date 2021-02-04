@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Annotation - @Order
-permalink: /spring/annotation/order
+permalink: /:collection/spring/annotation/order
 ---
 
 - `@Order` annotation defines the sorting order of an annotated component or bean.

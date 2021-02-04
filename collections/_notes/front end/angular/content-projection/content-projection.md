@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Content Projection
-permalink: /angular/content-projection
+permalink: /:collection/angular/content-projection
 ---
 
 ```

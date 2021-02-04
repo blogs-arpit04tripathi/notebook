@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Programming Comp
-permalink: /notes/programming/cheatsheet
+permalink: /:collection/programming/cheatsheet
 ---
 
 - TOC

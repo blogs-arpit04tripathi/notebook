@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NgRx
-permalink: /angular/ngrx
+permalink: /:collection/angular/ngrx
 ---
 
 

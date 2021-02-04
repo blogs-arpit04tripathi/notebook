@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using Local References in Templates
-permalink: /angular/local-references
+permalink: /:collection/angular/local-references
 ---
 
 - Can be used only in template, not in typescript.

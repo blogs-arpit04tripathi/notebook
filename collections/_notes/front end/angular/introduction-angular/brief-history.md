@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Angular History
-permalink: /angular/brief-history
+permalink: /:collection/angular/brief-history
 ---
 
 * Angular v1.x (AngularJS) - based on an MVC architecture.

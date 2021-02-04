@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Attribute Directives
-permalink: /angular/directive/attribute
+permalink: /:collection/angular/directive/attribute
 ---
 
 * Alter the appearance or behavior of an existing element.

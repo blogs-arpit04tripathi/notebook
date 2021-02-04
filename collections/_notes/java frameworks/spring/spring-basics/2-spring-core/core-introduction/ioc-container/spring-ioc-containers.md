@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring IOC Container
-permalink: /spring/ioc-container
+permalink: /:collection/spring/ioc-container
 ---
 
 In a Spring-based application, your application objects live in the Spring container.  

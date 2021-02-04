@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data Binding
-permalink: /angular/data-binding
+permalink: /:collection/angular/data-binding
 ---
 
 

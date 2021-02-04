@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Decorator @HostBinding()
-permalink: /angular/hosthinding
+permalink: /:collection/angular/hosthinding
 ---
 
 @HostBinding('class.valid') isValid;

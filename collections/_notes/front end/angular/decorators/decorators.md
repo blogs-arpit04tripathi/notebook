@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Decorators
-permalink: /angular/decorators
+permalink: /:collection/angular/decorators
 ---
 
 

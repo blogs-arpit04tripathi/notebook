@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Validation Template Driven
-permalink: /angular/forms/template-driven/validation
+permalink: /:collection/angular/forms/template-driven/validation
 ---
 
 ```html

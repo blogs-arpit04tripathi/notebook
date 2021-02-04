@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Debouncing Request
-permalink: /angular/rxjs/debouncing-requests
+permalink: /:collection/angular/rxjs/debouncing-requests
 ---
 
 Sending a request for every keystroke could be expensive. It's better to wait until the user stops typing and then send a request. That's easy to implement with RxJS operators.

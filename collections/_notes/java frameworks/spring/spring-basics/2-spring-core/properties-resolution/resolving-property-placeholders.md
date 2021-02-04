@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Resolving Property Placeholders
-permalink: /spring/resolving-property-placeholders
+permalink: /:collection/spring/resolving-property-placeholders
 ---
 
 -	@Value annotation in much the same way as you might use the @Autowired annotation. 

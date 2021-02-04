@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Writing pointcuts
-permalink: /spring/aop/writing-jp
+permalink: /:collection/spring/aop/writing-jp
 ---
 
 ![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-aop/joinPoint.png)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Annotation @Qualifier
-permalink: /spring/annotation/custom-qualifier
+permalink: /:collection/spring/annotation/custom-qualifier
 ---
 
 ```java

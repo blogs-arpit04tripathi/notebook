@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Importing and mixing configurations
-permalink: /spring/mixing-configs
+permalink: /:collection/spring/mixing-configs
 ---
 
 - TOC

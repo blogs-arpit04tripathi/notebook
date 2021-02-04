@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Decorator - @NgModule
-permalink: /angular/ngmodule
+permalink: /:collection/angular/ngmodule
 ---
 
 ![modules](https://github.com/arpit04tripathi/files-cdn/raw/cdn/angular/modules-app-diagram.png)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JIT vs AOT
-permalink: /angular/jit-vs-aot
+permalink: /:collection/angular/jit-vs-aot
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Angular App Bootstraps
-permalink: /angular/bootstrap
+permalink: /:collection/angular/bootstrap
 ---
 
 1. main.ts ==> `platformBrowserDynamic().bootstrapModule(AppModule)`

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Routers
-permalink: /angular/routers
+permalink: /:collection/angular/routers
 ---
 
 * Routers and router outlet

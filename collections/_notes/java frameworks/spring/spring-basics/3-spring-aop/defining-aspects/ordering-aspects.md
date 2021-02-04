@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ordering Aspects
-permalink: /spring/aop/ordering-aspects
+permalink: /:collection/spring/aop/ordering-aspects
 ---
 
 - If multiple Aspect apply on same pointcut, order is undefined by default.

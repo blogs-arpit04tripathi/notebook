@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Working with request and session scope
-permalink: /spring/bean-scopes/request-and-session-scope
+permalink: /:collection/spring/bean-scopes/request-and-session-scope
 ---
 
 -	In a web app, you may need to instantiate a bean that’s shared within the scope of a request or session. 

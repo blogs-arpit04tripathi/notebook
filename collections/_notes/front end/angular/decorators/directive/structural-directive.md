@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Structural Directives
-permalink: /angular/directive/structural
+permalink: /:collection/angular/directive/structural
 ---
 
 Alter layout structure by adding, removing, and replacing elements in DOM.

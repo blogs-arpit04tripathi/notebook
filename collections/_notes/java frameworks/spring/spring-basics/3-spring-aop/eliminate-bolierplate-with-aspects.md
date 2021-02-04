@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Eliminating boilerplate code with aspects and templates
-permalink: /spring/aop/eliminate-bolierplate-with-aspects
+permalink: /:collection/spring/aop/eliminate-bolierplate-with-aspects
 ---
 
 - **Boilerplate code** - code write over and over again to accomplish common and otherwise simple tasks.

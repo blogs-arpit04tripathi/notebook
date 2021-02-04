@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Angular Architecture
-permalink: /angular/architecture
+permalink: /:collection/angular/architecture
 ---
 
 

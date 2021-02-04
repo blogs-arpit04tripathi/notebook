@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ApplicationContext
-permalink: /spring/ioc-container/application-context
+permalink: /:collection/spring/ioc-container/application-context
 ---
 
 **Why Prefer ApplicationContext over BeanFactory?**  

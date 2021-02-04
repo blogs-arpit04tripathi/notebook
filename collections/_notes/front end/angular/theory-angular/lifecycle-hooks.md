@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LifeCycle Hooks
-permalink: /angular/lifecycle-hooks
+permalink: /:collection/angular/lifecycle-hooks
 ---
 
 

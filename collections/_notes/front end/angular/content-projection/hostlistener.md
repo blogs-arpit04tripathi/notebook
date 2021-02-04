@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Decorator @HostListener()
-permalink: /angular/hostlistener
+permalink: /:collection/angular/hostlistener
 ---
 
 @HostListener('click', ['$event']) onClick(e) {...}

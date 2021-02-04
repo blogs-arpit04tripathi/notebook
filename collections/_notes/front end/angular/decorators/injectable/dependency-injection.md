@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dependency Injection
-permalink: /angular/dependency-injection
+permalink: /:collection/angular/dependency-injection
 ---
 
 *	`@Injectable` decorator provide the metadata that allows Angular to inject it into a component as a dependency.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Angular Installation
-permalink: /angular/installation
+permalink: /:collection/angular/installation
 ---
 
 # Installation

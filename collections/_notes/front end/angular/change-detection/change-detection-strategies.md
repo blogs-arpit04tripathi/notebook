@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Change Detection Strategies
-permalink: /angular/change-detection-strategies
+permalink: /:collection/angular/change-detection-strategies
 ---
 
 # Default Strategy

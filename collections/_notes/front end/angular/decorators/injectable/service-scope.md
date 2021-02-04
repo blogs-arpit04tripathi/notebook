@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Change Scope of Service
-permalink: /angular/service-scope
+permalink: /:collection/angular/service-scope
 ---
 
 ***How to change Scope of Service? or make it singleton?***

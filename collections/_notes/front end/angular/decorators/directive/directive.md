@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Decorator - @Directive
-permalink: /angular/directive
+permalink: /:collection/angular/directive
 ---
 
 - Directives are instructions in the DOM to render templates.

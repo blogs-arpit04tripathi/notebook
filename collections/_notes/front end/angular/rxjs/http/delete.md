@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Delete Request
-permalink: /angular/rxjs/http/delete
+permalink: /:collection/angular/rxjs/http/delete
 ---
 
 ```ts

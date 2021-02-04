@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Puzzles
-permalink: /notes/others/puzzles
+permalink: /:collection/others/puzzles
 ---
 
 - TOC

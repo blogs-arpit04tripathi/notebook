@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Annotation @Qualifier
-permalink: /spring/annotation/qualifier
+permalink: /:collection/spring/annotation/qualifier
 ---
 
 - Limitation of @Primary - doesn’t limit choices to a single unambiguous option, it only designates a preferred option.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Types of Weaving
-permalink: /spring/aop/types-of-weaving
+permalink: /:collection/spring/aop/types-of-weaving
 ---
 
 The **weaving** can take place at several points in the target object’s lifetime:

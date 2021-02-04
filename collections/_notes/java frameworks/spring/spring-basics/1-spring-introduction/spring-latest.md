@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Latest in Spring
-permalink: /spring/latest
+permalink: /:collection/spring/latest
 ---
 
 # Spring 5

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Providing services
-permalink: /angular/service
+permalink: /:collection/angular/service
 ---
 
 * You must register at least one provider of any service you are going to use. You can register providers in modules or in components.

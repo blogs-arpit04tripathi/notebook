@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Angular References
-permalink: /angular/references
+permalink: /:collection/angular/references
 ---
 
 * [Angular 5 Interview Questions and Answers](https://www.code-sample.com/2017/08/angular-5-interview-questions-and.html?m=1){:target="_blank"}

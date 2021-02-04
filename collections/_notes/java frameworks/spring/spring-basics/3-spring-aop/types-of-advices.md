@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Types of Advices
-permalink: /spring/aop/types-of-advices
+permalink: /:collection/spring/aop/types-of-advices
 ---
 
 |Type|Annotation||

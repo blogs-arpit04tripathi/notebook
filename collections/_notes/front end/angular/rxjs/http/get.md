@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Get Request
-permalink: /angular/rxjs/http/get
+permalink: /:collection/angular/rxjs/http/get
 ---
 
 * The HttpClient.get() method parsed the JSON server response into the anonymous Object type. It doesn't know what the shape of that object is.

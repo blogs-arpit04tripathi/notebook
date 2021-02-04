@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Angular Topics
-permalink: /angular/topics
+permalink: /:collection/angular/topics
 ---
 
 

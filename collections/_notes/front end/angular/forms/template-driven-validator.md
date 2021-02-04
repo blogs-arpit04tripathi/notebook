@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Validator functions
-permalink: /angular/forms/template-driven/validator
+permalink: /:collection/angular/forms/template-driven/validator
 ---
 
 *	**Sync validators**: functions that take a control instance and immediately return either a set of validation errors or null. You can pass these in as the second argument when you instantiate a FormControl.

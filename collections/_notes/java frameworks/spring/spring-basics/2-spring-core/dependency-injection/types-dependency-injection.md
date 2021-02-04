@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Types Of Dependency Injection
-permalink: /spring/types-dependency-injection
+permalink: /:collection/spring/types-dependency-injection
 ---
 
 - constructor injection - for hard dependencies

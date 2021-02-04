@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Annotation @Primary
-permalink: /spring/annotation/primary
+permalink: /:collection/spring/annotation/primary
 ---
 
 -	You might declare the @Component-annotated IceCream bean as the primary choice

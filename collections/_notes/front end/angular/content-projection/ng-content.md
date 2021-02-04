@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ng-content
-permalink: /angular/ng-content
+permalink: /:collection/angular/ng-content
 ---
 
 - contents passed within the ng component selectors are projected in the component view.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Constructor vs Setter Injection
-permalink: /spring/constructor-vs-setter-injection
+permalink: /:collection/spring/constructor-vs-setter-injection
 ---
 
 |Constructor Injection                                      |	Setter Injection|

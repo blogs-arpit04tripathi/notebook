@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Annotation - @Bean 
-permalink: /spring/annotation/bean
+permalink: /:collection/spring/annotation/bean
 ---
 
 - method-level annotation, analogous of the XML <bean/> element.

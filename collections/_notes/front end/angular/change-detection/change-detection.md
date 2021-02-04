@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Change Detection
-permalink: /angular/change-detection
+permalink: /:collection/angular/change-detection
 ---
 
 * Change Detection means updating the DOM every time the data is changed.

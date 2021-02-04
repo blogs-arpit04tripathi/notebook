@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ambiguity In Autowiring
-permalink: /spring/ambiguity-in-autowiring
+permalink: /:collection/spring/ambiguity-in-autowiring
 ---
 
 -	Autowiring only works when exactly one bean matches the desired result. 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Decorator @ViewChild()
-permalink: /angular/viewchild
+permalink: /:collection/angular/viewchild
 ---
 
 - Can get access to any local reference or any other element directly from the ts code.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Types of Router Guards
-permalink: /angular/routers/guards/type
+permalink: /:collection/angular/routers/guards/type
 ---
 
 * **CanActivate** - Checks if a user can visit a route.

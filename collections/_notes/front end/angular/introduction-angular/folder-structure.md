@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Folder Structure
-permalink: /angular/folder-structure
+permalink: /:collection/angular/folder-structure
 ---
 
 # Folder Structure

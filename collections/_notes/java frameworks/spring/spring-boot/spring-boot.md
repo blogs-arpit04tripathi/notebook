@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring Boot
-permalink: /spring/boot
+permalink: /:collection/spring/spring-boot
 ---
 
 - TOC

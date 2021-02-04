@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Loose coupling through DI and interface orientation
-permalink: /spring/loose-coupling-via-di
+permalink: /:collection/spring/loose-coupling-via-di
 ---
 
 **What do you mean by Dependency Injection?**  

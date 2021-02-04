@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Attributes - @Component
-permalink: /angular/component/attributes
+permalink: /:collection/angular/component/attributes
 ---
 
 ```ts

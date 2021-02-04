@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Programming (Basics)
-permalink: /notes/programming/basics
+permalink: /:collection/programming/basics
 ---
 
 - TOC

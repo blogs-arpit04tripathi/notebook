@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Configuring profile beans
-permalink: /spring/configuring-profile-beans
+permalink: /:collection/spring/configuring-profile-beans
 ---
 
 - Environment-specific choices for Application, DB config, encryption algo, and integration with external systems.

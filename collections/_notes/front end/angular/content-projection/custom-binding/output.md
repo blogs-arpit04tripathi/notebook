@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Decorator @Output()
-permalink: /angular/output
+permalink: /:collection/angular/output
 ---
 
 

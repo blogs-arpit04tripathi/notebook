@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data Driven Form (Reactive Form)
-permalink: /angular/forms/data-driven
+permalink: /:collection/angular/forms/data-driven
 ---
 
 ```html

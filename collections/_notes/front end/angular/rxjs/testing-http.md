@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Testing HTTP requests
-permalink: /angular/testing/http
+permalink: /:collection/angular/testing/http
 ---
 
 ```ts

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Decorator - @Pipe
-permalink: /angular/pipe
+permalink: /:collection/angular/pipe
 ---
 
 * templates use pipes to improve the user experience by transforming values for display. 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Promise vs Observable
-permalink: /angular/rxjs/promise-vs-observable
+permalink: /:collection/angular/rxjs/promise-vs-observable
 ---
 
 ![promise-vs-observable](https://github.com/arpit04tripathi/files-cdn/raw/cdn/angular/promise-vs-observable.png)

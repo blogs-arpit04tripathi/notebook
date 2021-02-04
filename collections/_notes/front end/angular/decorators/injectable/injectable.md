@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Decorator - @Injectable
-permalink: /angular/injectable
+permalink: /:collection/angular/injectable
 ---
 
 * Both components and services are simply classes, with decorators that mark their type and provide metadata that tells Angular how to use them.

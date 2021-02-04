@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PUT Request
-permalink: /angular/rxjs/http/put
+permalink: /:collection/angular/rxjs/http/put
 ---
 
 ```ts

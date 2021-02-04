@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Activating profiles
-permalink: /spring/activating-profiles
+permalink: /:collection/spring/activating-profiles
 ---
 
 - Spring provides two separate properties when determining which profiles are active: 

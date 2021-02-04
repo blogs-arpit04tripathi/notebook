@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Angular 8 Introduction
-permalink: /angular/introduction
+permalink: /:collection/angular/introduction
 ---
 
 * JS Framework to create reactive SPAs.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring Core Introduction
-permalink: /spring/core/introduction
+permalink: /:collection/spring/core/introduction
 ---
 
 # Introduction to Spring

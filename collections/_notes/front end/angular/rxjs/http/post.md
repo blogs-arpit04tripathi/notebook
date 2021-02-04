@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Post Request
-permalink: /angular/rxjs/http/post
+permalink: /:collection/angular/rxjs/http/post
 ---
 
 ```ts

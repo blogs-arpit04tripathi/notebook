@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wiring with the Spring Expression Language
-permalink: /spring/wiring-with-spel
+permalink: /:collection/spring/wiring-with-spel
 ---
 
 - TOC

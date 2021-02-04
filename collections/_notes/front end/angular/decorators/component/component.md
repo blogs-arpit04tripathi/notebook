@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Decorator - @Component
-permalink: /angular/component
+permalink: /:collection/angular/component
 ---
 
 ```

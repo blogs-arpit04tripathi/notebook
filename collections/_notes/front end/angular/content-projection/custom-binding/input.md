@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Decorator @Input()
-permalink: /angular/input
+permalink: /:collection/angular/input
 ---
 
 * *Read more about [@Input](https://angular.io/api/core/Input){:target="_blank"}*

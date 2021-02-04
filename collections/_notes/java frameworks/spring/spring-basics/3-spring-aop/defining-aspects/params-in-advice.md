@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Parameters in advice
-permalink: /spring/aop/params-in-advice
+permalink: /:collection/spring/aop/params-in-advice
 ---
 
 ![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-aop/advice-with-parameters.png)

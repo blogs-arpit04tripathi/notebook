@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POJO vs Java Beans vs EJB
-permalink: /spring/pojo-bean-ejb
+permalink: /:collection/spring/pojo-bean-ejb
 ---
 
 # POJO (Plain Old Java Object) 

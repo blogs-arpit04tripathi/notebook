@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ThymeLeaf
-permalink: /spring-boot/thymeleaf
+permalink: /:collection/spring/spring-boot/thymeleaf
 ---
 
 - Java Templating Engine

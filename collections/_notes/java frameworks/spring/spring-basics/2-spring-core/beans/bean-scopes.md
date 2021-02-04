@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bean Scopes
-permalink: /spring/bean-scopes
+permalink: /:collection/spring/bean-scopes
 ---
 
 Spring supports 5 scopes, 3 of which are available only if you use a web-aware ApplicationContext.  

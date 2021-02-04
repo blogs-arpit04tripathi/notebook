@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Router Guards
-permalink: /angular/routers/guards
+permalink: /:collection/angular/routers/guards
 ---
 
 > Read full article on [Router Guards](https://codecraft.tv/courses/angular/routing/router-guards/) here.

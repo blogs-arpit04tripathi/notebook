@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Runtime value injection
-permalink: /spring/runtime-value-injection
+permalink: /:collection/spring/runtime-value-injection
 ---
 
 - Spring offers two ways of evaluating values at runtime:

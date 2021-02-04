@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Template-driven forms
-permalink: /angular/forms/template-driven
+permalink: /:collection/angular/forms/template-driven
 ---
 
 > Further Reads - [NgModule](https://angular.io/api/core/NgModule), [BrowserModule](https://angular.io/api/platform-browser/BrowserModule), [FormsModule](https://angular.io/api/forms/FormsModule), [FormControl](https://angular.io/api/forms/FormControl)

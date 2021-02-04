@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Logging
-permalink: /spring-boot/logging
+permalink: /:collection/spring/spring-boot/logging
 ---
 
 - Spring Boot comes with added support for Log4J2, Java Util Logging, and Logback.
