@@ -18,7 +18,11 @@ permalink: /notes/
   - [Java](java)
   - [Spring](spring)
   - [Hibernate](hibernate)
+
+**FrontEnd Technologies**
   - [Angular](angular)
+  - [Bootstrap](bootstrap)
+  - [Javascript](js)
 
 **Common Patterns**
   - [Design Patterns](design-patterns)
@@ -52,10 +56,6 @@ permalink: /notes/
   - [Programming Basics](programming/basics)
   - [Coding Cheatsheet](programming/cheatsheet)
   - [Puzzles](others/puzzles)
-
-**FrontEnd Technologies**
-  - [Javascript](js)
-  - [Bootstrap](bootstrap)
 
 **Others**
   - [Chrome Extn](chrome-extn)

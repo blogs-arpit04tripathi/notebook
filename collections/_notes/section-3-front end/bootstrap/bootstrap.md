@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bootstrap
-permalink: /:collection/bootstrap
+permalink: /:collection/bootstrap/
 ---
 
 - TOC

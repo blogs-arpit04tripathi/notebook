@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Javascript
-permalink: /:collection/js
+permalink: /:collection/js/
 ---
 
 - TOC
