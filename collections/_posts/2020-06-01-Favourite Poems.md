@@ -2,8 +2,7 @@
 layout: post
 title: Favourite Poems
 date: 2020-06-01 23:02:06 +0530
-categories: quotes
-permalink: /posts/poems
+permalink: /:collection/poems
 ---
 
 - TOC
