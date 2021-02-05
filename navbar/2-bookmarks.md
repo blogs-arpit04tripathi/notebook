@@ -54,13 +54,6 @@ permalink: /bookmarks/
 - [howtodoinjava](https://howtodoinjava.com){:target="_blank"}
 - [2020 - Developer RoadMap](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html){:target="_blank"}
 
-**Certifications**
-- [AWS Ramp up Guide](https://pages.awscloud.com/AWS-Traincert_Ramp-up_Guides.html){:target="_blank"}
-- [AWS Certified Cloud Practitioner Training 2020 - Full Course](https://www.youtube.com/watch?v=3hLmDS179YE){:target="_blank"}
-- [AWS Certified Developer - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=RrKRN9zRBWs&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=12){:target="_blank"}
-- [AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=Ia-UEYYR44s&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=10){:target="_blank"}
-- [AWS SysOps Administrator Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=KX_AfyrhlgQ&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=19){:target="_blank"}
-
 **ebooks**
 - [All IT Books](http://www.allitebooks.org/){:target="_blank"}
 - [All IT Books.net](https://allitbooks.net/){:target="_blank"}

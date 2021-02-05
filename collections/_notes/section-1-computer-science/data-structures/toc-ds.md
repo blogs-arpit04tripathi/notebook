@@ -4,14 +4,14 @@ title: Data Structures
 permalink: /:collection/cs/ds/
 ---
 
-# Introduction
+## Introduction
 - **Data structure** - way to store and organize data in order to facilitate access and modifications.
 - **Algorithm** - a sequence of computational steps that transform the input into the output.
 - [Data Structures Introduction](introduction)
 - [Abstract Data Types](abstract-data-types)
 - [Bitwise Programming](bitwise)
 
-# Analysis of Algorithms
+## Analysis of Algorithms
 - [Algorithms Analysis - Cheat Sheet](algorithms/analysis/cheat-sheet)
 - [Algorithms Analysis - Introduction](algorithms/analysis/intro)
 - [Asymptotic Analysis](algorithms/analysis/asymptotic)
