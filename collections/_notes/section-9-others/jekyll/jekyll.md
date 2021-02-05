@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jekyll
-permalink: /:collection/jekyll/intro
+permalink: /:collection/jekyll/
 ---
 
 - TOC

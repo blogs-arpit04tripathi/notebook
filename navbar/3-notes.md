@@ -8,11 +8,11 @@ permalink: /notes/
 [To Do Topics](todo){:target="_blank"}
 
 **CSE Subjects**
-  - [Data Structures](ds)
-  - [Algorithms](algorithms)
-  - [Operating System](os)
-  - [Computer Networks](computer-networks)
-  - [DBMS](dbms)
+  - [Data Structures](cs/ds)
+  - [Algorithms](cs/algorithms)
+  - [Operating System](cs/os)
+  - [Computer Networks](cs/computer-networks)
+  - [DBMS](cs/dbms)
 
 **Java and Frameworks**
   - [Java](java)

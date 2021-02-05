@@ -1,19 +1,18 @@
 ---
 layout: post
 title: Puzzles
-permalink: /:collection/others/puzzles
+permalink: /:collection/others/puzzles/
+toc: true
 ---
 
+{% if page.toc %}
 - TOC
 {:toc}
+<hr>
+{% endif %}
 
----
+## 8 Pennies - find lightest
 
-<!-- details sections starts here -->
-<details>
-<summary>8 Pennies - find lightest</summary>
-
----
 **Given 8 pennies, 7 weigh exactly same, one weighs less than others. You also have a judge scale. Find the one penny that weighs the least in less than 3 steps.**
  
 Step 1 - Split 8 pennies into 3 groups – { 3 , 3 , 2 }.  
@@ -28,8 +27,8 @@ Step 2 - Compare groups of 3 pennies.
 - Pick any 2 pennies out of lighter group.
     - Same weight, remaining penny is lighter.
     - Not same weight, lighter one is the lightest penny.
-</details>
-<!-- details sections starts here -->
+
+
 <details>
 <summary>Cake Cutting</summary>
 

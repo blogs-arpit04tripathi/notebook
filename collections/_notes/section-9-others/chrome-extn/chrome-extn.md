@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Extension
-permalink: /:collection/chrome-extn
+permalink: /:collection/chrome-extn/
 ---
 
 - TOC
