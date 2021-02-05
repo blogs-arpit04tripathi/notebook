@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Insertion Sort
-permalink: /algorithms/sorting/insertion-sort
+permalink: /:collection/cs/algorithms/sorting/insertion-sort
 ---
 
 ![insertion-sort.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/algorithms/sort/insertion-sort.png)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Web Services Security
-permalink: /webservices/security
+permalink: /:collection/webservices/security
 ---
 
 To ensure reliable transactions and secure confidential information, web services requires very high level of security which can be only achieved through **Entrust Secure Transaction Platform**.

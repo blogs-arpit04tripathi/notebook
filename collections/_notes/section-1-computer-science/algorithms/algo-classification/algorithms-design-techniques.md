@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Algorithms Design Techniques
-permalink: /algorithms/design-techniques
+permalink: /:collection/cs/algorithms/design-techniques
 ---
 
 - TOC

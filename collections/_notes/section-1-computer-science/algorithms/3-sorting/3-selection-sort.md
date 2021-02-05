@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Selection Sort
-permalink: /algorithms/sorting/selection-sort
+permalink: /:collection/cs/algorithms/sorting/selection-sort
 ---
 
 An in-place comparison-based algorithm in which the list is divided into two parts, the sorted part at the left end and the unsorted part at the right end. Initially, the sorted part is empty and the unsorted part is the entire list.

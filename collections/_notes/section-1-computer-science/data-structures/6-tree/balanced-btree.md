@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Balanced Binary Tree
-permalink: /ds/balanced-btree
+permalink: /:collection/cs/ds/balanced-btree
 ---
 
 - TOC

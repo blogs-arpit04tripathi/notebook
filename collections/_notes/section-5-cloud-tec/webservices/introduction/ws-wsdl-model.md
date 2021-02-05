@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WS and WSDL Model
-permalink: /webservices/ws-wsdl-model
+permalink: /:collection/webservices/ws-wsdl-model
 ---
 
 WS model of SOA uses

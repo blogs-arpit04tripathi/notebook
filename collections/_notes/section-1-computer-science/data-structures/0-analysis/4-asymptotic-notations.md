@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Asymptotic Notations
-permalink: /algorithms/analysis/asymptotic-notations
+permalink: /:collection/cs/ds/algorithms-analysis/asymptotic-notations
 ---
 
 - TOC

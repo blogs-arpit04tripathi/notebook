@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Divide and Conquer
-permalink: /algorithms/divide-and-conquer/intro
+permalink: /:collection/cs/algorithms/divide-and-conquer/intro
 ---
 
 - TOC

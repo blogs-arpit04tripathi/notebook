@@ -1,7 +1,7 @@
 ---
 layout: post
 title: UDDI (Universal Description, Discovery and Integration)
-permalink: /webservices/uddi
+permalink: /:collection/webservices/uddi
 ---
 
 - XML-based standard in the service discovery layer of web service protocol stack.

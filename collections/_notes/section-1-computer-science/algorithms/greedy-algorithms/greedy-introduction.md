@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Greedy Algorithms Introduction
-permalink: /algorithms/greedy/introduction
+permalink: /:collection/cs/algorithms/greedy/introduction
 ---
 
 **Greedy Strategy**

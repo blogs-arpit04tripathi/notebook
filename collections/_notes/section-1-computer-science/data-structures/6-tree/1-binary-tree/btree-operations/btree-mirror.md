@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Binary Tree Mirror
-permalink: /ds/btree/mirror
+permalink: /:collection/cs/ds/btree/mirror
 ---
 
 # Check areMirror

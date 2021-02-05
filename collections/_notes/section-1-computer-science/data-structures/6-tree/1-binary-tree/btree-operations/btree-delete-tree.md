@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Binary Tree - Delete Tree
-permalink: /ds/btree/delete-tree
+permalink: /:collection/cs/ds/btree/delete-tree
 ---
 
 - To delete tree, we must traverse all the nodes and delete them.

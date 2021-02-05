@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Array vs List
-permalink: /ds/array-vs-list
+permalink: /:collection/cs/ds/array-vs-list
 ---
 
 |   |Array|List|

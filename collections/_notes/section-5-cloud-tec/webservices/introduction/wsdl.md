@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WSDL (Web service Description Language)
-permalink: /webservices/wsdl
+permalink: /:collection/webservices/wsdl
 ---
 
 - Simple XML document under Service Description layer of Web Service Protocol Stack.

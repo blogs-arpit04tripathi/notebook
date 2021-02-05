@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Recursive Algorithm Analysis
-permalink: /algorithms/analysis/recursive
+permalink: /:collection/cs/ds/algorithms-analysis/recursive
 ---
 
 - TOC

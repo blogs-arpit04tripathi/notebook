@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SOA - Service Oriented architecture
-permalink: /webservices/soa
+permalink: /:collection/webservices/soa
 ---
 
 SOA is a software development model for distributed application components that incorporates discovery, access control, data mapping and security features.

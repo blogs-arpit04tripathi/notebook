@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Heap
-permalink: /ds/heap
+permalink: /:collection/cs/ds/heap/
 ---
 
 - TOC

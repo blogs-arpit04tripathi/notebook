@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Binary Tree Views
-permalink: /ds/btree/views
+permalink: /:collection/cs/ds/btree/views
 ---
 
 - TOC

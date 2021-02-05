@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Algorithms Analysis - Introduction
-permalink: /algorithms/analysis/intro
+permalink: /:collection/cs/ds/algorithms-analysis/intro
 ---
 
 **Algorithm vs Programs**

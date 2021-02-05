@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Binary Tree Search
-permalink: /ds/btree/search
+permalink: /:collection/cs/ds/btree/search
 ---
 
 - TOC

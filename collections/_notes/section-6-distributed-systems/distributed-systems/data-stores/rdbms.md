@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Relational Database
-permalink: /distributed-systems/rdbms
+permalink: /:collection/distributed-systems/rdbms
 ---
 
 **Why use RDMS at all?**

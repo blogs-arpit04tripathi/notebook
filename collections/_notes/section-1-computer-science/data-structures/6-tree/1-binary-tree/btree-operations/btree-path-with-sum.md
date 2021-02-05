@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Binary Tree Path with Sum
-permalink: /ds/btree/path-with-sum
+permalink: /:collection/cs/ds/btree/path-with-sum
 ---
 
 # Print all Paths with sum (evem for intermediate nodes)

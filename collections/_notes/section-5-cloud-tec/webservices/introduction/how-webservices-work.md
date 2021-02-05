@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Web Service Works
-permalink: /webservices/how-webservices-work
+permalink: /:collection/webservices/how-webservices-work
 ---
 
 A web service enables communication among various applications by using open standards such as HTML, XML, WSDL, and SOAP.

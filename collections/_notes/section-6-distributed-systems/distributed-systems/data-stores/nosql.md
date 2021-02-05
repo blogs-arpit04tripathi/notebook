@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NoSQL Data Stores
-permalink: /distributed-systems/nosql
+permalink: /:collection/distributed-systems/nosql
 ---
 
 - MongoDB -> Replica Set

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Segment Tree
-permalink: /ds/segment-tree
+permalink: /:collection/cs/ds/segment-tree
 ---
 
 - TOC

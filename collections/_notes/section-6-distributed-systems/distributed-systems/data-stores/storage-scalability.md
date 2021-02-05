@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Storage Scalability Introduction
-permalink: /distributed-systems/storage-scalability
+permalink: /:collection/distributed-systems/storage-scalability
 ---
 
 - no design is correct or wrong, there are just good designs and bad designs which heavily depend on the use case.

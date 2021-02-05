@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vertical scaling and Horizontal scaling
-permalink: /distributed-systems/horizontal-vertical-scaling
+permalink: /:collection/distributed-systems/horizontal-vertical-scaling
 ---
 
 - In simple terms, to scale horizontally is adding more servers.

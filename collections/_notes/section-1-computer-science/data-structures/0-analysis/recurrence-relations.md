@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Recurrence Relations
-permalink: /algorithms/analysis/recurrence-relations
+permalink: /:collection/cs/ds/algorithms-analysis/recurrence-relations
 ---
 
 - TOC

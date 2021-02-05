@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RESTful Web Services
-permalink: /webservices/restful
+permalink: /:collection/webservices/restful
 ---
 
 - Representational State Transfer

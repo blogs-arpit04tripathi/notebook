@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SLL - Insert
-permalink: /ds/sll/insert
+permalink: /:collection/cs/ds/sll/insert
 ---
 
 - TOC

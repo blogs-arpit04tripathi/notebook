@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Iterative Algorithm Analysis
-permalink: /algorithms/analysis/iterative
+permalink: /:collection/cs/ds/algorithms-analysis/iterative
 ---
 
 - TOC

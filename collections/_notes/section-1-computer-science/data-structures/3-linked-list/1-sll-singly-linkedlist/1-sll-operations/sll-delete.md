@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SLL - Delete
-permalink: /ds/sll/delete
+permalink: /:collection/cs/ds/sll/delete
 ---
 
 - TOC

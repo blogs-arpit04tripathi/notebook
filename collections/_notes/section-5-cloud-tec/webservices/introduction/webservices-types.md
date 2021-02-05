@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WebServices Types
-permalink: /webservices/types
+permalink: /:collection/webservices/types
 ---
 
 Web Services are the services available over the web.

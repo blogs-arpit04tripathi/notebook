@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Elastic Search
-permalink: /distributed-systems/elastic-search
+permalink: /:collection/distributed-systems/elastic-search
 ---
 
 - Unstructured Data Structure

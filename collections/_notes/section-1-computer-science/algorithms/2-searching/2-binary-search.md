@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Binary Search
-permalink: /algorithms/search/binary-search
+permalink: /:collection/cs/algorithms/search/binary-search
 ---
 
 - TOC

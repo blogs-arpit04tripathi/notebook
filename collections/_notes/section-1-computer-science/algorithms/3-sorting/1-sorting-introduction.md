@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sorting Introduction
-permalink: /algorithms/sorting/introduction
+permalink: /:collection/cs/algorithms/sorting/introduction
 ---
 
 - Sorting refers to arranging data in a particular order.

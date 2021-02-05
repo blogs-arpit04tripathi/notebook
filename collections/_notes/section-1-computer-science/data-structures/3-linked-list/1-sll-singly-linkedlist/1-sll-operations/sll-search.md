@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SLL - Search
-permalink: /ds/sll/search
+permalink: /:collection/cs/ds/sll/search
 ---
 
 - TOC

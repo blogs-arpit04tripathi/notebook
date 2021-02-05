@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Binary Tree Classifications
-permalink: /ds/btree/classification
+permalink: /:collection/cs/ds/btree/classification
 ---
 
 ![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/ds/tree/btree/btree-classification.png)

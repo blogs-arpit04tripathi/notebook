@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Binary Tree
-permalink: /ds/btree
+permalink: /:collection/cs/ds/btree/
 ---
 
 - TOC

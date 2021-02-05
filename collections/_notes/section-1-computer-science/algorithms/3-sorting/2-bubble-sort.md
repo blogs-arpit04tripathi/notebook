@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bubble Sort
-permalink: /algorithms/sorting/bubble-sort
+permalink: /:collection/cs/algorithms/sorting/bubble-sort
 ---
 
 ![bubble-sort.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/algorithms/sort/bubble-sort.png)

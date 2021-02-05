@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Master Slave
-permalink: /distributed-systems/masterless
+permalink: /:collection/distributed-systems/masterless
 ---
 
 - All are Master

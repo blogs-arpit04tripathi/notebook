@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trie
-permalink: /ds/trie
+permalink: /:collection/cs/ds/trie
 ---
 
 - TOC

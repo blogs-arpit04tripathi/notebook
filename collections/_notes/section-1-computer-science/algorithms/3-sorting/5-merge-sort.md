@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Merge Sort
-permalink: /algorithms/sorting/merge-sort
+permalink: /:collection/cs/algorithms/sorting/merge-sort
 ---
 
 - TOC

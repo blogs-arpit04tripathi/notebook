@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Binary Tree Delete
-permalink: /ds/btree/delete
+permalink: /:collection/cs/ds/btree/delete
 ---
 
 **Pseudo Code**

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Suffix Tree
-permalink: /ds/suffix-tree
+permalink: /:collection/cs/ds/suffix-tree
 ---
 
 - TOC

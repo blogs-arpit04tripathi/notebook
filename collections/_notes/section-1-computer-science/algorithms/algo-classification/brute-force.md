@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Brute Force Algorithms
-permalink: /algorithms/brute-force
+permalink: /:collection/cs/algorithms/brute-force
 ---
 
 Brute Force Algorithms refers to a programming style that does not include any shortcuts to improve performance, but instead relies on sheer computing power to try all possibilities until the solution to a problem is found.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Web Service Protocols Layers
-permalink: /webservices/protocol-layers
+permalink: /:collection/webservices/protocol-layers
 ---
 
 1. **Service transport**

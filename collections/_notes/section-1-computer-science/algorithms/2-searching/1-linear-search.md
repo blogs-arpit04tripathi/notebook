@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Linear Search
-permalink: /algorithms/search/linear-search
+permalink: /:collection/cs/algorithms/search/linear-search
 ---
 
 # Search Algorithms

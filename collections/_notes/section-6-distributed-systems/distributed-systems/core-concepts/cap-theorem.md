@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CAP theorem
-permalink: /distributed-systems/cap-theorem
+permalink: /:collection/distributed-systems/cap-theorem
 ---
 
 - [CAP Theorem in plain english](http://ksat.me/a-plain-english-introduction-to-cap-theorem){:target="_blank"}

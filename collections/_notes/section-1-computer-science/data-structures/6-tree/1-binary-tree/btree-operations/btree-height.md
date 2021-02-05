@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Binary Tree Height
-permalink: /ds/btree/height
+permalink: /:collection/cs/ds/btree/height
 ---
 
 ```java

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stack
-permalink: /ds/stack
+permalink: /:collection/cs/ds/stack/
 ---
 
 - TOC

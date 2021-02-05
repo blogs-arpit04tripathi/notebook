@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Big Data Problems
-permalink: /distributed-systems/big-data-problems
+permalink: /:collection/distributed-systems/big-data-problems
 ---
 
 - Network Latency

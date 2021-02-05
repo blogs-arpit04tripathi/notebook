@@ -1,6 +1,9 @@
-**Recursion**
-
 ---
+layout: post
+title: Recursion
+permalink: /:collection/cs/algorithms/recursion
+---
+
 ***table of contents***
 - [Introduction](#introduction)
 - [When to use Recursion](#when-to-use-recursion)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Replication
-permalink: /distributed-systems/replication
+permalink: /:collection/distributed-systems/replication
 ---
 
 - Replication refers to frequently copying the data across multiple machines.

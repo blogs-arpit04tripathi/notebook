@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BTree Level Order - Print levels bottom up
-permalink: /ds/btree/level-print-bottom-up
+permalink: /:collection/cs/ds/btree/level-print-bottom-up
 ---
 
 - Level Order

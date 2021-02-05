@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SOAP Web Services
-permalink: /webservices/soap
+permalink: /:collection/webservices/soap
 ---
 
 **SOAP based web services development approaches**

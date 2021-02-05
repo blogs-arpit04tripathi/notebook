@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quick Sort
-permalink: /algorithms/sorting/quick-sort
+permalink: /:collection/cs/algorithms/sorting/quick-sort
 ---
 
 - TOC

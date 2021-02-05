@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WebServices Introduction
-permalink: /webservices/introduction
+permalink: /:collection/webservices/introduction
 ---
 
 - Any service that is available over the Internet or private (intranet) networks.

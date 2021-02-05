@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Binary Tree All Paths Root to Leaf
-permalink: /ds/btree/all-paths
+permalink: /:collection/cs/ds/btree/all-paths
 ---
 
 ```java

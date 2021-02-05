@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Singly Linked List
-permalink: /ds/sll
+permalink: /:collection/cs/ds/sll/
 ---
 
 - TOC

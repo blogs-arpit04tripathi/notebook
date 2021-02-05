@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Binary Tree Size
-permalink: /ds/btree/size
+permalink: /:collection/cs/ds/btree/size
 ---
 
 ```java

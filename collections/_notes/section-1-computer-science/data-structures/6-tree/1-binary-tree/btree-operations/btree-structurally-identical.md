@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Binary Tree Structurally Identical
-permalink: /ds/btree/structurally-identical
+permalink: /:collection/cs/ds/btree/structurally-identical
 ---
 
 - Structurally Identical doesn't mean that they have same data.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Amortized Analysis
-permalink: /algorithms/analysis/amortized
+permalink: /:collection/cs/ds/algorithms-analysis/amortized
 ---
 
 - Used for algorithms where an occasional operation is very slow, but most of the other operations are faster. 

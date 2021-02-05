@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Asymptotic Analysis
-permalink: /algorithms/analysis/asymptotic
+permalink: /:collection/cs/ds/algorithms-analysis/asymptotic
 ---
 
 **Asymptotic Analysis**

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Binary Tree Insert
-permalink: /ds/btree/insert
+permalink: /:collection/cs/ds/btree/insert
 ---
 
 - For Binary Tree, order is not important.

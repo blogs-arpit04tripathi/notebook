@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sharding
-permalink: /distributed-systems/sharding
+permalink: /:collection/distributed-systems/sharding
 ---
 
 - With most huge systems, data does not fit on a single machine. In such cases, sharding refers to splitting the very large database into smaller, faster and more manageable parts called data shards.

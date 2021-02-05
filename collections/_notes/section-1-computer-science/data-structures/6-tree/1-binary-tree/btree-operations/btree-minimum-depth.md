@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Binary Tree Minimum Depth
-permalink: /ds/btree/minimum-depth
+permalink: /:collection/cs/ds/btree/minimum-depth
 ---
 
 - Minimum depth is the depth of first leaf node in the level order traversal.

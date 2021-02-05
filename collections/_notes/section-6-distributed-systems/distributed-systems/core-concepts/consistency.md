@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Consistency
-permalink: /distributed-systems/consistency
+permalink: /:collection/distributed-systems/consistency
 ---
 
 - **Consistency**

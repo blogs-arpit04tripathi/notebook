@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Linked List
-permalink: /ds/linked-list
+permalink: /:collection/cs/ds/linked-list
 ---
 
 - TOC

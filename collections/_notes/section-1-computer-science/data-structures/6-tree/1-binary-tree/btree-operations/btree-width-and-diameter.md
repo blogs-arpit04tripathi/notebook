@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Binary Tree Width and Diameter
-permalink: /ds/btree/width-and-diameter
+permalink: /:collection/cs/ds/btree/width-and-diameter
 ---
 
 # Width

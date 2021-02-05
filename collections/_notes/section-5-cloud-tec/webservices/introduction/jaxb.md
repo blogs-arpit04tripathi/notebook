@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jersey JAXB
-permalink: /webservices/jaxb
+permalink: /:collection/webservices/jaxb
 ---
 
 - Jersey Framework is a development toolkit for client-server communication with standard implementations as Java APIs.

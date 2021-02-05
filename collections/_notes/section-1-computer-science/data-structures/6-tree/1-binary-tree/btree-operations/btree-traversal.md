@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Binary Tree Traversal
-permalink: /ds/btree/traversal
+permalink: /:collection/cs/ds/btree/traversal
 ---
 
 - TOC

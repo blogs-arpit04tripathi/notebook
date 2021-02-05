@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JSESSIONID
-permalink: /webservices/jsessionid
+permalink: /:collection/webservices/jsessionid
 ---
 
 **When / what are the conditions when a JSESSIOINID is created?**

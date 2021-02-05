@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Arrays
-permalink: /ds/arrays
+permalink: /:collection/cs/ds/arrays/
 ---
 
 - TOC

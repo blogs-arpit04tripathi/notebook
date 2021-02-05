@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Queue
-permalink: /ds/queue
+permalink: /:collection/cs/ds/queue/
 ---
 
 - TOC

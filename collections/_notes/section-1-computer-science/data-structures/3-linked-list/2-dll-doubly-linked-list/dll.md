@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Doubly Linked List (DLL)
-permalink: /ds/dll
+permalink: /:collection/cs/ds/dll
 ---
 
 - TOC

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WebServices FAQ
-permalink: /webservices/faq
+permalink: /:collection/webservices/faq
 ---
 
 - TOC
