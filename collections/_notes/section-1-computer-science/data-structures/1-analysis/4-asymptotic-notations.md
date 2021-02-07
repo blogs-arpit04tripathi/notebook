@@ -7,12 +7,12 @@ permalink: /:collection/cs/ds/algorithms-analysis/asymptotic-notations
 - TOC
 {:toc}
 
-<hr><br>
+<hr>
 
 - **Asymptotic Analysis** - To have a measure of efficiency of algorithms indepent of machine-specific constants without implementing the algorithm.
 - **Asymptotic Notations** - Mathematical tools to represent time complexity of algorithms for asymptotic analysis.
 
-![o-notation.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/algorithms/analysis/o-notation.png)
+![o-notation.png]({{site.cdn}}/dsa/algorithms/analysis/o-notation.png)
 
 # Θ Notation: 
 - Bounds a function from above and below, so it defines exact asymptotic behavior.
@@ -59,7 +59,7 @@ f(n) = ο(g(n)) OR ο(g(n)) = { f(n): there exist positive constants c > 0, n0 
 such that 0 <= f(n) < c.g(n)  for all n > n0 }
 ```
 
-![little-o-example.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/algorithms/analysis/little-o-example.png)
+![little-o-example.png]({{site.cdn}}/dsa/algorithms/analysis/little-o-example.png)
 
 # Little ω asymptotic notation
 - Little omega provides strict lower bound (equality condition removed from big omega)
@@ -76,4 +76,4 @@ such that f(n) > c.g(n) ≥ 0  for all n > n0 }
 For Big Omega f(n)=Ω(g(n)), bound is 0<=c*g(n0), For little omega, it is true for all constant c>0.
 f(n) = ω(g(n)) if and only if g(n) = ο((f(n)).
 ```
-![little-omega-example.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/algorithms/analysis/little-omega-example.png)
+![little-omega-example.png]({{site.cdn}}/dsa/algorithms/analysis/little-omega-example.png)

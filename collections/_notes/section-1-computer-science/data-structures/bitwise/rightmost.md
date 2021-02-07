@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rightmost Bit Operations
-permalink: /:collection/cs/bitwise/rightmost
+permalink: /:collection/cs/ds/bitwise/rightmost
 ---
 
 

@@ -7,7 +7,7 @@ permalink: /:collection/cs/ds/algorithms-analysis/iterative
 - TOC
 {:toc}
 
-<hr><br>
+<hr>
 
 - Algorithms can be Iterative or recursive.
   - Here performance (running time) depends on the input-size. 

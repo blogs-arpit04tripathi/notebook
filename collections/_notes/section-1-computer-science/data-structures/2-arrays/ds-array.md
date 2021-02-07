@@ -52,7 +52,7 @@ DS to store homogeneous elements at contiguous locations. Size to be provided be
 
 ## 1-D Array
 
-![array.png](./images/array/array.png)
+![array.png]({{site.cdn}}/dsa/ds/array/array.png)
 
 ## MultiDimensional Array
 
@@ -66,7 +66,7 @@ int[][] intArray = new int[10][20];
 //a 3D array
 int[][][] intArray = new int[10][20][10];
 ```
-![array-2d.png](./images/array/array-2d.png)
+![array-2d.png]({{site.cdn}}/dsa/ds/array/array-2d.png)
 ```java
 int arr[][] = { {2,7,9},{3,6,1},{7,4,2} };
 int arr[][] = new int[2][];
@@ -82,13 +82,13 @@ for (int i=0; i<arr.length; i++)
 ### Jagged array
 array of arrays such that member arrays can be of different sizes, i.e., we can create a 2-D arrays but with variable number of columns in each row.
 
-![array-jaggered](./images/array/array-jaggered.png)
+![array-jaggered]({{site.cdn}}/dsa/ds/array/array-jaggered.png)
 
 # Cloning of arrays
 - 1D array, “deep copy” is performed.
 - 2D array, “shallow copy” creates only a single new array with each element array a reference to an original element array but subarrays are shared.
 
-![array-clone.png](./images/array/array-clone.png)
+![array-clone.png]({{site.cdn}}/dsa/ds/array/array-clone.png)
 
 # Arrays as Dynamic List
 
@@ -136,7 +136,7 @@ Let arr[] be {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12}
 3. Finally in third set.
     - arr[] after this step --> {4 5 `6` 7 8 `9` 10 11 `12` 1 2 `3`}
 
-![rotate-left-juggle.png](./images/array/rotate-left-juggle.png)
+![rotate-left-juggle.png]({{site.cdn}}/dsa/ds/array/rotate-left-juggle.png)
 - Time complexity: O(n)
 - Auxiliary Space: O(1)
 

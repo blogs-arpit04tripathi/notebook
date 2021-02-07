@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bitwise Programming
-permalink: /:collection/cs/bitwise/
+permalink: /:collection/cs/ds/bitwise/
 ---
 
 - [Basic Bitwise Operations](basic)

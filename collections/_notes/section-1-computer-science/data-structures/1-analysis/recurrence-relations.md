@@ -7,7 +7,7 @@ permalink: /:collection/cs/ds/algorithms-analysis/recurrence-relations
 - TOC
 {:toc}
 
-<hr><br>
+<hr>
 
 # Type 1: Divide and conquer recurrence relations
 

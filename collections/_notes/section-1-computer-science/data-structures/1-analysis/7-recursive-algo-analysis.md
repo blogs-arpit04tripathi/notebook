@@ -7,7 +7,7 @@ permalink: /:collection/cs/ds/algorithms-analysis/recursive
 - TOC
 {:toc}
 
-<hr><br>
+<hr>
 
 # Recursive Algorithm Analysis
 - Recursive algorithms are have a recurrence relation for time complexity. 
@@ -40,19 +40,19 @@ T(n) = 2T(n/2) + n <= cn/2Log(n/2) + n
 - To draw the recurrence tree, we start from the given recurrence and keep drawing till we find a pattern among levels.
 - The pattern is typically a arithmetic or geometric series.
 
-![recurrence-tree.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/algorithms/analysis/recurrence-tree.png)
+![recurrence-tree.png]({{site.cdn}}/dsa/algorithms/analysis/recurrence-tree.png)
 
 ### Master Method:
 - Master Method is a direct way to get the solution.
 - The master method works only for following type of recurrences or for recurrences that can be transformed to following type.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/algorithms/analysis/master-theorem.png)
+![]({{site.cdn}}/dsa/algorithms/analysis/master-theorem.png)
 
 **How does this work?**
 - Master method is mainly derived from recurrence tree method.
 - If we draw recurrence tree of `T(n) = aT(n/b) + f(n)`, we can see that the work done at root is f(n) and work done at all leaves is Θ(nc) where c is Logba. And the height of recurrence tree is Logbn.
 
-![master-method.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/algorithms/analysis/master-method.png)
+![master-method.png]({{site.cdn}}/dsa/algorithms/analysis/master-method.png)
 
 In recurrence tree method, we calculate total work done.
 - If the work done at leaves is polynomially more, then leaves are the dominant part, and our result becomes the work done at leaves (Case 1).

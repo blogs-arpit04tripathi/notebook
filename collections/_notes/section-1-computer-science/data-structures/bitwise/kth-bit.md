@@ -1,7 +1,7 @@
 ---
 layout: post
 title: kth Bit Operations
-permalink: /:collection/cs/bitwise/kth-bit
+permalink: /:collection/cs/ds/bitwise/kth-bit
 ---
 
 
