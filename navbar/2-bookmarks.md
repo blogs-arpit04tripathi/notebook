@@ -25,9 +25,6 @@ permalink: /bookmarks/
 - [mycodeschool](https://www.youtube.com/user/mycodeschool/playlists){:target="_blank"}
 - [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw/playlists){:target="_blank"}
 - [Tushar Roy](https://www.youtube.com/user/tusharroy2525/playlists){:target="_blank"}
-- Crash Course
-  - [DSA Crash Course - Easy to Advanced](https://www.youtube.com/watch?v=RBSGKlAvoiM){:target="_blank"}
-  - [Algorithms Course - Graph Theory Tutorial from a Google Engineer](https://www.youtube.com/watch?v=09_LlHjoEiY&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=2){:target="_blank"}
 - **GeeksForGeeks** - [Website](https://www.geeksforgeeks.org){:target="_blank"} - [Youtube](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ/playlists){:target="_blank"} - [Practice](https://practice.geeksforgeeks.org/home/){:target="_blank"}
 
 **System Design**
@@ -69,6 +66,9 @@ permalink: /bookmarks/
 ## Jekyll (Static Website Generator)
 1. [Jekyll Website](https://jekyllrb.com/docs/){:target="_blank"} - [Tutorials](https://www.youtube.com/watch?v=T1itpPvFWHI&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB){:target="_blank"}
 2. [CloudCannon](https://orange-ape.cloudvent.net/){:target="_blank"} - [GitHub](https://github.com/CloudCannon/base-jekyll-template){:target="_blank"}
-3. [Tania Rascia](https://www.taniarascia.com/){:target="_blank"}
-4. [Jekyll with BootStrap4](https://medium.com/better-programming/an-introduction-to-using-jekyll-with-bootstrap-4-6f2433afeda9){:target="_blank"}
-5. [Jekyll with Commit](https://medium.com/@mskyda/host-a-website-on-github-pages-from-a-private-repo-step-by-step-guide-7fd82b6ae65f){:target="_blank"}
+3. [Jekyll with BootStrap4](https://medium.com/better-programming/an-introduction-to-using-jekyll-with-bootstrap-4-6f2433afeda9){:target="_blank"}
+4. [Jekyll with Commit](https://medium.com/@mskyda/host-a-website-on-github-pages-from-a-private-repo-step-by-step-guide-7fd82b6ae65f){:target="_blank"}
+
+## Developers
+- [Tania Rascia](https://www.taniarascia.com/){:target="_blank"}
+- [Yuya Uzu](https://uzu.works/)

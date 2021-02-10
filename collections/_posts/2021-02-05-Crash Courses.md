@@ -9,6 +9,10 @@ permalink: /:collection/crash-courses
 - [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg){:target="_blank"}
 - [HTML5 and CSS3 From Scratch - Full Course](https://www.youtube.com/watch?v=mU6anWqZJcc){:target="_blank"}
 
+**DSA**
+- [DSA Crash Course - Easy to Advanced](https://www.youtube.com/watch?v=RBSGKlAvoiM){:target="_blank"}
+- [Algorithms Course - Graph Theory Tutorial from a Google Engineer](https://www.youtube.com/watch?v=09_LlHjoEiY&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=2){:target="_blank"}
+
 **AWS**
 - [AWS Ramp up Guide](https://pages.awscloud.com/AWS-Traincert_Ramp-up_Guides.html){:target="_blank"}
 - [AWS Certified Cloud Practitioner Training 2020 - Full Course](https://www.youtube.com/watch?v=3hLmDS179YE){:target="_blank"}
