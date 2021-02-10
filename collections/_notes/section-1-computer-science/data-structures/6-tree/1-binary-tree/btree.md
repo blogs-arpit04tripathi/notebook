@@ -16,7 +16,7 @@ permalink: /:collection/cs/ds/btree/
 - order of the elements is not important.
 - Recursive Data Structure.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/ds/tree/btree/binary-tree.png)
+![]({{site.cdn}}/cse/ds/tree/btree/binary-tree.png)
 
 # Terms Used
 - **root** - supernode of the tree ie. node without a parent.

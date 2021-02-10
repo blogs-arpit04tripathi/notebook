@@ -54,7 +54,7 @@ General Operations
 
 # Singly Linked List
 
-![](./images/ds/../list/singly-linked-list.png)
+![]({{site.cdn}}/cse/ds/list/singly-linked-list.png)
 
 
 |SLL Operations|||

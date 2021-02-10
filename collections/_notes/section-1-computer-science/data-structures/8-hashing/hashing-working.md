@@ -32,4 +32,4 @@ System.out.println("No repeated characters");
 - The process of mapping the keys to locations is called ***hashing***.
 - simple function is `key % table size`.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/ds/hashing/why-hashing.png)
+![]({{site.cdn}}/cse/ds/hashing/why-hashing.png)

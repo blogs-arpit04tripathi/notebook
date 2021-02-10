@@ -4,7 +4,7 @@ title: Binary Tree Classifications
 permalink: /:collection/cs/ds/btree/classification
 ---
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/ds/tree/btree/btree-classification.png)
+![]({{site.cdn}}/cse/ds/tree/btree/btree-classification.png)
 
 |Classification||
 |---|---|
@@ -15,7 +15,7 @@ permalink: /:collection/cs/ds/btree/classification
 
 # Full v.s. Complete Binary Trees
 
-![full-complete-perfect](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/ds/tree/btree/full-complete-perfect.png)
+![full-complete-perfect]({{site.cdn}}/cse/ds/tree/btree/full-complete-perfect.png)
 
 * In a Full Binary, number of leaf nodes is number of internal nodes plus 1
 

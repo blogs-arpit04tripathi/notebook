@@ -19,7 +19,7 @@ Suffix Tree is compressed trie of all suffixes, so following are very abstract s
 - Generate all suffixes of given text.
 - Consider all suffixes as individual words and build a compressed trie.
 
-![suffix-tree.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/ds/tree/suffix-tree.png)
+![suffix-tree.png]({{site.cdn}}/cse/ds/tree/suffix-tree.png)
 
 # Suffix Tree Examples 
 - used to find find all occurrences of the pattern in string.

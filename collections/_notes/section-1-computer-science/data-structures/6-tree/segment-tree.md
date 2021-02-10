@@ -16,7 +16,7 @@ permalink: /:collection/cs/ds/segment-tree
 - Queries also involve updation of values in given set. 
 - Segment Trees are implemented using array.
 
-![segment-tree.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/ds/tree/segment-tree.png)
+![segment-tree.png]({{site.cdn}}/cse/ds/tree/segment-tree.png)
 
 # Operations
 

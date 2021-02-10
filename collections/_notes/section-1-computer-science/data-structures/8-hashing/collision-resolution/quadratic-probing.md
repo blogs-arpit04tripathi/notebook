@@ -12,4 +12,4 @@ permalink: /:collection/cs/ds/hashing/quadratic-probing
 - Even though clustering is avoided by quadratic probing, still there are chances of clustering.
 - Both linear and quadratic probing use a probing sequence that is independent of the search key.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/ds/hashing/quadratic-probing.png)
+![]({{site.cdn}}/cse/ds/hashing/quadratic-probing.png)

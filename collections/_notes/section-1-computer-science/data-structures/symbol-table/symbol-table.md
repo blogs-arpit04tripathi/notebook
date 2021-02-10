@@ -21,6 +21,6 @@ permalink: /:collection/cs/ds/symbol-table
   - Delete a name and its attributes
 - There are only three basic operations on symbol tables: searching, inserting, and deleting.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/ds/hashing/symbol-table/dns-lookup.png)
+![]({{site.cdn}}/cse/ds/hashing/symbol-table/dns-lookup.png)
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/ds/hashing/symbol-table/symbol-table-implementations.png)
+![]({{site.cdn}}/cse/ds/hashing/symbol-table/symbol-table-implementations.png)

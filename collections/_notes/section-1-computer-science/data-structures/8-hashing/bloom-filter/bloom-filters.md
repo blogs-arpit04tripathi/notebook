@@ -28,7 +28,7 @@ permalink: /:collection/cs/ds/hashing/bloom-filters
   - false positives in the second filter become false negatives in the composite filter, which may be undesirable.
   - In this approach, readding a previously removed item is not possible, as one would have to remove it from the removed filter.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/ds/hashing/bloom-filters.png)
+![]({{site.cdn}}/cse/ds/hashing/bloom-filters.png)
 
 **Selecting hash functions**
 - k different independent hash functions.

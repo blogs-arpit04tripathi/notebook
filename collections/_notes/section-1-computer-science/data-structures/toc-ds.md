@@ -81,6 +81,7 @@ permalink: /:collection/cs/ds/
 - [Binary Tree Width and Diameter](btree/width-and-diameter) - todo
 - [Serialize and Deserialize BTree](btree/serialize-deserialize) - todo
 - [Convert binary tree](https://www.geeksforgeeks.org/convert-binary-tree-threaded-binary-tree-2/){:target="_blank"}
+- [Balanced Binary Tree](btree/balanced-btree)
 
 **Binary Search Tree (BST)**
 - [Binary Search Tree](bst)

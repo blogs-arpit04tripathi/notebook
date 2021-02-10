@@ -64,11 +64,11 @@ Self-Balancing BSTs such as AVL Tree, Red-Black Tree and Splay Tree make sure th
 
 ## isBST Check
 
-![](./images/tree/isBST.png)
+![]({{site.cdn}}/cse/ds/tree/bst/isBST.png)
 
 Use Range query rather than isSubtreeLesser and isSubtreeGreater.
 
-![](./images/tree/isBST-range-query.png)
+![]({{site.cdn}}/cse/ds/tree/bst/isBST-range-query.png)
 
 ## Delete Node
 

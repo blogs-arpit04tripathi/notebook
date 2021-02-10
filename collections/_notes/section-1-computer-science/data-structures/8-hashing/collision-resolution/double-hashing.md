@@ -8,4 +8,4 @@ permalink: /:collection/cs/ds/hashing/double-hashing
 - The increments for the probing sequence are computed by using a second hash function.
 - If the location is occupied, we probe the location h1(key) + h2(key), h1(key) + 2 * h2(key), 
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/ds/hashing/double-hashing.png)
+![]({{site.cdn}}/cse/ds/hashing/double-hashing.png)

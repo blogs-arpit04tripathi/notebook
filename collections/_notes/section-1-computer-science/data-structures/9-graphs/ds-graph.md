@@ -35,7 +35,7 @@ where n = |V|
 - Dense Graph - Too many edges - use adjacency matrix
 - Sparse Graph - Less edges - use adjacency list
 
-![graphs-terminology](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/ds/graph/graphs-terminology.png)
+![graphs-terminology]({{site.cdn}}/cse/ds/graph/graphs-terminology.png)
 
 - **Walk** - A sequence of vertices where each adjacent pair is connected by an edge.
 - **Path** - A *Walk* where no vertex or edge is repeated.
@@ -54,11 +54,11 @@ where n = |V|
 - Intracity Road Network is undirected graph.
 - Intercity Road Network is directed graph.
 
-![graph-applications](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/ds/graph/graph-applications.png)
+![graph-applications]({{site.cdn}}/cse/ds/graph/graph-applications.png)
 
 # Graph Representation
 
-![graph-representation-inefficient](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/ds/graph/graph-representation-inefficient.png)
+![graph-representation-inefficient]({{site.cdn}}/cse/ds/graph/graph-representation-inefficient.png)
 
 Most practical graphs will be sparse.
 Facebook - if 10^9 users then, each user may have 1000 friends but not all users on fb will be his friends.
@@ -67,7 +67,7 @@ total edges required = 10^9 * 1000 / 2 = 5 * 10^11 ~ 0.5 Terabyte
 total space for adjacency Matrix = 10^18 ~ 1 Petabyte
 ```
 
-![graph-representaion](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/ds/graph/graph-representaion.png)
+![graph-representaion]({{site.cdn}}/cse/ds/graph/graph-representaion.png)
 
 
 ## Graph
@@ -86,7 +86,7 @@ total space for adjacency Matrix = 10^18 ~ 1 Petabyte
 - Weighted Graph : weight associated with the edges.
 - Unweighted Graph : no weight associated to the edges.
 
-![graph-representaion.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/ds/graph/graph-representaion.png)
+![graph-representaion.png]({{site.cdn}}/cse/ds/graph/graph-representaion.png)
 
 |Time Complexities| Adjacency Matrix | Adjacency List |
 |---|---|---|

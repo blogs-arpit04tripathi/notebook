@@ -16,7 +16,7 @@ permalink: /:collection/cs/ds/trie
   - N - No. of keys
 - Using trie, we can search the tree in O(M) but the penalty is on the storage requirement.
 
-![](./images/trie/trie.png)
+![]({{site.cdn}}/cse/ds/trie/trie.png)
 
 Memory requirement of trie = 26 * k * N
 - k = length of key
@@ -54,7 +54,7 @@ struct trie_node{
 ```
 The leaf nodes are in blue.
 
-![trie.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/ds/tree/trie.png)
+![trie.png]({{site.cdn}}/cse/ds/tree/trie.png)
 
 |Complexity||
 |---|---|
