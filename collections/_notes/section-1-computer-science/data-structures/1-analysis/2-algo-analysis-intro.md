@@ -30,7 +30,7 @@ There are many problems with this approach for analysis of algorithms:
 - For some inputs, 1st algorithm performs better than the second and vice-versa – (binary vs linear search)
 - For some inputs, 1st algorithm performs better on one machine and vice-versa.
 
-![performance-sample.png]({{site.cdn}}/dsa/algorithms/analysis/performance-sample.png)
+![performance-sample.png]({{site.cdn}}/cse/algo/analysis/performance-sample.png)
 
 ```
 lg n < n^0.5 < n < n lg n < n^2 < n^3 <2^n < n!

@@ -7,7 +7,7 @@ permalink: /:collection/cs/ds/btree/
 - TOC
 {:toc}
 
-<hr><br>
+<hr>
 
 # Introduction to Trees
 

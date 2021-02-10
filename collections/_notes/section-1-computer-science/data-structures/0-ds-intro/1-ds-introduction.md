@@ -6,7 +6,7 @@ permalink: /:collection/cs/ds/introduction
 
 `Data Structure` is a way to store and organize `data` so that it can be used efficiently.
 
-![data-structures.png]({{site.cdn}}/dsa/ds/data-structures.png)
+![data-structures.png]({{site.cdn}}/cse/ds/data-structures.png)
 
 # Classification of Data Structures
 - **Linear Data Structure** - Elements are accessed in sequencial order.

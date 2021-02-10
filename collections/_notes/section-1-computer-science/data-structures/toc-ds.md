@@ -53,8 +53,9 @@ permalink: /:collection/cs/ds/
 
 # Stack
 - [Stack](stack)
-- [Stack - Implement as Array](stack/implement-as-array)
-- [Stack - Implement as LinkedList](stack/implement-as-linked-list)
+- Implementation
+  - [Stack - Implement as Array](stack/implementation/as-array)
+  - [Stack - Implement as LinkedList](stack/implementation/as-linked-list)
 
 # Queue
 - [Queue](queue)

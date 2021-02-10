@@ -18,7 +18,7 @@ Following are the steps to follow when table becomes full.
 3. Free the old table.
 If the table has space available, we simply insert new item in available space.
 
-![amortized-analysis.png]({{site.cdn}}/dsa/algorithms/analysis/amortized-analysis.png)
+![amortized-analysis.png]({{site.cdn}}/cse/algo/analysis/amortized-analysis.png)
 
 What is the time complexity of n insertions using the above scheme?
 If we use simple analysis, the worst-case cost of an insertion is O(n). Therefore, worst case cost of n inserts is n * O(n) which is O(n2). This analysis gives an upper bound, but not a tight upper bound for n insertions as all insertions don’t take Θ(n) time.

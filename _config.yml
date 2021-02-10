@@ -11,8 +11,7 @@ baseurl: "/notebook" # the subpath of your site, e.g. /blog
 iconURL: "/notebook/assets/logo/logo-arpit04tripathi.jpeg" #url/iconURL
 
 # custom variables
-cdn: https://github.com/arpit04tripathi/files-cdn/raw/cdn
-cdn-temp: https://image.shutterstock.com/image-photo
+cdn: https://raw.githubusercontent.com/blogs-arpit04tripathi/files-cdn/cdn
 
 # Setting theme
 # theme: jekyll-theme-leaf                      # For supported theme
