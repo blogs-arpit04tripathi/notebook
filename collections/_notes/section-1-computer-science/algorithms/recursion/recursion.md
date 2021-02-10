@@ -26,7 +26,7 @@ returntype recursiveFunction(int n){
 }
 ```
 
-![](./images/recursion-vs-iteration.png)
+![]({{site.cdn}}/cse/algo/recursion/recursion-vs-iteration.png)
 
 # When to use Recursion
 - When we can breakdown problem into similar sub-problems.

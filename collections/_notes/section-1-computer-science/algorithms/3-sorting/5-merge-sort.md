@@ -18,7 +18,7 @@ Merge sort is a sorting technique based on divide and conquer technique. With w
 
 Merge sort first divides the array into equal halves and then combines them in a sorted manner.
 
-![merge-sort.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/algorithms/sort/merge-sort.png)
+![merge-sort.png]({{site.cdn}}/cse/algo/sort/merge-sort.png)
 
 # Algorithm
 
@@ -83,7 +83,7 @@ MergeSort(arr[], l,  r), If r > l
  
 Preferred for sorting a linked list as slow random-access performance of a linked list makes some other algorithms (such as quicksort) perform poorly, and others (such as heapsort) completely impossible.
 
-![merge-sort-for-list.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/algorithms/sort/merge-sort-for-list.png)
+![merge-sort-for-list.png]({{site.cdn}}/cse/algo/sort/merge-sort-for-list.png)
 
 # Applications of Merge Sort
 - [Inversion Count Problem](https://www.geeksforgeeks.org/counting-inversions/){:target="_blank"}

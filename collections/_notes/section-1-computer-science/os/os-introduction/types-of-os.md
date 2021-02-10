@@ -9,7 +9,7 @@ permalink: /:collection/cs/os/types-of-os
 
 ---
 
-![types-of-os](https://github.com/arpit04tripathi/files-cdn/raw/cdn/os/types-of-os.png)
+![types-of-os]({{site.cdn}}/cse/os/types-of-os.png)
 
 # Batch OS
 - Jobs with similar needs batched together, run as a group.

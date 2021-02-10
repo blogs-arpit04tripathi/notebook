@@ -71,4 +71,4 @@ permalink: /bookmarks/
 
 ## Developers
 - [Tania Rascia](https://www.taniarascia.com/){:target="_blank"}
-- [Yuya Uzu](https://uzu.works/)
+- [Yuya Uzu](https://uzu.works/){:target="_blank"}

@@ -18,5 +18,5 @@ permalink: /:collection/cs/algorithms/search/linear-search
 ```
 Time Complexity = O(n)
 ```
-![linear-search.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/algorithms/search/linear-search.png)
+![linear-search.png]({{site.cdn}}/cse/algo/search/linear-search.png)
 

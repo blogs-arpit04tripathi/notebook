@@ -32,14 +32,14 @@ Database    |Collection of logically related data
 DBMS	    |Set of software or program that enables storing, modifying and extracting info from the DB
 Data Model	|Representation of real-world situation aboutwhich data is to be collected and stored in DB.<br>Represents logical relationship and data flow among different data elements.
 
-![business-model-integration](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dbms/sql/business-model-integration.png)
+![business-model-integration]({{site.cdn}}/cse/sql/business-model-integration.png)
 
 # SQL Process
 
 * When you are executing an SQL command for any RDBMS, the system determines the best way to carry out your request and SQL engine figures out how to interpret the task.
 * There are various components included in the process. These components are Query Dispatcher, Optimization Engines, Classic Query Engine and SQL Query Engine, etc. Classic query engine handles all non-SQL queries but SQL query engine won't handle logical files.
 
-![sql-process](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dbms/sql/sql-process.png)
+![sql-process]({{site.cdn}}/cse/sql/sql-process.png)
 
 # SQL Commands
 

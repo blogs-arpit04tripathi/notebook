@@ -10,7 +10,7 @@ The smallest element is selected from the unsorted array and swapped with the 
 
 This algorithm is not suitable for large data sets as its average and worst-case complexities are of Ο(n2), where n is the number of items.
 
-![selection-sort.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/algorithms/sort/selection-sort.png)
+![selection-sort.png]({{site.cdn}}/cse/algo/sort/selection-sort.png)
 
 **Algorithm**
 ```

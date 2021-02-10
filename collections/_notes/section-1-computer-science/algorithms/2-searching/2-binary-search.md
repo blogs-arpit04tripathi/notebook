@@ -32,7 +32,7 @@ Auxiliary Space: 
     - O(Logn) recursion call stack space, recursive implementation.
 ```
 
-![binary-search.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/algorithms/search/binary-search.png)
+![binary-search.png]({{site.cdn}}/cse/algo/search/binary-search.png)
 
 # Recursive Solution
 

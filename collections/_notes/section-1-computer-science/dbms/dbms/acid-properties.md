@@ -16,4 +16,4 @@ permalink: /:collection/cs/dbms/acid-properties
 |**Isolation**|Transactions occur independently without interference.<br>For every pair of transactions, one transaction should start execution only when the other finished execution.<br>Ensures that execution of transactions concurrently will result in a state that is equivalent to a state achieved these were executed serially in some order.|
 |**Durability**|On successful transaction completion, changes made should be permanent even if there is a system failure. Stored on non-volatile memory.<br>recovery-management component of database systems ensures the durability of transaction.|
 
-![ACID properties](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dbms/dbms/ACID%20Properties.jpg)
+![ACID properties]({{site.cdn}}/cse/dbms/ACID%20Properties.jpg)

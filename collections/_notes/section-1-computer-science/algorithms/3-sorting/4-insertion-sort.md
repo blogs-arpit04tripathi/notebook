@@ -4,7 +4,7 @@ title: Insertion Sort
 permalink: /:collection/cs/algorithms/sorting/insertion-sort
 ---
 
-![insertion-sort.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/algorithms/sort/insertion-sort.png)
+![insertion-sort.png]({{site.cdn}}/cse/algo/sort/insertion-sort.png)
 
 ```
 Time - O(n2)

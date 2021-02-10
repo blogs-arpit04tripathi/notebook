@@ -4,7 +4,7 @@ title: Bubble Sort
 permalink: /:collection/cs/algorithms/sorting/bubble-sort
 ---
 
-![bubble-sort.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/algorithms/sort/bubble-sort.png)
+![bubble-sort.png]({{site.cdn}}/cse/algo/sort/bubble-sort.png)
 
 **Algorithm**
 ```

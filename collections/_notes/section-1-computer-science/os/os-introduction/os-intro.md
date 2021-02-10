@@ -29,7 +29,7 @@ OS’s job - To help other computer programs to work by handling the details of 
 - Resource allocator
 - Manager – Memory, processes, files, security etc.
 
-![os-functions](https://github.com/arpit04tripathi/files-cdn/raw/cdn/os/os-functions.png)
+![os-functions]({{site.cdn}}/cse/os/os-functions.png)
 
 ### Goals of OS:
 - Primary - convenience
@@ -37,7 +37,7 @@ OS’s job - To help other computer programs to work by handling the details of 
 
 ## System Boot Step Sequence
 
-![system-boot-process](https://github.com/arpit04tripathi/files-cdn/raw/cdn/os/system-boot-process.png)
+![system-boot-process]({{site.cdn}}/cse/os/system-boot-process.png)
 ```
 System and Application Programs
 Computer Hardware

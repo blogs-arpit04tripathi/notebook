@@ -7,7 +7,7 @@ permalink: /:collection/cs/algorithms/design-techniques
 - TOC
 {:toc}
 
-<hr><br>
+<hr>
 
 # Classification by Implementation Method
 
