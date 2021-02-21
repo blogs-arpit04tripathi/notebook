@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stack
-permalink: /java/collections/stack
+permalink: /:collection/java/collections/stack
 ---
 
 * **Stack** is a subclass of **Vector** that implements a standard last-in, first-out stack. 

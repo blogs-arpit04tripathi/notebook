@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Comparator
-permalink: /java/collections/comparator
+permalink: /:collection/java/collections/comparator
 ---
 
 

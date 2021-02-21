@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HashSet Internal Working (How Set Ensures Uniqueness)
-permalink: /java/collections/hashset-internal-working
+permalink: /:collection/java/collections/hashset-internal-working
 ---
 
 

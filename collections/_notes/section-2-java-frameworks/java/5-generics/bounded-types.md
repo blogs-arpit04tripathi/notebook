@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bounded Types
-permalink: /java/generics/bounded-types
+permalink: /:collection/java/generics/bounded-types
 ---
 
 - TOC

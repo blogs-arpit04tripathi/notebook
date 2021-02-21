@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java8 FAQ
-permalink: /java8/faq
+permalink: /:collection/java8/faq
 ---
 
 - TOC
@@ -10,7 +10,7 @@ permalink: /java8/faq
 <hr><br>
 
 # MetaSpace Diagram?
-![metaspace](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/java8/metaspace.png)
+![metaspace]({{site.cdn}}/java/java8/metaspace.png)
 
 # What is MetaSpace in Java8? How does it differ from PermGen Space?
 * With JDK8, the permGen Space has been removed. 

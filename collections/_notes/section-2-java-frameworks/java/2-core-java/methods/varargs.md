@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VarArgs - Variable Length Arguments
-permalink: /java/varargs
+permalink: /:collection/java/varargs
 ---
 
 # Using Command-Line Arguments

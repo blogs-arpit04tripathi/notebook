@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Strings FAQ
-permalink: /java/strings/faq
+permalink: /:collection/java/strings/faq
 ---
 
 - TOC
@@ -47,4 +47,4 @@ reverse = new StringBuilder(word).reverse().toString();
 * StringBuilder append()
 * String.concat()
 
-![concat.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/strings/concat.png)
+![concat.png]({{site.cdn}}/java/strings/concat.png)

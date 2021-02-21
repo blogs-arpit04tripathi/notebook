@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Creating Multiple Threads
-permalink: /java/multithreading/creating-multiple-threads
+permalink: /:collection/java/multithreading/creating-multiple-threads
 ---
 
 ```java

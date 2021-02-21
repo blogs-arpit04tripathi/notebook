@@ -1,7 +1,7 @@
 ---
 layout: post
 title: filter()
-permalink: /java8/streams/operations/filter
+permalink: /:collection/java8/streams/operations/filter
 ---
 
 to filter elements which satisfy a certain condition.

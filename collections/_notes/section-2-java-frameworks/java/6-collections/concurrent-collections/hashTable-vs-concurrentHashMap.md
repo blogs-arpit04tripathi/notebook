@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HashTable vs ConcurrentHashMap
-permalink: /java/collections/hashTable-vs-concurrentHashMap
+permalink: /:collection/java/collections/hashTable-vs-concurrentHashMap
 ---
 
 

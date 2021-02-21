@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IdentityHashMap
-permalink: /java/collections/identityHashMap
+permalink: /:collection/java/collections/identityHashMap
 ---
 
 * It is similar to HashMap except that it uses ***reference equality when comparing elements***.

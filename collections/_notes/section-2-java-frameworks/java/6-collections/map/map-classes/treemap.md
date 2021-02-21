@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TreeMap
-permalink: /java/collections/treemap
+permalink: /:collection/java/collections/treemap
 ---
 
 * It creates maps stored in a tree structure. 
@@ -31,7 +31,7 @@ TreeMap(SortedMap<K, ? extends V> sm)
 * Rotations maintains the inorder ordering of the keys(x,y,z).
 * A rotation can be maintained in O(1) time.
 
-![red-black-tree](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/collections/red-black-tree.png)
+![red-black-tree]({{site.cdn}}/java/collections/red-black-tree.png)
 
 # Why Treemap does not allow an initial size while HashMap does?
 * HashMap re-hashes its buckets when new one gets inserted beyond the capacity.

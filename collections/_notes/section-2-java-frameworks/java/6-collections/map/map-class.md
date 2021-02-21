@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Map Classes
-permalink: /java/collections/map-class
+permalink: /:collection/java/collections/map-class
 ---
 
 |Class|Description|

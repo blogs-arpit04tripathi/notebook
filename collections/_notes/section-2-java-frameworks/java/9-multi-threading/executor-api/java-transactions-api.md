@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java Transactions API
-permalink: /java/multithreading/java-transactions-api
+permalink: /:collection/java/multithreading/java-transactions-api
 ---
 
 
@@ -13,7 +13,7 @@ permalink: /java/multithreading/java-transactions-api
 - Resource Manager (Drivers) should be XA compatible, which can help you make sure that this global transaction and distributed transaction process works well.
 - UserTransaction available through JNDI lookup. 
 
-![java-transactions-api](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/multi-threading/java-transactions-api.png)
+![java-transactions-api]({{site.cdn}}/java/multi-threading/java-transactions-api.png)
 
 ```java
 @Resource(lookup=””)

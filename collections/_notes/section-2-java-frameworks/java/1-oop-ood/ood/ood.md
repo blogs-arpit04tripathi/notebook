@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Object Oriented Design (OOD)
-permalink: /java/ood
+permalink: /:collection/java/ood
 ---
 
 - TOC
@@ -74,12 +74,12 @@ Process of planning a system of interacting objects for the purpose of solving a
 * Composition allows changing the behavior of a class at run-time by setting property during run-time and by using Interfaces to compose a class.
   * We use polymorphism which provides flexibility to replace with better implementation any time.
 
-![composition-vs-inheritance](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/oop-and-ood/composition-vs-inheritance.png)
+![composition-vs-inheritance]({{site.cdn}}/java/oop-and-ood/composition-vs-inheritance.png)
 
 ## Programming for Interface not implementation
 
 * Always ***program for the interface and not for implementation*** this will lead to flexible code which can work with any new implementation of the interface.
 * So use interface type on variables, return types of method or argument type of methods in Java.
 
-![intercepting-filter-pattern](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/oop-and-ood/intercepting-filter-pattern.png)
-![intercepting-filter-pattern-class-diagram](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/oop-and-ood/intercepting-filter-pattern-class-diagram.png)
+![intercepting-filter-pattern]({{site.cdn}}/java/oop-and-ood/intercepting-filter-pattern.png)
+![intercepting-filter-pattern-class-diagram]({{site.cdn}}/java/oop-and-ood/intercepting-filter-pattern-class-diagram.png)

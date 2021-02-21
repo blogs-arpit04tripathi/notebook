@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ways to create Object
-permalink: /java/ways-to-create-object
+permalink: /:collection/java/ways-to-create-object
 ---
 
 

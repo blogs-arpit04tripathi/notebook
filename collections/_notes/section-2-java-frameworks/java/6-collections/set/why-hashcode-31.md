@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Hashcode 31?
-permalink: /java/collections/why-hashcode-31
+permalink: /:collection/java/collections/why-hashcode-31
 ---
 
 - The number 31 was chosen because it is a prime number. 

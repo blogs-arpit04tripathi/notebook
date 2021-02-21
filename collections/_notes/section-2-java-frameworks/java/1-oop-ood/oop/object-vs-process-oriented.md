@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Object-oriented vs Process-oriented
-permalink: /java/object-vs-process-oriented
+permalink: /:collection/java/object-vs-process-oriented
 ---
 
 |Object-oriented programming|Process-oriented model|

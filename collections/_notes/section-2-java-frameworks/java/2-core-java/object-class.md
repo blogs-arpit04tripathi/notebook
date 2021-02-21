@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Object Class
-permalink: /java/object-class
+permalink: /:collection/java/object-class
 ---
 
 * Object - superclass of all classes.

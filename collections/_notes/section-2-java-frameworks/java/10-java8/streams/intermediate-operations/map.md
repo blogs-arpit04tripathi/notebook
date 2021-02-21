@@ -1,7 +1,7 @@
 ---
 layout: post
 title: map()
-permalink: /java8/streams/operations/map
+permalink: /:collection/java8/streams/operations/map
 ---
 
 * transform the elements in a stream of different type using the provided function.

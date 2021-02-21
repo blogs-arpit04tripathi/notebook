@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Packages
-permalink: /java/packages
+permalink: /:collection/java/packages
 ---
 
 

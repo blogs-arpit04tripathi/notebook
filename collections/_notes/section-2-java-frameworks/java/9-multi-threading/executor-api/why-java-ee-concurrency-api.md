@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Java EE Concurrency API
-permalink: /java/multithreading/why-java-ee-concurrency-api
+permalink: /:collection/java/multithreading/why-java-ee-concurrency-api
 ---
 
 

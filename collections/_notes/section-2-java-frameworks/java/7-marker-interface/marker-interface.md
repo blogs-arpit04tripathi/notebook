@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Marker Interface
-permalink: /java/marker-interface
+permalink: /:collection/java/marker-interface
 ---
 
 * Empty interfaces used to mark or identify a special operation.

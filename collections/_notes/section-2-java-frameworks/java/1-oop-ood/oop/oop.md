@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Object Oriented Programming (OOP)
-permalink: /java/oop
+permalink: /:collection/java/oop
 ---
 
 ```
@@ -12,7 +12,7 @@ PROGRAMMING PARADIGM :   Computer Program = code + data.
 * Object based programming language --> OOP except Inheritance.
 * Example = JavaScript and VBScript.
 
-![oop](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/oop-and-ood/oops-concept.jpg)
+![oop]({{site.cdn}}/java/oop-and-ood/oops-concept.jpg)
 
 - **Class**
   - Templates for creating objects. (Logical Entity)

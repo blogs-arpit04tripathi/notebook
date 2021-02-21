@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Atomic Operations
-permalink: /java/multithreading/atomic-operations
+permalink: /:collection/java/multithreading/atomic-operations
 ---
 
 

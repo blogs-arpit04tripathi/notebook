@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Type Wrappers
-permalink: /java/type-wrappers
+permalink: /:collection/java/type-wrappers
 ---
 
 

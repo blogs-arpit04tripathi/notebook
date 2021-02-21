@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Multi Threading ToDo
-permalink: /java/multithreading/todo
+permalink: /:collection/java/multithreading/todo
 ---
 
 - Difference between multitasking, multithreading and multiprocessing

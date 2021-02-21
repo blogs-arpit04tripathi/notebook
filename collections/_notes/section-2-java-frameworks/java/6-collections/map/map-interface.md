@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Map Interface
-permalink: /java/collections/map-interface
+permalink: /:collection/java/collections/map-interface
 ---
 
 

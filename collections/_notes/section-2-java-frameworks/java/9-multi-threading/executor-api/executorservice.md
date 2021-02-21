@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ExecutorService
-permalink: /java/multithreading/executorservice
+permalink: /:collection/java/multithreading/executorservice
 ---
 
 

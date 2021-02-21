@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ArrayList vs LinkedList
-permalink: /java/collections/arraylist-vs-linkedlist
+permalink: /:collection/java/collections/arraylist-vs-linkedlist
 ---
 
 - TOC

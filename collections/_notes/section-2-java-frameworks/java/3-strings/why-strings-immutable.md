@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why String are Immutable?
-permalink: /java/strings/why-strings-immutable
+permalink: /:collection/java/strings/why-strings-immutable
 ---
 
 

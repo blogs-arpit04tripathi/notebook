@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dictionary
-permalink: /java/collections/dictionary
+permalink: /:collection/java/collections/dictionary
 ---
 
 * **Abstract class** represents key/value storage repository and operates much like Map. 

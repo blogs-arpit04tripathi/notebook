@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Garbage Collection Monitoring
-permalink: /java/gc-monitoring
+permalink: /:collection/java/gc-monitoring
 ---
 
 - TOC

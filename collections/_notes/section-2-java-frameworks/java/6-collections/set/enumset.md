@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EnumSet Class
-permalink: /java/collections/enumset
+permalink: /:collection/java/collections/enumset
 ---
 
 

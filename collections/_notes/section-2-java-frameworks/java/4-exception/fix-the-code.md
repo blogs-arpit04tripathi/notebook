@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fix the Code
-permalink: /java/exceptions/fix-the-code
+permalink: /:collection/java/exceptions/fix-the-code
 ---
 
 - TOC

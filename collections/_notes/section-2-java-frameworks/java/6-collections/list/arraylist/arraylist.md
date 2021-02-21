@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ArrayList class
-permalink: /java/collections/arraylist
+permalink: /:collection/java/collections/arraylist
 ---
 
 * **ArrayList** - dynamic array, increase or decrease in size.

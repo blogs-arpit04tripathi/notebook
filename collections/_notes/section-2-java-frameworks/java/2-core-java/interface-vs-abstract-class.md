@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Abstract Class vs Interface
-permalink: /java/interface-vs-abstract-class
+permalink: /:collection/java/interface-vs-abstract-class
 ---
 
 |Interface|Abstract Class|

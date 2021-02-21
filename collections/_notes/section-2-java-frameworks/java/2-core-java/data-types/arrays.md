@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Arrays in Java
-permalink: /java/arrays
+permalink: /:collection/java/arrays
 ---
 
 - **Array** : common name for homogeneous collection accessible by index.
@@ -34,7 +34,7 @@ twoD[2] = new int[5];
 twoD[3] = new int[5];
 ```
 
-![2d-array](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/core-java/2d-array.png)
+![2d-array]({{site.cdn}}/java/core-java/2d-array.png)
 
 # Irregular array – sparsely populated 2D array
 

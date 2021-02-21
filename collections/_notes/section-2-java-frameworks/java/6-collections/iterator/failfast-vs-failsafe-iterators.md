@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fail-Fast vs Fail-Safe Iterators
-permalink: /java/collections/failfast-vs-failsafe-iterators
+permalink: /:collection/java/collections/failfast-vs-failsafe-iterators
 ---
 
 - TOC

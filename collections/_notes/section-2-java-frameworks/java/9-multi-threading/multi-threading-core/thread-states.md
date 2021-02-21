@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thread’s State
-permalink: /java/multithreading/thread-states
+permalink: /:collection/java/multithreading/thread-states
 ---
 
 **Thread.State** - indicates the state of the thread at the time at which the call was made (enumeration defined by Thread) 
@@ -22,7 +22,7 @@ WAITING 	|A thread that has suspended execution because it is waiting for some a
 
 * A thread’s state may change after the call to **getState( )**. Thus, getState( ) is not intended to provide a means of synchronizing threads. It’s used for debugging or for profiling a thread’s run-time characteristics.
 
-![thread-states](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/multi-threading/thread-states.png)
+![thread-states]({{site.cdn}}/java/multi-threading/thread-states.png)
 
 * The key to utilizing Java’s multithreading features effectively is to think concurrently rather than serially. 
 * For example, when you have two subsystems within a program that can execute concurrently, make them individual threads. With the careful use of multithreading, you can create very efficient programs. 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LinkedList Class
-permalink: /java/collections/linkedlist
+permalink: /:collection/java/collections/linkedlist
 ---
 
 * extends **AbstractSequentialList** and implements ***List***, ***Deque***, and ***Queue*** interfaces.

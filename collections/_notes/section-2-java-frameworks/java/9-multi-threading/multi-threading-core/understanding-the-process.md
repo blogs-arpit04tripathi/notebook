@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Understanding the process
-permalink: /java/multithreading/understanding-the-process
+permalink: /:collection/java/multithreading/understanding-the-process
 ---
 
 
-![thread-states-flow](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/multi-threading/thread-states-flow.png)
+![thread-states-flow]({{site.cdn}}/java/multi-threading/thread-states-flow.png)
 
 * The point to point explanation of the above diagram is as follows:
 	- Threads enter to acquire lock.

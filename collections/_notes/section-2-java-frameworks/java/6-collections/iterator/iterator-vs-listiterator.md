@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Iterator vs ListIterator
-permalink: /java/collections/iterator-vs-listiterator
+permalink: /:collection/java/collections/iterator-vs-listiterator
 ---
 
 |Iterator		|ListIterator	|

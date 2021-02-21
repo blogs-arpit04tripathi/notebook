@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HashMap vs ConcurrentHashMap
-permalink: /java/collections/hashmap-vs-concurrentHashMap
+permalink: /:collection/java/collections/hashmap-vs-concurrentHashMap
 ---
 
 

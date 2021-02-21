@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java Heap Memory Switches
-permalink: /java/heap-memory-switches
+permalink: /:collection/java/heap-memory-switches
 ---
 
 - Java provides a lot of memory switches that we can use to set the memory sizes and their ratios. 
@@ -20,5 +20,5 @@ VM SWITCH	|VM SWITCH DESCRIPTION
 -XX:NewRatio	|For providing ratio of old/new generation sizes. The default value is 2.
 MinMetaspaceFreeRatio<br>MaxMetaspaceFreeRatio	|minimum percentage of class metadata capacity free after **garbage collection**
 
-![heap-memory-switches](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/jvm-architecture/heap-memory-switches.png)
-![heap-memory-switches-generation](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/jvm-architecture/heap-memory-switches-generation.png)
+![heap-memory-switches]({{site.cdn}}/java/jvm-architecture/heap-memory-switches.png)
+![heap-memory-switches-generation]({{site.cdn}}/java/jvm-architecture/heap-memory-switches-generation.png)

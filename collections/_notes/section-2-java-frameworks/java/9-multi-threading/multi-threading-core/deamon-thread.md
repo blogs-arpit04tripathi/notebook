@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deamon Thread
-permalink: /java/multithreading/deamon-thread
+permalink: /:collection/java/multithreading/deamon-thread
 ---
 
 

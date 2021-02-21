@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Java Code Runs
-permalink: /java/how-java-code-runs
+permalink: /:collection/java/how-java-code-runs
 ---
 
-![how-java-code-runs](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/jvm-architecture/how-java-code-runs.png)
+![how-java-code-runs]({{site.cdn}}/java/jvm-architecture/how-java-code-runs.png)

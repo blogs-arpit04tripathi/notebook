@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Iterator vs Enumeration
-permalink: /java/collections/iterator-vs-enumeration
+permalink: /:collection/java/collections/iterator-vs-enumeration
 ---
 
 |Iterator						|Enumerator	|

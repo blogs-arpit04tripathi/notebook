@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using isAlive( ) and join( )
-permalink: /java/multithreading/isAlive-join
+permalink: /:collection/java/multithreading/isAlive-join
 ---
 
 

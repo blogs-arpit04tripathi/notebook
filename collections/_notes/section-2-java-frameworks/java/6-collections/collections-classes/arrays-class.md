@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Arrays class
-permalink: /java/collections/arrays-class
+permalink: /:collection/java/collections/arrays-class
 ---
 
 

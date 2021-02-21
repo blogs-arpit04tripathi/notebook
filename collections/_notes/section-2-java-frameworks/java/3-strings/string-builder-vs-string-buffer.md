@@ -1,7 +1,7 @@
 ---
 layout: post
 title: StringBuilder and StringBuffer
-permalink: /java/strings/string-builder-and-string-buffer
+permalink: /:collection/java/strings/string-builder-and-string-buffer
 ---
 
 # StringBuffer

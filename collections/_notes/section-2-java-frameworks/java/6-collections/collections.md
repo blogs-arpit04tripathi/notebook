@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Collections ToDo
-permalink: /java/collections-todo
+permalink: /:collection/java/collections-todo
 ---
 * Use cases for IdentityHashMap
 * Weak HashMap internals

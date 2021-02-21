@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reflection for Classes
-permalink: /java/reflection/reflection-for-classes
+permalink: /:collection/java/reflection/reflection-for-classes
 ---
 
 - TOC

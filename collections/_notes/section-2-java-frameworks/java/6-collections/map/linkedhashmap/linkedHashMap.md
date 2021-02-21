@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LinkedHashMap
-permalink: /java/collections/linkedHashMap
+permalink: /:collection/java/collections/linkedHashMap
 ---
 
 

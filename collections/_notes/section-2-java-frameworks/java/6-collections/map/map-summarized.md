@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Maps Summarized
-permalink: /java/collections/map-summarized
+permalink: /:collection/java/collections/map-summarized
 ---
 
 |Property|HashMap|TreeMap|LinkedHashMap|HashTable|

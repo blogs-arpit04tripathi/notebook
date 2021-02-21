@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hashtable
-permalink: /java/collections/hashtable
+permalink: /:collection/java/collections/hashtable
 ---
 
 

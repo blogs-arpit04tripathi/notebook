@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Optional
-permalink: /java8/optional
+permalink: /:collection/java8/optional
 ---
 
 - TOC

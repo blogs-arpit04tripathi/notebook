@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Common Tasks - FAQ Code
-permalink: /java/multithreading/common-tasks-faq-code
+permalink: /:collection/java/multithreading/common-tasks-faq-code
 ---
 
 - TOC
@@ -32,7 +32,7 @@ class TestMultitasking1 extends Thread {
 task one task one
 ```
 
-![multitask-single-thread](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/multi-threading/multitask-single-thread.png)
+![multitask-single-thread]({{site.cdn}}/java/multi-threading/multitask-single-thread.png)
 
 # Multiple Task - Multiple Threads
 **How to perform multiple tasks by multiple threads?**  
@@ -200,7 +200,7 @@ public class SharedPrinterWithWait {
 * To print an odd number, the acquire() method is called on semOdd, and since the initial permit is 1, it acquires the access successfully, prints the odd number and calls release() on semEven.
 * Calling **release()** will increment the permit by 1 for semEven, and the even thread can then successfully acquire the access and print the even number.
 
-![semaphores](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/multi-threading/semaphores.png)
+![semaphores]({{site.cdn}}/java/multi-threading/semaphores.png)
 
 ```java
 public static void main(String[] args) {

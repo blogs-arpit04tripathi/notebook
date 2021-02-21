@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java Memory Model
-permalink: /java/multithreading/java-memory-model
+permalink: /:collection/java/multithreading/java-memory-model
 ---
 
 - TOC
@@ -29,7 +29,7 @@ permalink: /java/multithreading/java-memory-model
 - Static class variables are also stored on the heap along with the class definition.
 - 2 threads calling same method of object at the same time, both will have access to the object's member variables, but each thread will have its own copy of the local variables.
 
-![jmm](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/multi-threading/jmm.png)
+![jmm]({{site.cdn}}/java/multi-threading/jmm.png)
 
 # Hardware Memory Architecture
 
@@ -46,14 +46,14 @@ permalink: /java/multithreading/java-memory-model
 - It does not have to read / write the full cache each time it is updated. 
 - Cache is updated in smaller memory blocks called "**cache lines**". One or more cache lines may be read into the cache memory, and one or more cache lines may be flushed back to main memory.
 
-![hardware-memory-architecture](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/multi-threading/hardware-memory-architecture.png)
+![hardware-memory-architecture]({{site.cdn}}/java/multi-threading/hardware-memory-architecture.png)
 
 # Bridging the Gap Between JMM And Hardware Memory Architecture
 
 - JMM and the hardware memory architecture are different.
 - Hardware memory architecture does not distinguish between thread stacks and heap as both the thread stack and the heap are located in main memory. Parts of the thread stacks and heap may sometimes be present in CPU caches and in internal CPU registers.
 
-![jmm-hardware-mapping](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/multi-threading/jmm-hardware-mapping.png)
+![jmm-hardware-mapping]({{site.cdn}}/java/multi-threading/jmm-hardware-mapping.png)
 
 - When objects and variables can be stored in various different memory areas in the computer, certain problems may occur. 
 - The two main problems are:
@@ -65,8 +65,8 @@ permalink: /java/multithreading/java-memory-model
 - Without ***volatile declarations*** or ***synchronization***, updates to shared object by 1 thread may not be visible to others and each thread may end up having its own copy of the shared object sitting in its CPU cache.
 - ***Solution*** - use [volatile keyword](http://tutorials.jenkov.com/java-concurrency/volatile.html), makes sure that the shared variable is read directly from main memory, and always written back to main memory when updated.
 
-![shared-object-visibility-default](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/multi-threading/shared-object-visibility-default.png)
-![shared-object-visibility-volatile](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/multi-threading/shared-object-visibility-volatile.png)
+![shared-object-visibility-default]({{site.cdn}}/java/multi-threading/shared-object-visibility-default.png)
+![shared-object-visibility-volatile]({{site.cdn}}/java/multi-threading/shared-object-visibility-volatile.png)
 
 # Race Conditions
 

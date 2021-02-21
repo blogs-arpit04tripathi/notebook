@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Serialization and Externalization
-permalink: /java/marker-interface/serialization-and-externalization
+permalink: /:collection/java/marker-interface/serialization-and-externalization
 ---
 
 - TOC
@@ -11,7 +11,7 @@ permalink: /java/marker-interface/serialization-and-externalization
 
 # Serialization
 
-![serialization-deserialization](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/marker-interface/serialization-deserialization.png)
+![serialization-deserialization]({{site.cdn}}/java/marker-interface/serialization-deserialization.png)
 
 * to convert Object into a binary format which can be persisted into disk or sent over network.
 * Java Serialization API - `java.io.Serializable`, `java.io.Externalizable`, `ObjectInputStream` and `ObjectOutputStream`.
@@ -90,7 +90,7 @@ class CustomizedSerializationDemo {
 }
 ```
 
-![default-serialization-deserialization](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/marker-interface/default-serialization-deserialization.png)
+![default-serialization-deserialization]({{site.cdn}}/java/marker-interface/default-serialization-deserialization.png)
 
 ### Suppose super class of a new class implement Serializable interface, how can you avoid new class to being serialized?
 * Child class is already Serializable here and we ***can not unimplemented it***. 

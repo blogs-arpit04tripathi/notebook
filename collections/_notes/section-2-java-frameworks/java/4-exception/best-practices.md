@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best Practices for Exception Handling
-permalink: /java/exceptions/best-practices
+permalink: /:collection/java/exceptions/best-practices
 ---
 
 

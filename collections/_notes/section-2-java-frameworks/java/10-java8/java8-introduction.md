@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java 8 Introduction
-permalink: /java8/introduction
+permalink: /:collection/java8/introduction
 ---
 
 # Why do we need change to Java again?

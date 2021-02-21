@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Inter-Thread Communication
-permalink: /java/multithreading/inter-thread-communication
+permalink: /:collection/java/multithreading/inter-thread-communication
 ---
 
 - TOC

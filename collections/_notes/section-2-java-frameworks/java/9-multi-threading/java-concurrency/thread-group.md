@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ThreadGroup
-permalink: /java/multithreading/thread-group
+permalink: /:collection/java/multithreading/thread-group
 ---
 
 

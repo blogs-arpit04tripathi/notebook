@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reflection for Methods
-permalink: /java/reflection/reflection-for-methods
+permalink: /:collection/java/reflection/reflection-for-methods
 ---
 
 # getMethod()

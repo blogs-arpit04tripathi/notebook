@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fork Join Framework
-permalink: /java/multithreading/fork-join-framework
+permalink: /:collection/java/multithreading/fork-join-framework
 ---
 
 
@@ -27,7 +27,7 @@ RecursiveTask | a task which returns a value, extends ForkJoinTask.
 public static ForkJoinPool forkJoinPool = new ForkJoinPool(2);
 ```
 
-![fork-join-pool](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/multi-threading/fork-join-pool.png)
+![fork-join-pool]({{site.cdn}}/java/multi-threading/fork-join-pool.png)
 
 ```java
 class Writer extends RecursiveAction {

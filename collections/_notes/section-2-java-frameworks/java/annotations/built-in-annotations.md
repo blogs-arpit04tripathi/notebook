@@ -12,7 +12,7 @@ permalink: /:collection/annotations/built-in-annotations
 * **@Target** - types of items allowed for annotation and takes one argument, array of constants of the ElementType enumeration.
 * If you don't use @Target, all are allowed except type parameters.
 
-![annotations-target.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/reflection/annotations-target.png)
+![annotations-target.png]({{site.cdn}}/java/reflection/annotations-target.png)
 
 ```java
 @Target( { ElementType.FIELD, ElementType.LOCAL_VARIABLE } )

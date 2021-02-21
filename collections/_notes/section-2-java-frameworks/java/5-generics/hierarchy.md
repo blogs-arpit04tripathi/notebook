@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Generic Class Hierarchies
-permalink: /java/generics/hierarchy
+permalink: /:collection/java/generics/hierarchy
 ---
 
 - TOC

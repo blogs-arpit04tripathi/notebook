@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Java’s Magic - The ByteCode
-permalink: /java/bytecodes
+permalink: /:collection/java/bytecodes
 ---
 
-![bytecode](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/core-java/bytecode.png)
+![bytecode]({{site.cdn}}/java/core-java/bytecode.png)
 
 - **Bytecode**
   - highly optimized set of instructions executed by JVM.

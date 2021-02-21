@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ScheduledExecutorService
-permalink: /java/multithreading/scheduledExecutorService
+permalink: /:collection/java/multithreading/scheduledExecutorService
 ---
 
 - ScheduledExecutorService is used to schedule command executions after a given delay or periodically.
@@ -31,4 +31,4 @@ scheduledExecutorService.scheduleWithFixedDelay(command3, 10L, 5L, TimeUnit.SECO
 4. UserProcessor, callable with userRec as String and Dao. 
 5. MainExecutor, read all lines in to list and forEach submit callable.
 
-![custom-thread-factory-usecase](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/multi-threading/custom-thread-factory-usecase.png)
+![custom-thread-factory-usecase]({{site.cdn}}/java/multi-threading/custom-thread-factory-usecase.png)

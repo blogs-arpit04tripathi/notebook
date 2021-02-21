@@ -1,7 +1,7 @@
 ---
 layout: post
 title: String Interning
-permalink: /java/strings/string-interning
+permalink: /:collection/java/strings/string-interning
 ---
 
 

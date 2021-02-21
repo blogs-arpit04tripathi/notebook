@@ -1,7 +1,7 @@
 ---
 layout: post
 title: volatile Keyword
-permalink: /java/multithreading/volatile
+permalink: /:collection/java/multithreading/volatile
 ---
 
 
@@ -22,7 +22,7 @@ class SharedObj {
 * Suppose that two threads are working on **SharedObj**. If two threads run on different processors each thread may have its own local copy of **sharedVar**.
 * If one thread modifies its value the change might not reflect in the original one in the main memory instantly. This depends on the [write policy](https://en.wikipedia.org/wiki/CPU_cache#Write_policies) of cache. Now the other thread is not aware of the modified value which leads to data inconsistency.
 
-![volatile](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/multi-threading/volatile.png)
+![volatile]({{site.cdn}}/java/multi-threading/volatile.png)
 
 # Write Policy
 * The timing of writing data from cache to main memory is known as the **write policy**.

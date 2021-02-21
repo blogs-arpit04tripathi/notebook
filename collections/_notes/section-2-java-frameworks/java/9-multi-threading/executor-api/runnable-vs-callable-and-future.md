@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Runnable vs Callable and Future
-permalink: /java/multithreading/runnable-vs-callable-and-future
+permalink: /:collection/java/multithreading/runnable-vs-callable-and-future
 ---
 
 # Runnable

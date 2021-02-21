@@ -1,7 +1,7 @@
 ---
 layout: post
 title: count()
-permalink: /java8/streams/operations/count
+permalink: /:collection/java8/streams/operations/count
 ---
 
 * Count is a terminal operation returning the number of elements in the stream as a long.

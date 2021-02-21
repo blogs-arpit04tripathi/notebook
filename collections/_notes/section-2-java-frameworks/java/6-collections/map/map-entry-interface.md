@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Map.Entry Interface
-permalink: /java/collections/map-entry-interface
+permalink: /:collection/java/collections/map-entry-interface
 ---
 
 * **entrySet()** - returns a Set containing the map entries. **(Map.Entry)**

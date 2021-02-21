@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JDK8 Exception Features
-permalink: /java/exceptions/jdk8-features
+permalink: /:collection/java/exceptions/jdk8-features
 ---
 
 - TOC

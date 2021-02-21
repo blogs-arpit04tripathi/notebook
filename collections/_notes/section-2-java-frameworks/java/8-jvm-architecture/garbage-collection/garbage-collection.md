@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java Garbage Collection
-permalink: /java/garbage-collection
+permalink: /:collection/java/garbage-collection
 ---
 
 - Process to identify and remove the unused objects from memory and free space. 

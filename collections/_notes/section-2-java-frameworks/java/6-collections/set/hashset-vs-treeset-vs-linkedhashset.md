@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HashSet vs TreeSet vs LinkedHashSet
-permalink: /java/collections/hashset-vs-treeset-vs-linkedhashset
+permalink: /:collection/java/collections/hashset-vs-treeset-vs-linkedhashset
 ---
 
 

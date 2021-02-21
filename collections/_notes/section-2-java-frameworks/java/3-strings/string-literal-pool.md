@@ -1,7 +1,7 @@
 ---
 layout: post
 title: String Literal Pool
-permalink: /java/strings/string-literal-pool
+permalink: /:collection/java/strings/string-literal-pool
 ---
 
 
@@ -37,7 +37,7 @@ two.intern();
 * equals() – to check equality.
 * **String literals are by default interned**.
 
-![string-literal-new.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/strings/string-literal-new.png)
+![string-literal-new.png]({{site.cdn}}/java/strings/string-literal-new.png)
 
 **What makes an object eligible for garbage collection?**  
 When object is no longer referenced from an active part of application.
@@ -54,7 +54,7 @@ public static void main(String[] args) {
    one = two = null;
 }
 ```
-![how-many-objects](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/strings/how-many-objects.png)
+![how-many-objects]({{site.cdn}}/java/strings/how-many-objects.png)
 
 The answer is ***1***.
 

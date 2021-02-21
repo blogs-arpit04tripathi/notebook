@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java Memory Model
-permalink: /java/memory-model
+permalink: /:collection/java/memory-model
 ---
 
 - TOC
@@ -9,8 +9,8 @@ permalink: /java/memory-model
 
 <hr><br>
 
-![java-memory-model](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/jvm-architecture/java-memory-model.png)
-![jmm-diagram](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/jvm-architecture/jmm-diagram.png)
+![java-memory-model]({{site.cdn}}/java/jvm-architecture/java-memory-model.png)
+![jmm-diagram]({{site.cdn}}/java/jvm-architecture/jmm-diagram.png)
 
 - JVM Heap memory is divided into two parts – **Young Generation** and **Old Generation**.
 

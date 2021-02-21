@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Collections class
-permalink: /java/collections/collections-class
+permalink: /:collection/java/collections/collections-class
 ---
 
 * **Collections** class - several algorithms as static methdos.

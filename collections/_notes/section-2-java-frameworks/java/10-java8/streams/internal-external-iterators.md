@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Internal and External Iterator
-permalink: /java8/internal-external-iterators
+permalink: /:collection/java8/internal-external-iterators
 ---
 
 

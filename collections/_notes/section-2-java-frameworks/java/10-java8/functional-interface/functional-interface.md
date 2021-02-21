@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Functional Interface
-permalink: /java8/functional-interface
+permalink: /:collection/java8/functional-interface
 ---
 
 * Frequently used classes **Runnable**, **Comparator**, **Callable** etc have only one method declared to be implemented, called Single Abstract Method (SAM). 

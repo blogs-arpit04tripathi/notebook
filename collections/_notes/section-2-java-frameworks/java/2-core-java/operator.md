@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Java Operators
-permalink: /java/operators
+permalink: /:collection/java/operators
 ---
 
-![operator-priority](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/core-java/operator-priority.png)
+![operator-priority]({{site.cdn}}/java/core-java/operator-priority.png)
 
 # Bitwise Operators
 * Java uses ***2’s complement for zero crossing issue.***
@@ -12,7 +12,7 @@ permalink: /java/operators
 * left shift on a byte or short value will be an int, bits not lost till they get past 31st.
 * **negative byte/short are sign-extended when promoted to int**, higher order filled as 1. This is why need to discard higher order bits by type-casting result back.
 
-![bit-operator](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/core-java/bit-operator.png)
+![bit-operator]({{site.cdn}}/java/core-java/bit-operator.png)
 
 # Right Shift
 * msb (most significant bits) filled with previous content ie. sign extension to preserve sign.

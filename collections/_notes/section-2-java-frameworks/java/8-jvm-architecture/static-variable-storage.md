@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Where static variables are stored from Java 8
-permalink: /java/static-variable-storage
+permalink: /:collection/java/static-variable-storage
 ---
 
 - **Java 7**
@@ -18,5 +18,5 @@ permalink: /java/static-variable-storage
     - memory provided by the OS to a particular Application for its own usage
   - MetaSpace - class meta-data and string pool
 
-![jmm-java8](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/jvm-architecture/jmm-java8.png)
+![jmm-java8]({{site.cdn}}/java/jvm-architecture/jmm-java8.png)
 

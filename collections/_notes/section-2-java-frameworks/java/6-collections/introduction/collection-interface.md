@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Collection Interface
-permalink: /java/collections/collection-interface
+permalink: /:collection/java/collections/collection-interface
 ---
 
 * Collection extends the **Iterable** interface hence can be cycled through using foreach style **for loop**.
@@ -16,4 +16,4 @@ permalink: /java/collections/collection-interface
 |**IllegalArgumentException**		|thrown if an invalid argument is used.														|
 |**IllegalStateException**			|When attempt is made to add an element to a fixed-length collection that is full.			|
 
-![collection-interface](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/collections/collection-interface.png)
+![collection-interface]({{site.cdn}}/java/collections/collection-interface.png)

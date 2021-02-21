@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exceptions in Java
-permalink: /java/exceptions/introduction
+permalink: /:collection/java/exceptions/introduction
 ---
 
 
@@ -12,7 +12,7 @@ permalink: /java/exceptions/introduction
 
 > Read articel on [Exception Hierarchy Tutorial](https://www.benchresources.net/exception-hierarchy-in-java/){:target="_blank"}
 
-![exception-hierarchy)](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/java-exceptions/exception-hierarchy-in-java.png "exception-hierarchy")
+![exception-hierarchy)]({{site.cdn}}/java/java-exceptions/exception-hierarchy-in-java.png "exception-hierarchy")
 
 * `java.lang.Throwable` - **root class for exception and error**
 * `java.lang.Exception`

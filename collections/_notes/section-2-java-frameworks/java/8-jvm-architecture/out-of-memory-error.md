@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OutOfMemoryError
-permalink: /java/out-of-memory-error
+permalink: /:collection/java/out-of-memory-error
 ---
 
 - TOC
@@ -20,7 +20,7 @@ permalink: /java/out-of-memory-error
  
 Now, Perm Gen is not there and moved to heap as metaSpace so no more option 2.
 
-![outOfMemoryError](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/jvm-architecture/outOfMemoryError.png)
+![outOfMemoryError]({{site.cdn}}/java/jvm-architecture/outOfMemoryError.png)
 
 # Long Term Solution: 
 - Short Term Solution

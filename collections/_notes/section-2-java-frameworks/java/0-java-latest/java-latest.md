@@ -1,22 +1,19 @@
 ---
 layout: post
 title: Latest in Java
-permalink: /java/latest
+permalink: /:collection/java/latest
 ---
 
 - TOC
 {:toc}
 
-<br>
-<hr><br>
-
-# Java 14
+## Java 14
 
 OpenJDK
 
 ![](https://cdn.journaldev.com/wp-content/uploads/2020/03/java-14-features.png)
 
-# Java 8
+## Java 8
 
 * **Lambda Expressions** − a new language feature allowing treating actions as objects
 * **Method References** − enable defining Lambda Expressions by referring to methods directly using their names

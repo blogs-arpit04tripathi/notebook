@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction to MultiThreading
-permalink: /java/multithreading/introduction
+permalink: /:collection/java/multithreading/introduction
 ---
 
 

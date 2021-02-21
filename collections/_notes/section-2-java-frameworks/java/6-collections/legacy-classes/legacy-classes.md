@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Legacy Classes
-permalink: /java/collections/legacy-classes
+permalink: /:collection/java/collections/legacy-classes
 ---
 
 * Legacy classes are supported due to legacy code still in use.

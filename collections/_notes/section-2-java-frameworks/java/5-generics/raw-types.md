@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Raw Types and Legacy Code
-permalink: /java/generics/raw-types
+permalink: /:collection/java/generics/raw-types
 ---
 
 - TOC

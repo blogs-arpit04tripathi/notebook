@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ManagedThreadFactory and ThreadPoolExecutor
-permalink: /java/multithreading/managedThreadFactory-and-threadPoolExecutor
+permalink: /:collection/java/multithreading/managedThreadFactory-and-threadPoolExecutor
 ---
 
 

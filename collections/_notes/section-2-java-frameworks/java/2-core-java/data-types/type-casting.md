@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Type Casting
-permalink: /java/type-casting
+permalink: /:collection/java/type-casting
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: flatmap()
-permalink: /java8/streams/operations/flatmap
+permalink: /:collection/java8/streams/operations/flatmap
 ---
 
 * extension of the map function. Apart from transforming one object into another, it can also flatten it.

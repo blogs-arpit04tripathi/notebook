@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spliterators Methods
-permalink: /java/collections/split-iterator-methods
+permalink: /:collection/java/collections/split-iterator-methods
 ---
 
 |Spliterator||

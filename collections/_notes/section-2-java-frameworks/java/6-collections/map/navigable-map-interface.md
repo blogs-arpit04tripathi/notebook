@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NavigableMap Interface
-permalink: /java/collections/navigable-map-interface
+permalink: /:collection/java/collections/navigable-map-interface
 ---
 
 * The **NavigableMap** interface extends **SortedMap** 

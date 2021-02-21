@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vector
-permalink: /java/collections/vector
+permalink: /:collection/java/collections/vector
 ---
 
 * **Vector** - dynamic array, synchronized

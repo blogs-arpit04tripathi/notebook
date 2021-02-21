@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JDK vs JRE vs JVM
-permalink: /java/jdk-jre-jvm
+permalink: /:collection/java/jdk-jre-jvm
 ---
 
 - **JVM**
@@ -17,7 +17,7 @@ permalink: /java/jdk-jre-jvm
 * For running Java programs on browser/computer you will only install JRE, for development JDK is required.
   * If you are deploying a WebApp with JSP, JDK is required as JSP is converted into Servlets by compilation.
 
-![jdk-jre-jvm](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/jvm-architecture/jdk-jre-jvm.png)
+![jdk-jre-jvm]({{site.cdn}}/java/jvm-architecture/jdk-jre-jvm.png)
 
 |Components||
 ---|---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Predicate
-permalink: /java8/functional-interface/predicate
+permalink: /:collection/java8/functional-interface/predicate
 ---
 
 

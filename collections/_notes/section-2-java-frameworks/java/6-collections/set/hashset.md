@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HashSet class
-permalink: /java/collections/hashset
+permalink: /:collection/java/collections/hashset
 ---
 
 

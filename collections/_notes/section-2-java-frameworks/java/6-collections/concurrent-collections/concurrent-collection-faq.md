@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Concurrent Collection FAQ
-permalink: /java/collections/concurrent-collection-faq
+permalink: /:collection/java/collections/concurrent-collection-faq
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Streams
-permalink: /java8/streams
+permalink: /:collection/java8/streams
 ---
 
 
@@ -12,7 +12,7 @@ permalink: /java8/streams
 * Java stream doesn't store data. It operates on the source data structure and produce pipelined data.
 * Streams - Sequence of elements supporting sequencial and parallel aggregate operations.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/java8/streams.png)
+![]({{site.cdn}}/java/java8/streams.png)
 
 ```java
 List<Integer> numbers = Arrays.asList(1,2,3,4,5,6,7,8,9,10);

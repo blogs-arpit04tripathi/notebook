@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deadlock
-permalink: /java/multithreading/deadlock
+permalink: /:collection/java/multithreading/deadlock
 ---
 
 * **Deadlock** occurs when two threads have a circular dependency on a pair of synchronized objects.
@@ -10,7 +10,7 @@ permalink: /java/multithreading/deadlock
 	- In general, it occurs only rarely, when the two threads time-slice in just the right way.
 	- It may involve more than two threads and two synchronized objects.
 
-![deadlock](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/multi-threading/deadlock.png)
+![deadlock]({{site.cdn}}/java/multi-threading/deadlock.png)
 
 ```java
 // An example of deadlock.

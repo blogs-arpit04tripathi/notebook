@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Singleton and DCL
-permalink: /java/multithreading/singleton-and-dcl
+permalink: /:collection/java/multithreading/singleton-and-dcl
 ---
 
 
@@ -10,7 +10,7 @@ permalink: /java/multithreading/singleton-and-dcl
 * One of the key challenge faced is how to keep Singleton class as Singleton i.e. how to prevent multiple instances of a Singleton due to whatever reasons.
 * ***Double checked locking of Singleton*** is a way to ensure only one instance of Singleton class is created through application life cycle. As name suggests, in double checked locking, code checks for an existing instance of [Singleton class](https://javarevisited.blogspot.com/2013/03/difference-between-singleton-pattern-vs-static-class-java.html) twice with and without locking to double ensure that no more than one instance of singleton gets created. By the way, it was broken before Java fixed its memory models issues in JDK 1.5. 
 
-![singleton](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/multi-threading/singleton.png)
+![singleton]({{site.cdn}}/java/multi-threading/singleton.png)
 
 ```java
 class Singleton {

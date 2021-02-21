@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thread Priorities
-permalink: /java/multithreading/thread-priorities
+permalink: /:collection/java/multithreading/thread-priorities
 ---
 
 

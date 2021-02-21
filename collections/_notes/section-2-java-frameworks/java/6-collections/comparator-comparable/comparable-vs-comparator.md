@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Comparable vs Comparator
-permalink: /java/collections/comparable-vs-comparator
+permalink: /:collection/java/collections/comparable-vs-comparator
 ---
 
 

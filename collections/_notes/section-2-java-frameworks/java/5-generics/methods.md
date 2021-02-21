@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Generic Methods
-permalink: /java/generics/methods
+permalink: /:collection/java/generics/methods
 ---
 
 - TOC

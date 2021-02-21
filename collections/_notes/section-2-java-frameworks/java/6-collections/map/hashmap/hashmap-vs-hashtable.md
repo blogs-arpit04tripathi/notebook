@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HashMap vs HashTable
-permalink: /java/collections/hashmap-vs-hashtable
+permalink: /:collection/java/collections/hashmap-vs-hashtable
 ---
 
 

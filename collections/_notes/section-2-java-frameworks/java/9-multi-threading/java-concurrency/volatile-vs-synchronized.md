@@ -1,7 +1,7 @@
 ---
 layout: post
 title: volatile vs synchronized
-permalink: /java/multithreading/volatile-vs-synchronized
+permalink: /:collection/java/multithreading/volatile-vs-synchronized
 ---
 
 

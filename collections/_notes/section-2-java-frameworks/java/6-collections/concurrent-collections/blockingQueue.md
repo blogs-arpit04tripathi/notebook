@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BlockingQueue
-permalink: /java/collections/blockingQueue
+permalink: /:collection/java/collections/blockingQueue
 ---
 
 * Primarily used for implementing producer consumer problem.

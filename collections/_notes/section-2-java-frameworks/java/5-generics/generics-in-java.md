@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Generics in Java
-permalink: /java/generics
+permalink: /:collection/java/generics
 ---
 
 - TOC

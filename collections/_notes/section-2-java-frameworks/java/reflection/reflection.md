@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java Reflection
-permalink: /java/reflection
+permalink: /:collection/java/reflection
 ---
 
 - TOC

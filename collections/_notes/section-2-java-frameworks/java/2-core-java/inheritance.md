@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Inheritance
-permalink: /java/inheritance
+permalink: /:collection/java/inheritance
 ---
 
 - TOC
@@ -9,7 +9,7 @@ permalink: /java/inheritance
 
 <hr><br>
 
-![inheritance](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/core-java/inheritance.png)
+![inheritance]({{site.cdn}}/java/core-java/inheritance.png)
 
 * For hierarchical classifications. 	
 * superclass and subclass.

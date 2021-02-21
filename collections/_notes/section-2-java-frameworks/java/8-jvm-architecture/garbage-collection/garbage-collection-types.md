@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Garbage Collection Types
-permalink: /java/garbage-collection-types
+permalink: /:collection/java/garbage-collection-types
 ---
 
 - Use JVM switch to enable the garbage collection strategy for the application.

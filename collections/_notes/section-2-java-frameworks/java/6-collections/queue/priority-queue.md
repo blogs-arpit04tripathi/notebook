@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PriorityQueue Class
-permalink: /java/collections/priority-queue
+permalink: /:collection/java/collections/priority-queue
 ---
 
 * Creates a queue that is prioritized based on the queue’s comparator. 

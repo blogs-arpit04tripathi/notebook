@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exception Handling Keywords
-permalink: /java/exceptions/keywords
+permalink: /:collection/java/exceptions/keywords
 ---
 
 - TOC

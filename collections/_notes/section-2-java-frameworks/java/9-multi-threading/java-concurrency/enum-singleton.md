@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java Enum and Singleton Pattern
-permalink: /java/multithreading/enum-singleton
+permalink: /:collection/java/multithreading/enum-singleton
 ---
 
 

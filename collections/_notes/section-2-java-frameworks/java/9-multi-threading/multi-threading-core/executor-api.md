@@ -1,16 +1,16 @@
 ---
 layout: post
 title: Executor API
-permalink: /java/multithreading/executor-api
+permalink: /:collection/java/multithreading/executor-api
 ---
 
 
 * The Executor framework is a framework for standardizing invocation, scheduling, execution, and control of asynchronous tasks according to a set of execution policies.
 * Creating a lot many threads with no bounds to the maximum threshold can cause application to run out of heap memory. So, creating a ThreadPool is a better solution as a finite number of threads can be pooled and reused. Executors framework facilitate process of creating Thread pools in java.
 
-![threadpool](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/multi-threading/threadpool.png)
+![threadpool]({{site.cdn}}/java/multi-threading/threadpool.png)
 
-![executor-service](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/multi-threading/executor-service.png)
+![executor-service]({{site.cdn}}/java/multi-threading/executor-service.png)
 
 # Java Thread Pool
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Properties
-permalink: /java/collections/properties
+permalink: /:collection/java/collections/properties
 ---
 
 * **Properties** is a subclass of **Hashtable**. 

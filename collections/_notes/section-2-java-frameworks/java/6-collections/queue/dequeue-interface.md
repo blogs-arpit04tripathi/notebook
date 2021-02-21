@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deque Interface
-permalink: /java/collections/dequeue-interface
+permalink: /:collection/java/collections/dequeue-interface
 ---
 
 * a double-ended queue. 

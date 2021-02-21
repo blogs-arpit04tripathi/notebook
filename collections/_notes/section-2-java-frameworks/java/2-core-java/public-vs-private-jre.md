@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Public vs Private JRE
-permalink: /java/public-vs-private-jre
+permalink: /:collection/java/public-vs-private-jre
 ---
 
 **JRE** environment, bunch of directories with Java-related files:
@@ -9,7 +9,7 @@ permalink: /java/public-vs-private-jre
 * /lib - supporting files: jars, config files, property files, fonts, sounds, icons etc. 
 	- most important is **rt.jar** containing "java API".
 
-![public-vs-private-jre](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/core-java/public-vs-private-jre.png)
+![public-vs-private-jre]({{site.cdn}}/java/core-java/public-vs-private-jre.png)
 
 * JDK installation brings private JRE and optionally a public copy.
 * **private JRE**

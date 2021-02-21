@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Creating a Thread
-permalink: /java/multithreading/creating-thread
+permalink: /:collection/java/multithreading/creating-thread
 ---
 
 - TOC

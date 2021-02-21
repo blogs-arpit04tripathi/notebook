@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Collections Summarized
-permalink: /java/collections/summarized
+permalink: /:collection/java/collections/summarized
 ---
 
 |collection|Base class|Base interfaces|Duplicate|Ordered|Sorted|Thread-safe|

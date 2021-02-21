@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Collections.sort algorithm
-permalink: /java/collections/collections-sort-algorithm
+permalink: /:collection/java/collections/collections-sort-algorithm
 ---
 
 **What sorting algorithm is used by Java's Collections.sort(), and why?**  

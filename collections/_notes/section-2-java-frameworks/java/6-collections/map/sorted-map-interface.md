@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SortedMap Map Interface
-permalink: /java/collections/sorted-map-interface
+permalink: /:collection/java/collections/sorted-map-interface
 ---
 
 * Ascending order on keys.

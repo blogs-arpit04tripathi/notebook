@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Overloading vs Overriding
-permalink: /java/overloading-vs-overriding
+permalink: /:collection/java/overloading-vs-overriding
 ---
 
 # What is Overloading?

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Custom Exceptions
-permalink: /java/exceptions/custom-exceptions
+permalink: /:collection/java/exceptions/custom-exceptions
 ---
 
 

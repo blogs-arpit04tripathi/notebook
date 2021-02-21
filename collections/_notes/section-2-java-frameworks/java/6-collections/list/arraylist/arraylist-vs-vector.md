@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ArrayList vs Vector
-permalink: /java/collections/arraylist-vs-vector
+permalink: /:collection/java/collections/arraylist-vs-vector
 ---
 
 

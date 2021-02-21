@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reflection for Annotations
-permalink: /java/reflection/reflection-for-annotations
+permalink: /:collection/java/reflection/reflection-for-annotations
 ---
 
 * Reflection API was also extended to provide support to analyze the annotations at runtime.

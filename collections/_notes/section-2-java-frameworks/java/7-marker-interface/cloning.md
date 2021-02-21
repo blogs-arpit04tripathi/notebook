@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cloning
-permalink: /java/marker-interface/cloning
+permalink: /:collection/java/marker-interface/cloning
 ---
 
 - TOC

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Generic Constructors
-permalink: /java/generics/constructors
+permalink: /:collection/java/generics/constructors
 ---
 
 - TOC

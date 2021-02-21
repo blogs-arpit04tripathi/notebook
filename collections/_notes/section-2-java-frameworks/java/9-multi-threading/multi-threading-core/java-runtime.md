@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java Runtime
-permalink: /java/multithreading/java-runtime
+permalink: /:collection/java/multithreading/java-runtime
 ---
 
 * Java **Runtime** class is used to interact with java runtime environment. 

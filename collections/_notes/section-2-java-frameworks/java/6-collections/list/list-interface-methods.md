@@ -1,7 +1,7 @@
 ---
 layout: post
 title: List Interface Methods
-permalink: /java/collections/list-interface-methods
+permalink: /:collection/java/collections/list-interface-methods
 ---
 
 |List Interface Methods									|	|

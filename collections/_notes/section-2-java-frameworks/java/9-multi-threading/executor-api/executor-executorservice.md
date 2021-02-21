@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Executor and ExecutorService
-permalink: /java/multithreading/executor-executorservice
+permalink: /:collection/java/multithreading/executor-executorservice
 ---
 
 
@@ -11,7 +11,7 @@ permalink: /java/multithreading/executor-executorservice
 	- **ExecutorService**- subUnterface that adds methods to manage lifecycle of threads used to run the submitted tasks and methods to produce a Future to get a result from an asynchronous computation.
 	- **ScheduledExecutorService**- to execute commands periodically or after a given delay.
 
-![executor-service-internal](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/multi-threading/executor-service-internal.png)
+![executor-service-internal]({{site.cdn}}/java/multi-threading/executor-service-internal.png)
 
 ```java
 Thread t = new Thread(new MyRunnable());

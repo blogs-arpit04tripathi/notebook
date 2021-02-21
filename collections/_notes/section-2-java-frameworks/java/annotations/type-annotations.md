@@ -25,7 +25,7 @@ int myMeth(@TypeAnno SomeClass this, int i, int j) { // …
 	- If **this** is not declared, it is still implicitly passed. JDK 8 does not change **this** fact.
 	- Also, explicitly declaring **this** does not change the method’s signature because **this** is implicitly declared, by default.
 
-![annotations-type](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/reflection/annotations-type.png)
+![annotations-type]({{site.cdn}}/java/reflection/annotations-type.png)
 
 * **@EmptyOK, @Recommended, @What** - not type annotations, included for comparison purposes.
 * **@What** - used to annotate a generic type parameter declaration.

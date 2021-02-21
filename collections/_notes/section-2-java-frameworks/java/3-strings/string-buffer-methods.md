@@ -1,7 +1,7 @@
 ---
 layout: post
 title: StringBuffer Methods
-permalink: /java/strings/string-buffer-methods
+permalink: /:collection/java/strings/string-buffer-methods
 ---
 
 

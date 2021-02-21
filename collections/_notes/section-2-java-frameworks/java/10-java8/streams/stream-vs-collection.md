@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stream vs Collections
-permalink: /java8/stream-vs-collection
+permalink: /:collection/java8/stream-vs-collection
 ---
 
 

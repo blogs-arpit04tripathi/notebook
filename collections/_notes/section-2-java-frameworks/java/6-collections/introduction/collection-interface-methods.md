@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Collection Interface Methods
-permalink: /java/collections/collection-interface-methods
+permalink: /:collection/java/collections/collection-interface-methods
 ---
 
 

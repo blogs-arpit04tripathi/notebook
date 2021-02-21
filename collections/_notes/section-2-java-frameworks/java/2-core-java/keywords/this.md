@@ -1,7 +1,7 @@
 ---
 layout: post
 title: this Keyword
-permalink: /java/this
+permalink: /:collection/java/this
 ---
 
 ```java

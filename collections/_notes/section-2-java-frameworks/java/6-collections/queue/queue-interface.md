@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Queue Interface
-permalink: /java/collections/queue-interface
+permalink: /:collection/java/collections/queue-interface
 ---
 
 * first-in, first-out list. (FIFO)

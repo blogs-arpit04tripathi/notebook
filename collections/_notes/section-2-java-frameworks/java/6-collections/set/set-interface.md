@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Set Interface
-permalink: /java/collections/set-interface
+permalink: /:collection/java/collections/set-interface
 ---
 
 * Does not allow duplicate elements. 

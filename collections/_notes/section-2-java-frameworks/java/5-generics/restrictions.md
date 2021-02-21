@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Generics Restrictions
-permalink: /java/generics/restrictions
+permalink: /:collection/java/generics/restrictions
 ---
 
 - TOC

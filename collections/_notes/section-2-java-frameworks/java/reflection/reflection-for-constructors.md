@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reflection for Constructors
-permalink: /java/reflection/reflection-for-constructors
+permalink: /:collection/java/reflection/reflection-for-constructors
 ---
 
 # getConstructor()

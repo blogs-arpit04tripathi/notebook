@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EnumMap
-permalink: /java/collections/enumMap
+permalink: /:collection/java/collections/enumMap
 ---
 
 ```java

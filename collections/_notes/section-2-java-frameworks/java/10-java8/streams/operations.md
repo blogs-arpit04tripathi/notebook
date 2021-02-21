@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Stream Operations
-permalink: /java8/streams/operations
+permalink: /:collection/java8/streams/operations
 ---
 
 
 * Stream operations can either be executed sequential or parallel.
 
-![intermediate-operations](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/java8/intermediate-operations.png)
-![stream-operations](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/java8/stream-operations.png)
+![intermediate-operations]({{site.cdn}}/java/java8/intermediate-operations.png)
+![stream-operations]({{site.cdn}}/java/java8/stream-operations.png)
 
 |Intermediate Operations	| Terminal Operations|
 ---|---

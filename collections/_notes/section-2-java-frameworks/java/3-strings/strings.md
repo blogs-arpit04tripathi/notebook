@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Strings
-permalink: /java/strings
+permalink: /:collection/java/strings
 ---
 
 * String in java is an **object rather than character arrays**. (sequence of characters) 

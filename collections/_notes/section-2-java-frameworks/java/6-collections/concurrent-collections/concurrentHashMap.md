@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ConcurrentHashMap
-permalink: /java/collections/concurrentHashMap
+permalink: /:collection/java/collections/concurrentHashMap
 ---
 
 * ConcurrentHashMap utilizes the same principles of HashMap, but for a multi-threaded application. 
@@ -15,7 +15,7 @@ static final int DEFAULT_INITIAL_CAPACITY = 16;
 static final int DEFAULT_CONCURRENCY_LEVEL = 16;
 ```
 
-![concurrent-hashmap](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/collections/concurrent-hashmap.png)
+![concurrent-hashmap]({{site.cdn}}/java/collections/concurrent-hashmap.png)
 
 ```java
 public ConcurrentHashMap(int initialCapacity, float loadFactor, int concurrencyLevel)

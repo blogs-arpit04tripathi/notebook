@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Enums - Enumeration
-permalink: /java/enums
+permalink: /:collection/java/enums
 ---
 
 

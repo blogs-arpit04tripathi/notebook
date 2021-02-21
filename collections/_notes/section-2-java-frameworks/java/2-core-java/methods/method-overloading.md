@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Method Overloading
-permalink: /java/method-overloading
+permalink: /:collection/java/method-overloading
 ---
 
 * Method overloading = **compile-time polymorphism**

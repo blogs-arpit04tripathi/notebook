@@ -1,7 +1,7 @@
 ---
 layout: post
 title: average() and sum()
-permalink: /java8/streams/operations/average-sum
+permalink: /:collection/java8/streams/operations/average-sum
 ---
 
 ```java

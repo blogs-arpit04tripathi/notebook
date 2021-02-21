@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thread Class Methods
-permalink: /java/multithreading/thread-class-methods
+permalink: /:collection/java/multithreading/thread-class-methods
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Collection Improvements
-permalink: /java8/collection-improvements
+permalink: /:collection/java8/collection-improvements
 ---
 
 # Array Method Improvements

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exception Handling
-permalink: /java/exceptions/exception-handling
+permalink: /:collection/java/exceptions/exception-handling
 ---
 
 
@@ -10,7 +10,7 @@ permalink: /java/exceptions/exception-handling
     - **no handler found**, then **application throws the exception to JRE and terminates the program**.
 * Exception handling can be used to **handle runtime errors only not compile time errors**.
 
-![exception-handling](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/java-exceptions/exception-handling.png)
+![exception-handling]({{site.cdn}}/java/java-exceptions/exception-handling.png)
 
 * Any uncaught exception will eventually be processed by default handler displaying description and stack trace.
 * stack trace shows the sequence of method invocations that led up to the error.

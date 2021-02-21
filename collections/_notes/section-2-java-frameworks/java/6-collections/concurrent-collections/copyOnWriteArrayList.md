@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CopyOnWriteArrayList
-permalink: /java/collections/copyOnWriteArrayList
+permalink: /:collection/java/collections/copyOnWriteArrayList
 ---
 
 * Thread safe variant of ArrayList.

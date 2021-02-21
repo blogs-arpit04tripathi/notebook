@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PATH vs CLASSPATH
-permalink: /java/path-vs-classpath
+permalink: /:collection/java/path-vs-classpath
 ---
 
 - **NoClassDefFoundError** and **ClassNotFoundException** both occur when class is not found at runtime.

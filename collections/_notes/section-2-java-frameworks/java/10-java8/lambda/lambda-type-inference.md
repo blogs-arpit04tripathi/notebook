@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Type Inference
-permalink: /java8/lambda-type-inference
+permalink: /:collection/java8/lambda-type-inference
 ---
 
 - Determining the Type by compiler at compile-time.

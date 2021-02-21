@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interfaces
-permalink: /java/interfaces
+permalink: /:collection/java/interfaces
 ---
 
 - TOC

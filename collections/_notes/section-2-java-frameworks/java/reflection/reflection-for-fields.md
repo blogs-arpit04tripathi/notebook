@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reflection for Fields
-permalink: /java/reflection/reflection-for-fields
+permalink: /:collection/java/reflection/reflection-for-fields
 ---
 
 # Get Public Field

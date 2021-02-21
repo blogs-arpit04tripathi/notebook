@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lambda Expression Rules
-permalink: /java8/lambda-expression-rules
+permalink: /:collection/java8/lambda-expression-rules
 ---
 
 - parentheses are compulsory, when zero or more than two arguments. 

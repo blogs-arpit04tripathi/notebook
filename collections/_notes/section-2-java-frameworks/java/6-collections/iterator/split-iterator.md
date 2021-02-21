@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spliterators
-permalink: /java/collections/split-iterator
+permalink: /:collection/java/collections/split-iterator
 ---
 
 * supports parallel programming, ability to parallel iteration of portions of the sequence.

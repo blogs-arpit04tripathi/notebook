@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When to use Volatile
-permalink: /java/multithreading/when-to-use-volatile
+permalink: /:collection/java/multithreading/when-to-use-volatile
 ---
 
 

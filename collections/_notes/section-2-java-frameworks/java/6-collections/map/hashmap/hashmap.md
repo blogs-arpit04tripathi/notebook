@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HashMap
-permalink: /java/collections/hashmap
+permalink: /:collection/java/collections/hashmap
 ---
 
 

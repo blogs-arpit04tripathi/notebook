@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EE Concurrency API
-permalink: /java/multithreading/ee-concurrency-api
+permalink: /:collection/java/multithreading/ee-concurrency-api
 ---
 
 
@@ -25,7 +25,7 @@ permalink: /java/multithreading/ee-concurrency-api
 - Read bank Account Details for all users
 - Get All Transaction information and save to file.
 
-![managed-executor-service-usecase](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/multi-threading/managed-executor-service-usecase.png)
+![managed-executor-service-usecase]({{site.cdn}}/java/multi-threading/managed-executor-service-usecase.png)
 
 - DataSource object is used here with c3 pooling.
 - Datasource.getConnection() gives the connection object.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Iterator
-permalink: /java/collections/iterator
+permalink: /:collection/java/collections/iterator
 ---
 
 * Iterator - to cycle through a collection, obtaining or removing elements.

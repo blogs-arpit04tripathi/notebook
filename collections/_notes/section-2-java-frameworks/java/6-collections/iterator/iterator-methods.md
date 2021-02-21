@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Iterator Methods
-permalink: /java/collections/iterator-methods
+permalink: /:collection/java/collections/iterator-methods
 ---
 
 |Methods for Iterator|	|

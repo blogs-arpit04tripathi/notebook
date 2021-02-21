@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Overloading vs Overriding
-permalink: /java/faq-overriding
+permalink: /:collection/java/faq-overriding
 ---
 
 # What is co-variant method overriding?

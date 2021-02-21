@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java Shutdown Hook
-permalink: /java/multithreading/shutdown-hook
+permalink: /:collection/java/multithreading/shutdown-hook
 ---
 
 

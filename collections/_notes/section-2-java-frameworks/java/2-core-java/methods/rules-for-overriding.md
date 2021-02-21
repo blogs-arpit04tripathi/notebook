@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rules of overriding (restricting is allowed)
-permalink: /java/rules-for-overriding
+permalink: /:collection/java/rules-for-overriding
 ---
 
 - **Access Modifier**

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Collections Framework
-permalink: /java/collections/framework
+permalink: /:collection/java/collections/framework
 ---
 
 - TOC
@@ -27,7 +27,7 @@ permalink: /java/collections/framework
 * Reduced code maintenance efforts, shipped with JDK.
 * Reusability and Interoperability
 
-![colelctions](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/collections/collections.png)
+![colelctions]({{site.cdn}}/java/collections/collections.png)
 
 * **Collections** class – contains static method **Algorithms** for collections. (generic)
 * **iterator** - standardized way of accessing the elements of a collection, provides a means of ***enumerating its contents***. 

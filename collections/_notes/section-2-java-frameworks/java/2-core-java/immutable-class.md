@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Immutable Class
-permalink: /java/immutable-class
+permalink: /:collection/java/immutable-class
 ---
 
 # Create Immutable

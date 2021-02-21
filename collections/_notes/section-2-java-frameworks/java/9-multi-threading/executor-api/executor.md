@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Executor
-permalink: /java/multithreading/executor
+permalink: /:collection/java/multithreading/executor
 ---
 
 

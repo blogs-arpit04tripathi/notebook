@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Generic Interfaces
-permalink: /java/generics/interfaces
+permalink: /:collection/java/generics/interfaces
 ---
 
 - TOC

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Marker Interface FAQ
-permalink: /java/marker-interface/faq
+permalink: /:collection/java/marker-interface/faq
 ---
 
 **Q. What are the Problems with Marker Interfaces?**

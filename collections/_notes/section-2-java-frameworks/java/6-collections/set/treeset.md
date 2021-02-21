@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TreeSet Class
-permalink: /java/collections/treeset
+permalink: /:collection/java/collections/treeset
 ---
 
 * Creates a collection that uses a tree for storage. 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Locks
-permalink: /java/multithreading/locks
+permalink: /:collection/java/multithreading/locks
 ---
 
 

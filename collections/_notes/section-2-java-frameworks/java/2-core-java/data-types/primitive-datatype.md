@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Primitive Datatype
-permalink: /java/primitive-datatype
+permalink: /:collection/java/primitive-datatype
 ---
 
 

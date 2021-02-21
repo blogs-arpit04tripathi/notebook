@@ -1,7 +1,7 @@
 ---
 layout: post
 title: General Responsibility Assignment Software Patterns (GRASP)
-permalink: /java/ood/grasp
+permalink: /:collection/java/ood/grasp
 ---
 
 - GRASP tends to take a responsibility focus, like who creates this object, who is in charge of how these objects talk to each other, who takes care of passing all messages received from a user interface?  etc.

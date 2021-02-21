@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ContextService API
-permalink: /java/multithreading/contextService-api
+permalink: /:collection/java/multithreading/contextService-api
 ---
 
 

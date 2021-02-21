@@ -1,7 +1,7 @@
 ---
 layout: post
 title: static Keyword
-permalink: /java/static
+permalink: /:collection/java/static
 ---
 
 * static (methods and variable), are **class level** and **can be accessed without reference to any object**. ex. main()

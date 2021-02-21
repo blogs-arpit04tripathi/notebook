@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Collection Frameworks FAQ
-permalink: /java/collections/faq
+permalink: /:collection/java/collections/faq
 ---
 
 - TOC

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hibernate
-permalink: /hibernate
+permalink: /:collection/hibernate/
 ---
 
 - [Hibernate Introduction](/hibernate/introduction)

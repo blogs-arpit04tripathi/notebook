@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ListIterator Methods
-permalink: /java/collections/listiterator-methods
+permalink: /:collection/java/collections/listiterator-methods
 ---
 
 |Methods for ListIterator||

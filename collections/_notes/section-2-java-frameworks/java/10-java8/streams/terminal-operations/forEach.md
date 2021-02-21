@@ -1,7 +1,7 @@
 ---
 layout: post
 title: forEach()
-permalink: /java8/streams/operations/forEach
+permalink: /:collection/java8/streams/operations/forEach
 ---
 
 * for iterating over all elements of a stream and perform some operation on each of them.

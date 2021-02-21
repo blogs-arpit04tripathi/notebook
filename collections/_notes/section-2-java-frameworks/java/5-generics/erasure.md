@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Erasure
-permalink: /java/generics/erasure
+permalink: /:collection/java/generics/erasure
 ---
 
 - TOC

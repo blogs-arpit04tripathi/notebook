@@ -1,7 +1,7 @@
 ---
 layout: post
 title: this Keyword in Lambda Expression
-permalink: /java8/this-keyword-in-lambda
+permalink: /:collection/java8/this-keyword-in-lambda
 ---
 
 - In Anonymous inner class, `this` refers to the instance of anonymous inner class even inside the static void main method.

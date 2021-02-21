@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Modifying a String
-permalink: /java/strings/modification
+permalink: /:collection/java/strings/modification
 ---
 
 

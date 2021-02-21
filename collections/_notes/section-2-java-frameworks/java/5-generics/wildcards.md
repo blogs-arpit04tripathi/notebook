@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using Wildcard Arguments
-permalink: /java/generics/wildcards
+permalink: /:collection/java/generics/wildcards
 ---
 
 - TOC

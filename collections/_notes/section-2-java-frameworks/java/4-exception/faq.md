@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exceptions - FAQ
-permalink: /java/exceptions/faq
+permalink: /:collection/java/exceptions/faq
 ---
 
 - TOC

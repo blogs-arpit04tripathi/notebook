@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Checked vs Unchecked Exceptions
-permalink: /java/exceptions/checked-vs-unchecked
+permalink: /:collection/java/exceptions/checked-vs-unchecked
 ---
 
 

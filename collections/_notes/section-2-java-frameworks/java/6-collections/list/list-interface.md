@@ -1,7 +1,7 @@
 ---
 layout: post
 title: List Interface
-permalink: /java/collections/list-interface
+permalink: /:collection/java/collections/list-interface
 ---
 
 * Duplicate elements are allowed.

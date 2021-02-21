@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Control Statements
-permalink: /java/control-statements
+permalink: /:collection/java/control-statements
 ---
 
 - TOC

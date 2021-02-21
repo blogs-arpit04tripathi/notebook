@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Synchronization
-permalink: /java/multithreading/synchronization
+permalink: /:collection/java/multithreading/synchronization
 ---
 
 - TOC
@@ -51,7 +51,7 @@ If you make any ***static method as synchronized***, the lock will be on the cla
 * But there can be interference between t1 and t3 or t2 and t4 because t1 acquires another lock and t3 acquires another lock. 
 * When we want no interference between t1 and t3 or t2 and t4, Static synchronization can solve this problem.
 
-![synchronized-statement](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/multi-threading/synchronized-statement.png)
+![synchronized-statement]({{site.cdn}}/java/multi-threading/synchronized-statement.png)
 
 # Which is more preferred – Synchronized method or Synchronized block?
 - Synchronized block is more preferred way

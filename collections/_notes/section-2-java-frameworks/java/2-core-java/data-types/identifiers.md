@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Identifiers
-permalink: /java/identifiers
+permalink: /:collection/java/identifiers
 ---
 
 * **valid identifiers** - AvgTemp, count, a4, $test, this_is_ok

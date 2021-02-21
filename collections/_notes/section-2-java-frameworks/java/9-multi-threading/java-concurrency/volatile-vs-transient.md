@@ -1,7 +1,7 @@
 ---
 layout: post
 title: volatile vs transient
-permalink: /java/multithreading/volatile-vs-transient
+permalink: /:collection/java/multithreading/volatile-vs-transient
 ---
 
 

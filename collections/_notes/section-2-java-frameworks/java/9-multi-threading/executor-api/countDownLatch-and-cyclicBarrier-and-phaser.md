@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CountDownLatch and CyclicBarrier and Phaser
-permalink: /java/multithreading/countDownLatch-and-cyclicBarrier-and-phaser
+permalink: /:collection/java/multithreading/countDownLatch-and-cyclicBarrier-and-phaser
 ---
 
 - TOC
@@ -10,9 +10,9 @@ permalink: /java/multithreading/countDownLatch-and-cyclicBarrier-and-phaser
 <hr><br>
 
 
-![mutual-exclusion](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/multi-threading/mutual-exclusion.png)
+![mutual-exclusion]({{site.cdn}}/java/multi-threading/mutual-exclusion.png)
 
-![countdownLatch-cyclicBarrier-phaser](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/multi-threading/countdownLatch-cyclicBarrier-phaser.png)
+![countdownLatch-cyclicBarrier-phaser]({{site.cdn}}/java/multi-threading/countdownLatch-cyclicBarrier-phaser.png)
 
 # CountDown Latch
 
@@ -24,7 +24,7 @@ permalink: /java/multithreading/countDownLatch-and-cyclicBarrier-and-phaser
 **For, new CountDownLatch(N). Do we need to have 3 threads madatorily?**  
 No, thread can wait until N threads complete some action, or that action has been completed N times.
 
-![countdown-latch](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/multi-threading/countdownLatch.png)
+![countdown-latch]({{site.cdn}}/java/multi-threading/countdownLatch.png)
 
 ```java
 public class CountdownlatchDemo {
@@ -90,7 +90,7 @@ public int await(long timeout, TimeUnit unit)
 - **reset()** - resets barrier to initial state. If any parties are currently waiting at the barrier, they will return with a ***BrokenBarrierException***.
 - CyclicBarrier uses all-or-none breakage model, If any thread leaves a barrier point prematurely due to interruption, failure, or timeout, all other threads waiting at that barrier point will also leave abnormally via BrokenBarrierException (orInterruptedException if they too were interrupted at about the same time).
 
-![cyclic-barrier](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/multi-threading/cyclic-barrier.png)
+![cyclic-barrier]({{site.cdn}}/java/multi-threading/cyclic-barrier.png)
 
 |CountDownLatch	|CyclicBarrier|
 ---|---

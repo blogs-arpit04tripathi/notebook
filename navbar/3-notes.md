@@ -59,4 +59,4 @@ permalink: /notes/
 
 **Others**
   - [Chrome Extn](chrome-extn)
-  - [Jekyll](jekyll/intro)
+  - [Jekyll](jekyll)

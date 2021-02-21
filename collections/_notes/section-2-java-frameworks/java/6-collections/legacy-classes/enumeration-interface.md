@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Enumeration Interface
-permalink: /java/collections/enumeration-interface
+permalink: /:collection/java/collections/enumeration-interface
 ---
 
 * To enumerate (obtain one at a time) the elements in a collection of objects. 

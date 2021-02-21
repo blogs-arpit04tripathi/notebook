@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MultivaluedMap<K,V>
-permalink: /java/collections/multivaluedMap
+permalink: /:collection/java/collections/multivaluedMap
 ---
 
 * public interface MultivaluedMap<K,V> extends `java.util.Map<K, java.util.List<V>>`

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thread Class vs Runnable Interface
-permalink: /java/multithreading/thread-vs-runnable
+permalink: /:collection/java/multithreading/thread-vs-runnable
 ---
 
 * **Thread** encapsulates a thread of execution. Since you can’t directly refer to the ethereal *state of a running thread, you will deal with it through its proxy, the Thread instance that spawned it*.

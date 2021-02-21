@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Atomic Variables in Action
-permalink: /java/multithreading/atomic-variables-in-action
+permalink: /:collection/java/multithreading/atomic-variables-in-action
 ---
 
 

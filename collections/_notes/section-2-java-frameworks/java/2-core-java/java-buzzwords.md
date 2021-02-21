@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java Buzzwords
-permalink: /java/buzzwords
+permalink: /:collection/java/buzzwords
 ---
 
 * ***Object-Oriented*** - Object model is easy to extend, while primitive types are kept as high-performance non-objects.

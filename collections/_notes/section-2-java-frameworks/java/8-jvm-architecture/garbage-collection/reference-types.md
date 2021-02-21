@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reference Types
-permalink: /java/reference-types
+permalink: /:collection/java/reference-types
 ---
 
 - TOC

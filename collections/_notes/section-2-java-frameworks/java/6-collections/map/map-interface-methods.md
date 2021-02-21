@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Map Interface Methods
-permalink: /java/collections/map-interface-methods
+permalink: /:collection/java/collections/map-interface-methods
 ---
 
 |		|	|

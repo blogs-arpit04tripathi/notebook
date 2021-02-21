@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Literal Representation
-permalink: /java/literal-representation
+permalink: /:collection/java/literal-representation
 ---
 
 
@@ -24,7 +24,7 @@ int x = 0b1101_0101_0001_1010;  // underscores discarded on compile
 * Hexadecimal floating-point literals - 0x12.2P2(=72.5).
   * P is called **binary exponent**, power-of-two to be multiplied.
 
-![octal-decimal-computation](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/core-java/octal-decimal-computation.png)
+![octal-decimal-computation]({{site.cdn}}/java/core-java/octal-decimal-computation.png)
 
 ### Character Literals
 * directly as 'a', 'z', and '@'. 

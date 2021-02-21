@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thread as Lambda
-permalink: /java8/thread-as-lambda
+permalink: /:collection/java8/thread-as-lambda
 ---
 
 ```java

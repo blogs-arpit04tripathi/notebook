@@ -1,12 +1,12 @@
 ---
 layout: post
 title: JVM - Java Virtual Machine
-permalink: /java/jvm/architecture
+permalink: /:collection/java/jvm/architecture
 ---
 
 > TODO : Read full article [here](#).
 
-![jvm-architecture](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/jvm-architecture/jvm-architecture.png "jvm-architecture")
+![jvm-architecture]({{site.cdn}}/java/jvm-architecture/jvm-architecture.png "jvm-architecture")
 
 |JVM Components				|		|
 |---						|---	|

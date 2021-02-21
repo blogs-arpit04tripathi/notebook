@@ -1,7 +1,7 @@
 ---
 layout: post
 title: final Keyword
-permalink: /java/final
+permalink: /:collection/java/final
 ---
 
 * final in java are by **default read-only**.

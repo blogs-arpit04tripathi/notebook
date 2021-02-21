@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ArrayDeque Class
-permalink: /java/collections/array-dequeue
+permalink: /:collection/java/collections/array-dequeue
 ---
 
 * ArrayDeque creates a dynamic array and has no capacity restrictions. 

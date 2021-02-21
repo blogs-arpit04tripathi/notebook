@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Suspending, Resuming, and Stopping Threads
-permalink: /java/multithreading/suspend-resume-stop
+permalink: /:collection/java/multithreading/suspend-resume-stop
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ClassLoader Subsystem
-permalink: /java/jvm/classloader-subsystem
+permalink: /:collection/java/jvm/classloader-subsystem
 ---
 
 - Responsible for locating and importing the binary data for classes.
@@ -13,7 +13,7 @@ permalink: /java/jvm/classloader-subsystem
        3. ***Resolution***: transforming symbolic references from the type into direct references.
     3. **Initialization**: invoking Java code that initializes class variables to their proper starting values.
 
-![jmm-diagram](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/jvm-architecture/classloader-subsystem.png)
+![jmm-diagram]({{site.cdn}}/java/jvm-architecture/classloader-subsystem.png)
 
 # 1. Loading
 - Java run time system are independent of file systems because of classloaders.
@@ -47,7 +47,7 @@ permalink: /java/jvm/classloader-subsystem
 - **Uniqueness**
   - Class loaded by the parent classloader should not be again loaded by the child classloader.
 
-![jmm-diagram](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/jvm-architecture/classloader-subsystem-loading.png)
+![jmm-diagram]({{site.cdn}}/java/jvm-architecture/classloader-subsystem-loading.png)
 
 **Static vs Dynamic Class Loading**
 - **Static class loading**

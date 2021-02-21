@@ -1,7 +1,7 @@
 ---
 layout: post
 title: atomic variables
-permalink: /java/multithreading/atomic
+permalink: /:collection/java/multithreading/atomic
 ---
 
 

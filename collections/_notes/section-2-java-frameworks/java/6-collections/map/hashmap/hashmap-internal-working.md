@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HashMap Internal Working
-permalink: /java/collections/hashmap-internal-working
+permalink: /:collection/java/collections/hashmap-internal-working
 ---
 
 - TOC
@@ -9,7 +9,7 @@ permalink: /java/collections/hashmap-internal-working
 
 <hr><br>
 
-![hashmap-internal](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/collections/hashmap-internal.png)
+![hashmap-internal]({{site.cdn}}/java/collections/hashmap-internal.png)
 
 # Bucket
 * A ***bucket/segment*** is used to store key value pairs.
@@ -137,4 +137,4 @@ time complexity remove(key)
 * empty concrete method `recordRemoval()` is invoked whenever the Entry is removed from the table. 
 * Since LinkedHashMap extends HashMap, it is overridden in LinkedHashMap's Entry to maintain its linked list of entries.
 
-![hashmap](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/collections/hashmap.png)
+![hashmap]({{site.cdn}}/java/collections/hashmap.png)

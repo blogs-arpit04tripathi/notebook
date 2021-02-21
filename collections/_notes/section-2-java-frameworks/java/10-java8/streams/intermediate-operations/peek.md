@@ -1,7 +1,7 @@
 ---
 layout: post
 title: peek()
-permalink: /java8/streams/operations/peek
+permalink: /:collection/java8/streams/operations/peek
 ---
 
 * used for debugging the issues related to lambda expression and Stream processing.

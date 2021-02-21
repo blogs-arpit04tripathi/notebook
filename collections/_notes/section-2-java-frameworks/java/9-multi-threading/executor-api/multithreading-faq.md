@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Multithreading FAQ
-permalink: /java/multithreading/multithreading-faq
+permalink: /:collection/java/multithreading/multithreading-faq
 ---
 
 - TOC

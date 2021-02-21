@@ -1,7 +1,7 @@
 ---
 layout: post
 title: String Methods
-permalink: /java/strings/string-methods
+permalink: /:collection/java/strings/string-methods
 ---
 
 

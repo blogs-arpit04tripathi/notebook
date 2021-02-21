@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JVM - Java Virtual Machine
-permalink: /java/jvm
+permalink: /:collection/java/jvm
 ---
 
 - TOC

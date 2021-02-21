@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WeakHashMap
-permalink: /java/collections/weakHashMap
+permalink: /:collection/java/collections/weakHashMap
 ---
 
 * [WeakHashMap](https://docs.oracle.com/javase/7/docs/api/java/util/WeakHashMap.html) has ***weak keys***.

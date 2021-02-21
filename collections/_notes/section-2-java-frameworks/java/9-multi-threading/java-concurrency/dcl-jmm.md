@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DCL - Meet the Java Memory Model
-permalink: /java/multithreading/dcl-jmm
+permalink: /:collection/java/multithreading/dcl-jmm
 ---
 
 - TOC

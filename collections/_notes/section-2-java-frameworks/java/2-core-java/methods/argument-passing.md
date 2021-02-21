@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Argument Passing
-permalink: /java/argument-passing
+permalink: /:collection/java/argument-passing
 ---
 
 * ***call-by-value***

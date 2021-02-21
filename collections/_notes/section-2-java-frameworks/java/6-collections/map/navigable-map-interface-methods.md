@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NavigableMap Interface Methods
-permalink: /java/collections/navigable-map-interface-methods
+permalink: /:collection/java/collections/navigable-map-interface-methods
 ---
 
 |NavigableMap Interface					|	|

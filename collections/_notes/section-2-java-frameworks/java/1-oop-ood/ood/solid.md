@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Object Oriented Design (OOD)
-permalink: /java/ood/solid
+permalink: /:collection/java/ood/solid
 ---
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/oop-and-ood/solid.png)
+![]({{site.cdn}}/java/oop-and-ood/solid.png)
 
 - **Single Responsibility Principle**
   - A class should always have only one reasonability.

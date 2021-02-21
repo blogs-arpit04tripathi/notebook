@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Array vs ArrayList
-permalink: /java/collections/array-vs-arraylist
+permalink: /:collection/java/collections/array-vs-arraylist
 ---
 
 - TOC
