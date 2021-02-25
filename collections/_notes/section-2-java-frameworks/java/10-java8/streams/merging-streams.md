@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Merging Streams
-permalink: /:collection/java8/streams/merging-streams
+permalink: /:collection/java/java8/streams/merging-streams
 ---
 
 

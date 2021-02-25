@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Function
-permalink: /:collection/java8/functional-interface/function
+permalink: /:collection/java/java8/functional-interface/function
 ---
 
 * Function<T, R> in java.util.function. 

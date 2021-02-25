@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Repeating Annotations
-permalink: /:collection/annotations/repeating-annotations
+permalink: /:collection/java/annotations/repeating-annotations
 ---
 
 

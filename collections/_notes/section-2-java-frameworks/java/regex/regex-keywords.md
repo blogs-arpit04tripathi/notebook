@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RegEx Keywords
-permalink: /:collection/regex/regex-keywords
+permalink: /:collection/java/regex/regex-keywords
 ---
 
 |Regex Basics|Description|

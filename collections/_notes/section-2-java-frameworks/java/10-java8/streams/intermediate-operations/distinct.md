@@ -1,7 +1,7 @@
 ---
 layout: post
 title: distinct()
-permalink: /:collection/java8/streams/operations/distinct
+permalink: /:collection/java/java8/streams/operations/distinct
 ---
 
 ```java

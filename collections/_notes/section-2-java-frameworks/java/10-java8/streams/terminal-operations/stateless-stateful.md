@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stateless and Stateful Operations
-permalink: /:collection/java8/streams/operations/stateless-stateful
+permalink: /:collection/java/java8/streams/operations/stateless-stateful
 ---
 
 **What are Stateless and Stateful operations in Java stream?**  

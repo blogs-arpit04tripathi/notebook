@@ -1,7 +1,7 @@
 ---
 layout: post
 title: max() and min()
-permalink: /:collection/java8/streams/operations/max-min
+permalink: /:collection/java/java8/streams/operations/max-min
 ---
 
 ```java

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AnnotatedElement Interface
-permalink: /:collection/annotations/annotated-element-interface
+permalink: /:collection/java/annotations/annotated-element-interface
 ---
 
 # java.lang.reflect.AnnotatedElement`

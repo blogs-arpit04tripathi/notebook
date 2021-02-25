@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bi-Consumer
-permalink: /:collection/java8/functional-interface/biconsumer
+permalink: /:collection/java/java8/functional-interface/biconsumer
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java8 FAQ
-permalink: /:collection/java8/faq
+permalink: /:collection/java/java8/faq
 ---
 
 - TOC

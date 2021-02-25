@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Effectively final and variable capture in Java 8
-permalink: /:collection/java8/effectively-final
+permalink: /:collection/java/java8/effectively-final
 ---
 
 * When a lambda expression uses an assigned local variable from its enclosing space there is an important restriction. 

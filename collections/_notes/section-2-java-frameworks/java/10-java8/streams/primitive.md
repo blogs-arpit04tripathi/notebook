@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Primitive Type Streams
-permalink: /:collection/java8/streams/primitive
+permalink: /:collection/java/java8/streams/primitive
 ---
 
 

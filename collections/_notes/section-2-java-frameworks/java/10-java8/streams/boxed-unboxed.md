@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Boxed and Unboxed
-permalink: /:collection/java8/streams/boxed-unboxed
+permalink: /:collection/java/java8/streams/boxed-unboxed
 ---
 
 

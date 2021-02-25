@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Built-in Annotations
-permalink: /:collection/annotations/built-in-annotations
+permalink: /:collection/java/annotations/built-in-annotations
 ---
 
 # java.lang.annotation

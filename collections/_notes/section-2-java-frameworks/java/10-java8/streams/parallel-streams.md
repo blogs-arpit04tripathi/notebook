@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Parallel Stream
-permalink: /:collection/java8/streams/parallel-streams
+permalink: /:collection/java/java8/streams/parallel-streams
 ---
 
 

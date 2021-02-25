@@ -1,7 +1,7 @@
 ---
 layout: post
 title: match()
-permalink: /:collection/java8/streams/operations/match
+permalink: /:collection/java/java8/streams/operations/match
 ---
 
 * check whether a certain predicate matches the stream.

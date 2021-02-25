@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Terminal Operations
-permalink: /:collection/java8/streams/operations/terminal
+permalink: /:collection/java/java8/streams/operations/terminal
 ---
 
 * return a result of a certain type, Stream.forEach or IntStream.sum

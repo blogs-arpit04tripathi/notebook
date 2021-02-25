@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Common Matchings
-permalink: /:collection/regex/common-matchings
+permalink: /:collection/java/regex/common-matchings
 ---
 
 - TOC

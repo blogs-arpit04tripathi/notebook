@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RegEx (Regular Expression)
-permalink: /:collection/regex/
+permalink: /:collection/java/regex/
 ---
 
 * ***Pattern of regex is applied on String from left to right and source char in a match can’t be reused.***

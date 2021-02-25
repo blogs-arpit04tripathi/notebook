@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Get Annotations using Reflection
-permalink: /:collection/annotations/annotations-reflection
+permalink: /:collection/java/annotations/annotations-reflection
 ---
 
 * Annotations with **RUNTIME** retention policy can be queried at run time using *reflection*.

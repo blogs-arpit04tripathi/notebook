@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Date and Time API
-permalink: /:collection/java8/date-time
+permalink: /:collection/java/java8/date-time
 ---
 
 **Why new Date and Time API in Java 8**  

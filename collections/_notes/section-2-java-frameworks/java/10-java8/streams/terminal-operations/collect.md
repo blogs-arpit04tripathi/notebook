@@ -1,7 +1,7 @@
 ---
 layout: post
 title: collect()
-permalink: /:collection/java8/streams/operations/collect
+permalink: /:collection/java/java8/streams/operations/collect
 ---
 
 collect() method used to receive elements from a stream and store them in a collection and mentioned in parameter function.

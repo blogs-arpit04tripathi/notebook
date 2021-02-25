@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Supplier
-permalink: /:collection/java8/functional-interface/supplier
+permalink: /:collection/java/java8/functional-interface/supplier
 ---
 
 

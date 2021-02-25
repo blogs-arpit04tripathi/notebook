@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interface Default Method
-permalink: /:collection/java8/interface-default-method
+permalink: /:collection/java/java8/interface-default-method
 ---
 
 

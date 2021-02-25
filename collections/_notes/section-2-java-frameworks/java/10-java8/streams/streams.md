@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Streams
-permalink: /:collection/java8/streams
+permalink: /:collection/java/java8/streams
 ---
 
 

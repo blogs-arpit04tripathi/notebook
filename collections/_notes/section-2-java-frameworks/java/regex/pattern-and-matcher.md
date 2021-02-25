@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pattern and Matcher
-permalink: /:collection/regex/pattern-and-matcher
+permalink: /:collection/java/regex/pattern-and-matcher
 ---
 
 * Pattern object with flags, Pattern.CASE_INSENSITIVE enables case insensitive matching.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Method References
-permalink: /:collection/java8/method-references
+permalink: /:collection/java/java8/method-references
 ---
 
 * Used for referencing a method without invoking it ie. for treating methods as Lambda Expressions. 

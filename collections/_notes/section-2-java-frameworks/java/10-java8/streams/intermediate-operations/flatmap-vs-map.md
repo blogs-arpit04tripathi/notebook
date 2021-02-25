@@ -1,7 +1,7 @@
 ---
 layout: post
 title: flatMap() vs map() 
-permalink: /:collection/java8/streams/operations/flatmap-vs-map
+permalink: /:collection/java/java8/streams/operations/flatmap-vs-map
 ---
 
 

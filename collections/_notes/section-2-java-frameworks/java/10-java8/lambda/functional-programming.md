@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Functional Programming
-permalink: /:collection/java8/functional-programming
+permalink: /:collection/java/java8/functional-programming
 ---
 
 - Code in OOP

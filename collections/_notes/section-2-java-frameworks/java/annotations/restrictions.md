@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Annotaions Restrictions
-permalink: /:collection/annotations/restrictions
+permalink: /:collection/java/annotations/restrictions
 ---
 
 * No annotation can inherit another.

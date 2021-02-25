@@ -1,7 +1,7 @@
 ---
 layout: post
 title: reduce()
-permalink: /:collection/java8/streams/operations/reduce
+permalink: /:collection/java/java8/streams/operations/reduce
 ---
 
 ```java

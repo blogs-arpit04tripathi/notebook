@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stream Operations
-permalink: /:collection/java8/streams/operations
+permalink: /:collection/java/java8/streams/operations
 ---
 
 

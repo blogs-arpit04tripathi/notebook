@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exception Handling in Lambda
-permalink: /:collection/java8/exception-handling-in-lambda
+permalink: /:collection/java/java8/exception-handling-in-lambda
 ---
 
 

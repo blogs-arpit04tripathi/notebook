@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java Annotations
-permalink: /:collection/annotations
+permalink: /:collection/java/annotations/
 ---
 
 # Annotations

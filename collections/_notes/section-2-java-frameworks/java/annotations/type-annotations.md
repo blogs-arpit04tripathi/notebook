@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Type Annotations – JDK8
-permalink: /:collection/annotations/type-annotations
+permalink: /:collection/java/annotations/type-annotations
 ---
 
 

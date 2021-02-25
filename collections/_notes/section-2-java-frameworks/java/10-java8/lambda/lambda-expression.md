@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lambda Expressions
-permalink: /:collection/java8/lambda-expression
+permalink: /:collection/java/java8/lambda-expression
 ---
 
 - a function that can be referenced and passed around as an object.

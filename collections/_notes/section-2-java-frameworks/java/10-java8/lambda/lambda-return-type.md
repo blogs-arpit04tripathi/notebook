@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Return Type of Lambda
-permalink: /:collection/java8/lambda-return-type
+permalink: /:collection/java/java8/lambda-return-type
 ---
 
 The type of a lambda expression depends on the context it is being used.

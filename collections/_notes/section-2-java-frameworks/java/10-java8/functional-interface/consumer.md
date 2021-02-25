@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Consumer
-permalink: /:collection/java8/functional-interface/consumer
+permalink: /:collection/java/java8/functional-interface/consumer
 ---
 
 
