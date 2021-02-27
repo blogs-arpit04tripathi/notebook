@@ -7,7 +7,7 @@ permalink: /aws/sqs/queue-types
 - Standard Queue (default)
 - FIFO Queues
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/sqs/sqs-queue-types.png)
+![]({{site.cdn}}/aws/sqs/sqs-queue-types.png)
 
 # Standard Queue
 

@@ -12,9 +12,9 @@ permalink: /:collection/spring/spring-data/
 # Introduction to Spring Data
 ***Spring Data JPA*** is a separate project within Spring Data ecosystem to enable you connect with persistent stores(SQL and NoSQL).
 
-![spring-data](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-data/spring-data.png)
+![spring-data]({{site.cdn}}/spring/spring-data/spring-data.png)
 
-![spring-data-abstraction](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-data/spring-data-abstraction.png)
+![spring-data-abstraction]({{site.cdn}}/spring/spring-data/spring-data-abstraction.png)
 
 ## Spring DATA JPA (Java Persistence API)
 
@@ -46,7 +46,7 @@ public interface EmployeeRepository extends JPARepositoty<Employee, Integer>{
 - ORM framework does the query, transaction and mapping.
 - JPA is specification to use ORM.
 
-![orm](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-data/orm.png)
+![orm]({{site.cdn}}/spring/spring-data/orm.png)
 
 pom.xml
 - Hibernate-core

@@ -22,7 +22,7 @@ https://blog.angular-university.io/angular-2-redux-ngrx-rxjs/)
 
 ***The main benefit, in my opinion, is that by binding all our components inputs to state properties we can change the change detection strategy to on push, and this is going to be a boost on performance for the application.***
 
-![ng-rx-state-diagram](https://github.com/arpit04tripathi/files-cdn/raw/cdn/angular/ngrx-state-diagram.png)
+![ng-rx-state-diagram]({{site.cdn}}/angular/ngrx-state-diagram.png)
 
-![ngrx-code-action](https://github.com/arpit04tripathi/files-cdn/raw/cdn/angular/ngrx-code-action.png)
-![ngrx-code-reducer](https://github.com/arpit04tripathi/files-cdn/raw/cdn/angular/ngrx-code-reducer.png)
+![ngrx-code-action]({{site.cdn}}/angular/ngrx-code-action.png)
+![ngrx-code-reducer]({{site.cdn}}/angular/ngrx-code-reducer.png)

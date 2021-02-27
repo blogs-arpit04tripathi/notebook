@@ -25,4 +25,4 @@ permalink: /aws/ddb/indexes
 - speeds up any queries relating to this alternative partition and sort key
 - ex. partition key = email address, sort key = last login date
 
-![index-types](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/ddb/index-types.png)
+![index-types]({{site.cdn}}/aws/ddb/index-types.png)

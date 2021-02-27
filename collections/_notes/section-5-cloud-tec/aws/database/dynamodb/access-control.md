@@ -15,7 +15,7 @@ permalink: /aws/ddb/access-control
 - This can be done by adding a condition to an IAM Policy to allow access only to items where the partition key value matches their userID.
     - iam conditional parameter - dynamodb:LeadingKeys
 
-![dynamodb-iam-condition](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/ddb/dynamodb-iam-condition.png)
+![dynamodb-iam-condition]({{site.cdn}}/aws/ddb/dynamodb-iam-condition.png)
 
 ```cli
 aws dynamodb get-item --table-name ProductCatalog --region eu-west-2 --key '{"id":{"n":"205"}}'

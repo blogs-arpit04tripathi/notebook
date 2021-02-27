@@ -8,7 +8,7 @@ permalink: /:collection/junit/introduction
 The point of writing automated tests is not so much to verify that the code works now, but to verify on an ongoing basis that it continues to work in the future.
 
 **Why use testing Framework?**  
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/junit/why-testing-framework.png)
+![]({{site.cdn}}/junit/why-testing-framework.png)
 
 **JUnit 4**
 - 10 years old

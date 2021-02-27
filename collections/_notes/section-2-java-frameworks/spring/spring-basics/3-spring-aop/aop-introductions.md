@@ -12,7 +12,7 @@ permalink: /:collection/spring-aop/introductions
   - proxy delegates the call to some other object that provides the implementation of the new interface.
   - Effectively, this gives you one bean whose implementation is split across multiple classes.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-aop/aop-introduction.png)
+![]({{site.cdn}}/spring/spring-aop/aop-introduction.png)
 
 ```java
 package concert;

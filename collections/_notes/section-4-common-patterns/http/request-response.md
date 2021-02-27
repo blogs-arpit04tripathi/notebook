@@ -10,7 +10,7 @@ permalink: /:collection/http/request-response
 - The empty line must consist of only `<CR><LF>` and no other whitespace.
 - In the HTTP/1.1 protocol, all headers except Host are optional.
 
-![req-res.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/http/req-res.png)
+![req-res.png]({{site.cdn}}/webservices/http/req-res.png)
 
 # MIME Types (Multipurpose Internet Mail-Extension)
 - Internet media type.

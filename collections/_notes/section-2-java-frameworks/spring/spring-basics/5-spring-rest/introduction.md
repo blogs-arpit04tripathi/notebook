@@ -29,5 +29,5 @@ permalink: /:collection/spring/spring-rest/introduction
   - resturn response as json.
 - Spring applications can consume REST resources using RestTemplate.
 
-![spring-rest-diagram-2](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-rest/spring-rest-diagram-2.png){:target="_blank"}
+![spring-rest-diagram-2]({{site.cdn}}/spring/spring-rest/spring-rest-diagram-2.png){:target="_blank"}
 

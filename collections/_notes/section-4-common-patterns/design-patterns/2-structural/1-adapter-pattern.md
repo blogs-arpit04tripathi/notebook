@@ -15,7 +15,7 @@ permalink: /design-patterns/structural/adapter-pattern
 # Real Life Example 
 Mobile charger - Mobile battery needs 3 volts to charge but the normal socket produces either 120V (US) or 240V (India). So the mobile charger works as an adapter between mobile charging socket and the wall socket.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/design-patterns/structural-adapter-example.png)
+![]({{site.cdn}}/design-patterns/structural-adapter-example.png)
 
 ```java
 public class Volt {
@@ -50,7 +50,7 @@ public interface SocketAdapter {
 -	**Object Adapter**
     - This form uses Java Composition and adapter contains the source object.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/design-patterns/structural-adapter.png)
+![]({{site.cdn}}/design-patterns/structural-adapter.png)
 
 ```java
 //Using inheritance for adapter pattern

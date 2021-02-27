@@ -10,7 +10,7 @@ permalink: /kafka/producer/api
 
 KafkaProducer send(ProducerRecord<K,V> record) returns Future<RecordMetadata>, this acknowledgement contains partition id and offset number where partition resides.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/kafka/producer-api.png)
+![]({{site.cdn}}/kafka/producer-api.png)
 
 -	Asynchronous Producer (Better throughput than fire-and-forget).
 -	**max.in.flight.requests.per.connection** = number of in-flight messages sent to cluster without an acknowledgement.

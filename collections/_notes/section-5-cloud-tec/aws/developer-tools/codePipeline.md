@@ -13,6 +13,6 @@ A fully managed CICD service
 - CodePipeline integrates with
   - CodeCommit, CodeBuild, CodeDeploy, GitHub, Jenkins, Elastic Beanstalk, CloudFormation, Lambda, Elastic Container Service.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/dev-theory/codePipeline-workflow.png)
+![]({{site.cdn}}/aws/dev-theory/codePipeline-workflow.png)
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/dev-theory/codePipeline-architecture.png)
+![]({{site.cdn}}/aws/dev-theory/codePipeline-architecture.png)

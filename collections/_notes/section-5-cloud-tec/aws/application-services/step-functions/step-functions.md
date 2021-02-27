@@ -9,7 +9,7 @@ permalink: /aws/step-functions
 - Step Functions automatically triggers and tracks each step, and retries when there are errors, so your application executes in order and as expected.
 - Step Functions logs the state of each step, so when things do go wrong, you can diagnose and debug problems quickly.
 
-![step-function.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/serverless/step-function.png)
+![step-function.png]({{site.cdn}}/aws/serverless/step-function.png)
 
 AWS Services --> Application Integration --> 
 

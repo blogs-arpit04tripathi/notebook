@@ -184,7 +184,7 @@ public class DrawingClient extends JFrame {
 ```
 - used random number generation to generate different type of Shapes in our frame. If you run above client program, you will notice the delay in creating first Line Object and Oval objects with fill as true and false. After that the program executes quickly since its using the shared objects. After clicking "Draw" button multiple times, the frame looks like below image.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/design-patterns/structural-flyweigh-output.png)
+![]({{site.cdn}}/design-patterns/structural-flyweigh-output.png)
 
 # Flyweight Design Pattern Important Points
 1.	In our example, the client code is not forced to create object using Flyweight factory but we can force that to make sure client code uses flyweight pattern implementation but its a complete design decision for particular application.

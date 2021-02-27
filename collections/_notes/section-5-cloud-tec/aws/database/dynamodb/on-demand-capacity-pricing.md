@@ -13,4 +13,4 @@ permalink: /aws/ddb/on-demand-capacity-pricing
 
 # Which pricing model should I use
 
-![pricing-model](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/ddb/pricing-model.png)
+![pricing-model]({{site.cdn}}/aws/ddb/pricing-model.png)

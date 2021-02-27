@@ -15,7 +15,7 @@ permalink: /:collection/aws/ecs/introduction
 - Applications are created using independent stateless components or microservices running in containers.
 - Use Docker to create linux containers and Windows containers for windows workloads.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/dev-theory/docker-container-architecture.png)
+![]({{site.cdn}}/aws/dev-theory/docker-container-architecture.png)
 
 # Advantages of Containers and Microservices Architecture
 - Highly Scalable - If application becomes overloaded, scale only the services you need to.
@@ -31,7 +31,7 @@ permalink: /:collection/aws/ecs/introduction
   - Use EC2 if you want to control the installation, configuration and management of your compute environment.
 - ECS picks docker images from ECR (Elastic container registry)
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/dev-theory/ecr-container-registry.png)
+![]({{site.cdn}}/aws/dev-theory/ecr-container-registry.png)
 
 # Cool Services Using ECS
 - Amazon Sagemaker - Quickly deploy and scale machine learning models for training and inference jobs.
@@ -42,7 +42,7 @@ permalink: /:collection/aws/ecs/introduction
 **Docker** is an open source technology which allows you to create applications based on either linux or windows containers.
 - A container is lightweight standalone executable software package which includes everything the software needs to run - code, runtime environment, libraries, environment settings etc.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/dev-theory/codeBuild-docker-lab.png)
+![]({{site.cdn}}/aws/dev-theory/codeBuild-docker-lab.png)
 
 ```
 docker build -t myimagerepo --> creates alias

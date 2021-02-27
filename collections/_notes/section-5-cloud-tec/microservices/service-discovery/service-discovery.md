@@ -13,4 +13,4 @@ Here, Service Discovery is used.
 - Load Balancing
 - Multiple Environments
 
-![service-discovery.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/microservices/service-discovery.png)
+![service-discovery.png]({{site.cdn}}/webservices/microservices/service-discovery.png)

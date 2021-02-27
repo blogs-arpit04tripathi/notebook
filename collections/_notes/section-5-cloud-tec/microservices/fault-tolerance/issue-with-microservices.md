@@ -40,4 +40,4 @@ permalink: /microservices/issue-with-microservices
     * Implementation - Hystrix, resilience4j
         - Implemented using decorator pattern
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/microservices/circuit-breaker-check.png)
+![]({{site.cdn}}/webservices/microservices/circuit-breaker-check.png)

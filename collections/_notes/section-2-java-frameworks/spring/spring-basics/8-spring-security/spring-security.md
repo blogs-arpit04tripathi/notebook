@@ -34,11 +34,11 @@ permalink: /:collection/spring/spring-security/
   - Servlet filters can route web requests based on security logic.
   - Spring provides a bulk of security functionality with servlet filters.
 
-![spring-security-modules.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-security/spring-security-modules.png)
+![spring-security-modules.png]({{site.cdn}}/spring/spring-security/spring-security-modules.png)
 
 ![spring-security-overview.png](https://terasolunaorg.github.io/guideline/1.0.x/en/_images/spring_security_overview.png "Spring Security Overview")
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-security/spring-security-overview.png)
+![]({{site.cdn}}/spring/spring-security/spring-security-overview.png)
 
 
 ## Filtering web requests
@@ -47,9 +47,9 @@ permalink: /:collection/spring/spring-security/
 - you only need to configure `DelegatingFilterProxy`.
 
 ### DelegatingFilterProxy
-![delegatingFilterProxy.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-security/delegatingFilterProxy.png)
-![spring-security-filter-configuration.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-security/spring-security-filter-configuration.png)
-![spring-security-filter-configuration-example.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-security/spring-security-filter-configuration-example.png)
+![delegatingFilterProxy.png]({{site.cdn}}/spring/spring-security/delegatingFilterProxy.png)
+![spring-security-filter-configuration.png]({{site.cdn}}/spring/spring-security/spring-security-filter-configuration.png)
+![spring-security-filter-configuration-example.png]({{site.cdn}}/spring/spring-security/spring-security-filter-configuration-example.png)
 
 - It is a special servlet filter that, by itself, doesn’t do much.
 - It delegates to an implementation of `javax.servlet.Filter` that’s registered as a bean in the Spring application context.
@@ -72,7 +72,7 @@ public class SecurityWebInitializer extends AbstractSecurityWebApplicationInitia
 - you can override its appendFilters() or insertFilters() methods to register filters of your own choosing, you need not override anything to register DelegatingFilterProxy.
 - DelegatingFilterProxy will intercept requests coming into the application and delegate them to a bean whose ID is SpringSecurityFilterChain.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-security/spring-security-filter-flow.png)
+![]({{site.cdn}}/spring/spring-security/spring-security-filter-flow.png)
 
 ### SpringSecurityFilterChain
 - SpringSecurityFilterChain bean itself, it’s another special filter known as FilterChainProxy. 
@@ -104,7 +104,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 - It also configures a bean that automatically adds a hidden cross-site request forgery (CSRF) token field on forms using Spring’s form-binding tag library.
 - You can configure web security by overriding WebSecurityConfigurerAdapter’s three configure() methods and setting behavior on the parameter passed in.
 
-![WebSecurityConfigurerAdapter-methods.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-security/WebSecurityConfigurerAdapter-methods.png)
+![WebSecurityConfigurerAdapter-methods.png]({{site.cdn}}/spring/spring-security/WebSecurityConfigurerAdapter-methods.png)
 
 - override configure method - AuthenticationManagerBuilder for in-memory
 - override configure method - HttpSecurity for antMatchers
@@ -157,7 +157,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 - withUser() returns a `UserDetailsManagerConfigurer.UserDetailsBuilder`.
 - roles() method is a shortcut for the authorities() methods. **Any values given to roles() are prefixed with ROLE_ and assigned as authorities to the user**.
 
-![inMemoryAuthentication-methods.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-security/inMemoryAuthentication-methods.png)
+![inMemoryAuthentication-methods.png]({{site.cdn}}/spring/spring-security/inMemoryAuthentication-methods.png)
 
 ## Authenticating against database tables
 
@@ -378,7 +378,7 @@ STREET  streetAddress
 - From the com Domain Component, find the google Domain Component, and then inside it the gl Domain Component and then inside it the gp Domain Component.
 - In the gp Domain Component, find the Organizational Unit called Distribution Groups and then find the the object that has a common name of Dev-India.
 
-![ldap-ldif.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-security/ldap-ldif.png)
+![ldap-ldif.png]({{site.cdn}}/spring/spring-security/ldap-ldif.png)
 
 ## Configuring a custom user service
 
@@ -445,13 +445,13 @@ protected void configure(HttpSecurity http) throws Exception {
 - The second call to antMatchers() is even more specific, saying that any HTTP POST request to /spittles must be authenticated.
 - Finally, a call to anyRequests() says that all other requests should be permitted, not requiring authentication or any authorities.
 
-![configure-httpSecurity-methods.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-security/configure-httpSecurity-methods.png)
+![configure-httpSecurity-methods.png]({{site.cdn}}/spring/spring-security/configure-httpSecurity-methods.png)
 
 ***You should know, however, that they’ll be applied in the order given. For that reason, it’s important to configure the most specific request path patterns first and the least specific ones (such as anyRequest()) last. If not, then the least specific paths will trump the more specific ones.***
 
 ## Securing with Spring Expressions
 
-![security-SpEL.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-security/security-SpEL.png)
+![security-SpEL.png]({{site.cdn}}/spring/spring-security/security-SpEL.png)
 ```java
 .antMatchers("/spitter/me").access("hasRole('ROLE_SPITTER') and hasIpAddress('192.168.1.2')")
 ```
@@ -569,7 +569,7 @@ protected void configure(HttpSecurity http) throws Exception {
 <!-- security tag JSTL -->
 <%@ taglib prefix="security" uri="http://www.springframework.org/security/tags" %>
 ```
-![jsp-security-tags.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-security/jsp-security-tags.png)
+![jsp-security-tags.png]({{site.cdn}}/spring/spring-security/jsp-security-tags.png)
 
 \<security:authentication> will render the property’s value in the view. But if you’d rather assign it to a variable, then simply specify the name of the variable in the var attribute. The variable is created in page scope by default.
 
@@ -672,7 +672,7 @@ Shortcoming : They can restrict the invocation of a method based only on whether
 ## SpEL Enabled Annotations
 - annotations that use SpEL to enable even more interesting security constraints on methods.
 
-![pre-post-annotations.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-security/pre-post-annotations.png)
+![pre-post-annotations.png]({{site.cdn}}/spring/spring-security/pre-post-annotations.png)
 
 - to enable them by setting @EnableGlobalMethodSecurity’s prePostEnabled attribute to true.
 
@@ -789,7 +789,7 @@ protected MethodSecurityExpressionHandler createExpressionHandler() {
 ```
 Now anytime you secure a method with an expression that uses hasPermission(), the SpittlePermissionEvaluator will be invoked and get to decide whether or not the user has permission to call the method.
 
-![spring-security-login-handler](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-security/spring-security-login-handler.png)
+![spring-security-login-handler]({{site.cdn}}/spring/spring-security/spring-security-login-handler.png)
 
 `{noop}password` - tells spring security not apply any password encoder.
 

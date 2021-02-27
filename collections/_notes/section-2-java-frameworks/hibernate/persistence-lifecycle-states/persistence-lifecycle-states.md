@@ -14,5 +14,5 @@ As you know that **Hibernate** works with normal Java objects that your applicat
 
 Given an instance of an object that is mapped to Hibernate, it can be in any one of four different states: **transient, persistent, detached, or removed.** 
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/hibernate/entity-lifecycle.png)
+![]({{site.cdn}}/hibernate/entity-lifecycle.png)
 

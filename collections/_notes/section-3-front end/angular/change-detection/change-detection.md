@@ -27,4 +27,4 @@ export class MessageComponent implements OnInit {
 }
 ```
 
-![change-detector-hierarchy](https://github.com/arpit04tripathi/files-cdn/raw/cdn/angular/change-detector-hierarchy.png)
+![change-detector-hierarchy]({{site.cdn}}/angular/change-detector-hierarchy.png)

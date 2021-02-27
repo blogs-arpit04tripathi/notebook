@@ -18,7 +18,7 @@ permalink: /design-patterns/structural/decorator-pattern
 # Example - Decorator Pattern
 Suppose we want to implement different kinds of cars – we can create interface Car to define the assemble method and then we can have a Basic car, further more we can extend it to Sports car and Luxury Car. The implementation hierarchy will look like below image.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/design-patterns/structural-decorator-example.png)
+![]({{site.cdn}}/design-patterns/structural-decorator-example.png)
 
 But if we want to get a car at runtime that has both the features of sports car and luxury car, then the implementation gets complex and if further more we want to specify which features should be added first, it gets even more complex. Now imagine if we have ten different kind of cars, the implementation logic using inheritance and composition will be impossible to manage. To solve this kind of programming situation, we apply decorator pattern in java.
 
@@ -76,7 +76,7 @@ public class LuxuryCar extends CarDecorator {
 	}
 }
 ```
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/design-patterns/structural-decorator.png)
+![]({{site.cdn}}/design-patterns/structural-decorator.png)
 - Client program can create different kinds of Object at runtime and they can specify the order of execution too.
 ```java
 public class TestDecoratorPattern {

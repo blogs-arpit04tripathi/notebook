@@ -18,9 +18,9 @@ permalink: /spring/mvc/data-across-redirect-urls
     - Passing data as path variables and/or query parameters using URL templates
     -	Sending data in flash attributes
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-mvc/redirect/redirect.png)
+![]({{site.cdn}}/spring/spring-mvc/redirect/redirect.png)
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-mvc/redirect/forward-vs-redirect.png)
+![]({{site.cdn}}/spring/spring-mvc/redirect/forward-vs-redirect.png)
 
 # Redirecting with URL templates
 
@@ -49,7 +49,7 @@ Spitter spitter, Model model) {
   - Flash attributes, carry data until next request; then they go away.
   - `RedirectAttributes`, sub-interface of Model with additional methods for setting flash attributes.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-mvc/redirect/redirect-flash-attributes.png)
+![]({{site.cdn}}/spring/spring-mvc/redirect/redirect-flash-attributes.png)
 
 ```java
 @RequestMapping(value = "/register", method = POST)

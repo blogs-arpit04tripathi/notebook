@@ -10,7 +10,7 @@ permalink: /hibernate/table-per-subclass
 Public class Vehicle{ }
 ```
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/hibernate/inheritance-table-per-subclass.png)
+![]({{site.cdn}}/hibernate/inheritance-table-per-subclass.png)
 
 # Advantages of Joined Table Strategy
 -	Tables are normalized.

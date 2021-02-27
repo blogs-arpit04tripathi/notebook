@@ -15,7 +15,7 @@ SQS Extended Client Library for java allows you to
 - Get a message object from S3.
 - Delete a message object for S3.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/sqs/large-sqs-messages.png)
+![]({{site.cdn}}/aws/sqs/large-sqs-messages.png)
 
 For Large SQS
 - You need

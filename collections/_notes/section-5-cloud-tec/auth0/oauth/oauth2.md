@@ -24,7 +24,7 @@ The permissions represented by the Access Token, in OAuth 2.0 terms are known as
 |Authorization Server|the server that authenticates the Resource Owner, and issues Access Tokens after getting proper authorization. In this case, Auth0.|
 |User Agent|the agent used by the Resource Owner to interact with the Application, for example a browser or a native application.|
 
-![auth0-basic-flow.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/auth0/auth0-basic-flow.png)
+![auth0-basic-flow.png]({{site.cdn}}/auth0/auth0-basic-flow.png)
 
 1. The Application (Client) asks for authorization from the Resource Owner in order to access the resources.
 2. Provided that the Resource Owner authorizes this access, the Application receives an Authorization Grant. This is a credential representing the Resource Owner's authorization.
@@ -33,5 +33,5 @@ The permissions represented by the Access Token, in OAuth 2.0 terms are known as
 5. The Application requests access to the protected resource by the Resource Server, and authenticates by presenting the Access Token.
 6. Provided that the Access Token is valid, the Resource Server serves the Application's request.
 
-![authenticate.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/auth0/authenticate.png)
-![oauth-vs-openid.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/auth0/oauth-vs-openid.png)
+![authenticate.png]({{site.cdn}}/auth0/authenticate.png)
+![oauth-vs-openid.png]({{site.cdn}}/auth0/oauth-vs-openid.png)

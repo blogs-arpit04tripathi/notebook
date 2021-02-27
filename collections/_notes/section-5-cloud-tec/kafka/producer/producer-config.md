@@ -42,7 +42,7 @@ permalink: /kafka/producer/config
 -	number of messages allowed to sent without any acknowledgement, i.e. in-flight.
 -	Bigger number increases throughput bult also bumps up the memory usage.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/kafka/producer-with-callback.png)
+![]({{site.cdn}}/kafka/producer-with-callback.png)
 
 # buffer.memory
 # compression.type

@@ -169,7 +169,7 @@ This code uses the terminal `collect()` operation to reduce a Stream<String> to 
 ## Difference Array
 Each operation adds 'k' to elements from index 'a' to 'b', Find the max value after all operations.
 
-![difference-array](https://github.com/arpit04tripathi/files-cdn/raw/cdn/programming/concept-of-difference-array.png)
+![difference-array]({{site.cdn}}/programming/concept-of-difference-array.png)
 
 ```java
 // Complete the arrayManipulation function below.

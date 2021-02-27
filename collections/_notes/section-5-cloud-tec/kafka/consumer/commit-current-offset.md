@@ -12,4 +12,4 @@ permalink: /kafka/consumer/commit-current-offset
   - consumer.commitSync() - blocking
   - consumer.commitAsync() – non blocking and no retry.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/kafka/commit-current-offset.png)
+![]({{site.cdn}}/kafka/commit-current-offset.png)

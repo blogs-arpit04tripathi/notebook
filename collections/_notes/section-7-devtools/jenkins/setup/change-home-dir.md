@@ -12,7 +12,7 @@ Cmd > go to Jenkins war > java –jar Jenkins.war
 Go to local Jenkins > Manage Jenkins > Configure System > Check Home Directory
 ```
 
-![jenkins-home-directory](https://github.com/arpit04tripathi/files-cdn/raw/cdn/devtools/jenkins/jenkins-home-directory.png)
+![jenkins-home-directory]({{site.cdn}}/devtools/jenkins/jenkins-home-directory.png)
 
 Create new folder in required place > Copy everything from old directory to new one > Change the environment variable JENKINS_HOME to new directory
 

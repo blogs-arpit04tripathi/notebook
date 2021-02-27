@@ -9,7 +9,7 @@ Even if Vehicle, TwoWheeler and FourWheeler are implemented as separate @Entity,
 
 **DTYPE – Discriminator Type**
 
-![inheritance-single-table-dtype](https://github.com/arpit04tripathi/files-cdn/raw/cdn/hibernate/inheritance-single-table-dtype.png)
+![inheritance-single-table-dtype]({{site.cdn}}/hibernate/inheritance-single-table-dtype.png)
 
 ```java
 @Entity

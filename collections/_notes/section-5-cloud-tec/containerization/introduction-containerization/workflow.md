@@ -8,4 +8,4 @@ The typical workflow in Docker involves building an image from a Dockerfile or p
 
 Instead of listing all the supported workflows, this Refcard walks through a basic Spring Boot Java application — starting from basic container’s use cases to more advanced ones.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/docker/docker-workflow.png)
+![]({{site.cdn}}/webservices/docker/docker-workflow.png)

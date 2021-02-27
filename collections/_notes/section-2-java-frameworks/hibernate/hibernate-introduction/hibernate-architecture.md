@@ -4,9 +4,9 @@ title: Hibernate Architecture
 permalink: /hibernate/architecture
 ---
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/hibernate/hibernate-architecture.png)
+![]({{site.cdn}}/hibernate/hibernate-architecture.png)
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/hibernate/)
+![]({{site.cdn}}/hibernate/)
 
 **Name some important interfaces of Hibernate framework?**  
 1. **SessionFactory (org.hibernate.SessionFactory)**
@@ -20,4 +20,4 @@ Transaction is a single-threaded, short-lived object used by the application to 
 
 # Hibernate Interfaces
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/hibernate/hibernate-interfaces.png)
+![]({{site.cdn}}/hibernate/hibernate-interfaces.png)

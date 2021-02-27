@@ -36,4 +36,4 @@ permalink: /:collection/spring/core/introduction
 - JDBC Exception Handling: 
     - The JDBC abstraction layer of the Spring offers an exception hierarchy, which simplifies the error handling strategy.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-core/spring-core-example.png)
+![]({{site.cdn}}/spring/spring-core/spring-core-example.png)

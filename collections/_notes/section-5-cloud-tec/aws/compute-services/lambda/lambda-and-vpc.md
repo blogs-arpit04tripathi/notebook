@@ -4,7 +4,7 @@ title: Lambda and VPC
 permalink: /aws/lambda/lambda-and-vpc
 ---
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/serverless/lambda-and-vpc.png)
+![]({{site.cdn}}/aws/serverless/lambda-and-vpc.png)
 
 - Some usecases require lambda to access resources which are inside a private VPC.
 - eg. read or write a RDS daabase, or shut down an EC2 instance in response to security alert.

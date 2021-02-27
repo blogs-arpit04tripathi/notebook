@@ -12,4 +12,4 @@ permalink: /aws/lambda/version-control-lab
 * Echo --> Hardware
 * Alexa --> Voice Service
 
-![lambda-version-control.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/serverless/lambda-version-control.png)
+![lambda-version-control.png]({{site.cdn}}/aws/serverless/lambda-version-control.png)

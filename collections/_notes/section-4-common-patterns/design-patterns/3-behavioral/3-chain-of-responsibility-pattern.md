@@ -11,9 +11,9 @@ permalink: /design-patterns/behavioral/chain-of-responsibility-pattern
 Dispense bills of 50$, 20$, 10$ denomination.  
 If the user enters an amount that is not multiples of 10, it throws error. We will use Chain of Responsibility pattern to implement this solution. 
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/design-patterns/behavioral-chain-of-responsibility-example.png)
+![]({{site.cdn}}/design-patterns/behavioral-chain-of-responsibility-example.png)
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/design-patterns/behavioral-chain-of-responsibility.png)
+![]({{site.cdn}}/design-patterns/behavioral-chain-of-responsibility.png)
 
 Note that we can implement this solution easily in a single program itself but then the complexity will increase and the solution will be tightly coupled. So we will create a chain of dispense systems to dispense bills of 50$, 20$ and 10$.
 

@@ -14,7 +14,7 @@ In addition, Hibernate supports a fourth, slightly different kind of polymorphis
 
 Feature of OOP, no equivalent in Relational Model.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/hibernate/mapping-inheritance.png)
+![]({{site.cdn}}/hibernate/mapping-inheritance.png)
 
 Use hibernate implementation of inheritance of when strong implementation of inheritance is used like polymorphism, dynamic assignment of objects.
 

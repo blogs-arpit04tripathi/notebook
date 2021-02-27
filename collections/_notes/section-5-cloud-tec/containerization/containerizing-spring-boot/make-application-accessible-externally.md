@@ -24,6 +24,6 @@ spec:
 ```
 This file requests the OpenShift/Kubernetes cluster creates a load balancer for the application called *refcard-demo* on port 8080. After defining this Kubernetes service, you will notice that a new section called **Networking** is available in your application. Although the Kubernetes service acts as a load balancer for internal traffic, we need an extra step to make our application available externally. To allow external access, we need to create a route. Click **Create Route**.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/docker/docker-create-route.png)
+![]({{site.cdn}}/webservices/docker/docker-create-route.png)
 
 In the **Create Route** screen, accept the default values and click the blue **Create** button. Now, on the **Overview** screen, there’s a route to your application. You can click on the route link to open the application address in another tab. Don’t forget to add /api/hello in the address to allow it to access the endpoint that we have previously created (http:///api/hello).

@@ -12,4 +12,4 @@ permalink: /aws/ses/introduction
 - eg. an online retail business that needs to let customers know about sales, promotions and discounts.
 
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/sns/ses-vs-sns.png)
+![]({{site.cdn}}/aws/sns/ses-vs-sns.png)

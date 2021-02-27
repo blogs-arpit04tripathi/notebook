@@ -17,6 +17,6 @@ permalink: /kafka/core-concepts
     -	Maximum consumers in group = number of partitions of the topic.
     -	No more than 2 consumers are allowed by kafka to read simultaneously to avoid double reading of records.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/kafka/kafka-core-concepts.png)
+![]({{site.cdn}}/kafka/kafka-core-concepts.png)
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/kafka/concept-consumer-groups.png)
+![]({{site.cdn}}/kafka/concept-consumer-groups.png)

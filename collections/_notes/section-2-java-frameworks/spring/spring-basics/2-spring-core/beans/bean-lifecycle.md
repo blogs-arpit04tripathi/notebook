@@ -5,7 +5,7 @@ permalink: /:collection/spring/bean-lifecycle
 ---
 
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-core/bean-lifecycle.png)
+![]({{site.cdn}}/spring/spring-core/bean-lifecycle.png)
 
 -	Spring ***instantiates*** the bean.
 -	Spring injects values and bean references into the ***bean’s properties***.

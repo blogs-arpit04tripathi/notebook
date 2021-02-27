@@ -16,7 +16,7 @@ In hibernate there are 3 ways to create one-to-one relationships between two ent
 
 # 1. Foreign Key
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/hibernate/121-foreign-key.png)
+![]({{site.cdn}}/hibernate/121-foreign-key.png)
 
 ```java
 EmployeeEntity.java
@@ -42,7 +42,7 @@ Hibernate: insert into Employee (ACCOUNT_ID, EMAIL, FIRST_NAME, LAST_NAME) value
 
 # 2. with common join table
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/hibernate/121-join-table.png)
+![]({{site.cdn}}/hibernate/121-join-table.png)
 
 main annotation to be used is @JoinTable. This annotation is used to define the new table name (mandatory) and foreign keys from both of the tables.
 
@@ -77,7 +77,7 @@ Hibernate: insert into ACCOUNT (ACC_NUMBER) values (?)
 Hibernate: insert into Employee (ACCOUNT_ID, EMAIL, FIRST_NAME, LAST_NAME) values (?, ?, ?, ?)
 ```
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/hibernate/onetoone-bidirectional.png)
+![]({{site.cdn}}/hibernate/onetoone-bidirectional.png)
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/hibernate/er-diagram-relationship-types.png)
+![]({{site.cdn}}/hibernate/er-diagram-relationship-types.png)
 

@@ -7,7 +7,7 @@ permalink: /hibernate/lazy-loading/effect-on-detached-entities
 -	As we know that hibernate can only access the database via a session, So If an entity is detached from the session and when we try to access an association (via a proxy or collection wrapper) that has not yet been loaded, **Hibernate throws a LazyInitializationException.**
 -	The cure is to ensure either that the entity is made persistent again by attaching it to a session or that all of the fields that will be required are accessed (so they are loaded into entity) before the entity is detached from the session.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/hibernate/lazy-loading.png)
+![]({{site.cdn}}/hibernate/lazy-loading.png)
 
 |Default Fetch Type||
 |---|---|

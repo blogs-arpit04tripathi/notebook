@@ -6,7 +6,7 @@ permalink: /microservices/hystrix/working
 
 Creates a Hystrix Proxy object.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/microservices/hystrix-proxy.png)
+![]({{site.cdn}}/webservices/microservices/hystrix-proxy.png)
 
 For Movie Catalog API Ecosystem, we should not put @HystrixCommand on getUserMovieRatingCatalog(userId) method but on getRatings and getMovieInfo methods, Why?
 - **Case 1**

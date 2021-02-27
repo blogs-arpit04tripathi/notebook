@@ -19,7 +19,7 @@ permalink: /aws/kinesis/types
   - upto 1000 records per second for writes, upto total data write rate of 1MB per second (including partition keys).
 - As your data rate increases, you need to increase the number of shards (resharding).
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/kinesis/kinesis-streams.png)
+![]({{site.cdn}}/aws/kinesis/kinesis-streams.png)
 
 # Kinesis Firehose
 
@@ -30,10 +30,10 @@ permalink: /aws/kinesis/types
 - No retention period as opposed to Kinesis Streams
 - More automated way of doing kinesis
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/kinesis/kinesis-firehose.png)
+![]({{site.cdn}}/aws/kinesis/kinesis-firehose.png)
 
 # Kinesis Analytics
 
 - Kinesis Analytics lets you run SQL queries on that data as if it exists within firehose or streams then, you can use SQL query to store output data to S3. Redshift, Elastic Search Clusture etc.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/kinesis/kinesis-analytics.png)
+![]({{site.cdn}}/aws/kinesis/kinesis-analytics.png)

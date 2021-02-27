@@ -9,7 +9,7 @@ Some time back all the IT infrastructure was on premises. There we in house serv
 
 Then with advent of cloud services these software and hardware services are now delivered over the internet rather than being on premises.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/microservices/spring-cloud.png)
+![]({{site.cdn}}/webservices/microservices/spring-cloud.png)
 
 Cloud Foundry is an open source, multi-cloud application platform as a service governed by the Cloud Foundry Foundation. The software was originally developed by VMware and then transferred to Pivotal Software, a joint venture by EMC, VMware and General Electric.
 

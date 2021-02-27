@@ -27,7 +27,7 @@ permalink: /aws/devtools/appSpec-file
 - run tests - run functional tests on newly deployed application.
 - deal with load balancing - de-register and re-register instances with load balancer.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/dev-theory/appspec-yaml.png)
+![]({{site.cdn}}/aws/dev-theory/appspec-yaml.png)
 
 **Typical Folder Setup**
 - /Scripts
@@ -35,4 +35,4 @@ permalink: /aws/devtools/appSpec-file
 - /Source
 - appspec.yml must be placed in root directory otherwise deployment will be failed.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/dev-theory/code-deploy-lifecycle.png)
+![]({{site.cdn}}/aws/dev-theory/code-deploy-lifecycle.png)

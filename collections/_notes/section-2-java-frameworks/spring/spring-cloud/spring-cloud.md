@@ -11,7 +11,7 @@ permalink: /:collection/spring/spring-cloud/
 
 # Spring Cloud Components
 
-![spring-cloud-components](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-cloud/spring-cloud-components.png)
+![spring-cloud-components]({{site.cdn}}/spring/spring-cloud/spring-cloud-components.png)
 
 # Introduction to Spring Cloud
 

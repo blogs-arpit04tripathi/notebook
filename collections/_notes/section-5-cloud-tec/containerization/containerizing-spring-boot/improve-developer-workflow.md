@@ -20,7 +20,7 @@ Before exploring the S2I features, we need first to get rid of all objects that 
 
 To delete the entire project, select **View all projects** in the top left corner. In the **My projects** screen, select your application menu and click **Delete Project**. You will be asked to confirm the deletion of the project.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/docker/docker-create-new-project.png)
+![]({{site.cdn}}/webservices/docker/docker-create-new-project.png)
 
 Create your project again. If you receive a message saying that your project already exists, wait a few seconds and try again. The project may still be being removed from the cluster.
 
@@ -34,7 +34,7 @@ In the wizard, make sure to fill the following fields:
 -	**Context directory**: (Delete the existing value)
 Click Create.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/docker/create-new-openjdk-config.png)
+![]({{site.cdn}}/webservices/docker/create-new-openjdk-config.png)
 
 The build process will start automatically. You can check the build log running in the **Overview** page and note that OpenShift will clone your Git repository and run a Maven package on your project. When the build process completes, the new container will be deployed automatically.
 

@@ -25,6 +25,6 @@ To deploy our previously created image, click **Deploy image**. This will open a
 
 The image will be downloaded, and a new container instance will be executed based on your image.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/docker/docker-scaleup-in-cloud.png)
+![]({{site.cdn}}/webservices/docker/docker-scaleup-in-cloud.png)
 
 The up and down arrows control the number of replicas. Because we are running with a free subscription, scaling to more than two replicas will exceed the usage memory quota of 1GB and no replicas will be created. However, this feature can give you an idea of how easy is to create multiple container replicas and scale your application.

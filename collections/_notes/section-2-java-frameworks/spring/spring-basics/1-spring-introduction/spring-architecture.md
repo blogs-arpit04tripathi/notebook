@@ -6,7 +6,7 @@ permalink: /:collection/spring/architecture
 
 As of Spring 4.0, there are 20 distinct modules in the Spring Framework distribution, with three JAR files for each module (the binary class library, the source JAR file, and a JavaDoc JAR file).
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-core/spring-framework-architecture.png)
+![]({{site.cdn}}/spring/spring-core/spring-framework-architecture.png)
 
 |Core Container||
 |---|---|

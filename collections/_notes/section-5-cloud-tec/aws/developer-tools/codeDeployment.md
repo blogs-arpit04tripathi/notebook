@@ -4,7 +4,7 @@ title: CodeDeployment
 permalink: /aws/devtools/codeDeployment
 ---
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/dev-theory/code-deploy-approaches.png)
+![]({{site.cdn}}/aws/dev-theory/code-deploy-approaches.png)
 
 # CodeDeployment Approaches
 ## In Place

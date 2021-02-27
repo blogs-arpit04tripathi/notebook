@@ -13,4 +13,4 @@ It is a good practice to create 2 different users
 - KMSManager - who creates and manages the key
 - KMSEncryptor - who has the ability to encrypt and decrypt4
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/kms/kms-iam-dashboard.png)
+![]({{site.cdn}}/aws/kms/kms-iam-dashboard.png)

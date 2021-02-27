@@ -28,4 +28,4 @@ permalink: /microservices/introduction
 
 **Note**: RestTemplate is depricated, now you need to use WebClient which needs reactive programming for providing asynchronous capabilities.
 
-![microservices.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/microservices/microservices.png)
+![microservices.png]({{site.cdn}}/webservices/microservices/microservices.png)

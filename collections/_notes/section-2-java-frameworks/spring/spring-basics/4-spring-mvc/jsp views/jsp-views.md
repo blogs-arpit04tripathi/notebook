@@ -38,7 +38,7 @@ p:prefix="/WEB-INF/views/"
 p:suffix=".jsp" />
 ```
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-mvc/logocal-view-name.png)
+![]({{site.cdn}}/spring/spring-mvc/logocal-view-name.png)
 
 When a logical view name has a slash in it, that slash is carried over into the resource path name. Therefore, it maps to a JSP file that’s in a subdirectory of whatever directory is referenced by the prefix property. This offers a handy way of organizing your view templates under a hierarchy of directories rather than keeping them all in a single directory.
 
@@ -224,4 +224,4 @@ email.valid=The email address must be valid.
 ```
 
 What’s nice about extracting the error messages to a properties file is that you can display language- and locale-specific messages by creating a locale-specific properties file. For example, to display the errors in Spanish, you can create a file named ValidationErrors_es.properties with the following content:
-![jstl-errors](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-mvc/jstl-errors.png){:target="_blank"}
+![jstl-errors]({{site.cdn}}/spring/spring-mvc/jstl-errors.png){:target="_blank"}

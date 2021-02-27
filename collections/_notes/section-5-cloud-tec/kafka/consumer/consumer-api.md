@@ -4,7 +4,7 @@ title: Consumer API
 permalink: /kafka/consumer/api
 ---
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/kafka/consumer-group-partition-mapping.png)
+![]({{site.cdn}}/kafka/consumer-group-partition-mapping.png)
 
 -	Consumer Groups are used to read and process the data in parallel for an application.
 -	Max active consumers in a group = no. of partitions.
@@ -23,7 +23,7 @@ The coordinator is responsible for managing the state of the group. Its main job
 
 When a group is first initialized, the consumers typically begin reading from either the earliest or latest offset in each partition. The messages in each partition log are then read sequentially. As the consumer makes progress, it commits the offsets of messages it has successfully processed. For example, in the figure below, the consumer’s position is at offset 6 and its last committed offset is at offset 1.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/kafka/consumer-offset-illustration.png)
+![]({{site.cdn}}/kafka/consumer-offset-illustration.png)
 
 When a partition gets reassigned to another consumer in the group, the initial position is set to the last committed offset. If the consumer in the example above suddenly crashed, then the group member taking over the partition would begin consumption from offset 1. In that case, it would have to reprocess the messages up to the crashed consumer’s position of 6.
 

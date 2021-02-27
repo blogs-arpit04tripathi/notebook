@@ -11,4 +11,4 @@ permalink: /:collection/auth0/webserver-vs-applicationserver-vs-api
 - API - Contract between source and target systems for what data will be in and the format of it.
 - API is the contract and Server is the lower level mechanism to transmitting and collecting the data b/w two systems.
 
-![app-vs-web-server.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/auth0/app-vs-web-server.png)
+![app-vs-web-server.png]({{site.cdn}}/auth0/app-vs-web-server.png)

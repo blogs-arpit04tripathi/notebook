@@ -11,7 +11,7 @@ List<String> passwordHints;
 ```
 two attributes on the @ElementCollection annotation: **targetClass** and **fetch**. The targetClass attribute tells Hibernate which class is stored in the collection. If you use generics on your collection, you do not need to specify targetClass because Hibernate will infer the correct class. The fetch attribute takes a member of the enumeration, FetchType. This is EAGER by default, but can be set to LAZY to permit loading when the value is accessed.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/hibernate/element-collection.png)
+![]({{site.cdn}}/hibernate/element-collection.png)
 
 ```java
 @ElementCollection

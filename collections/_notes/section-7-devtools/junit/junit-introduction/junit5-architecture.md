@@ -8,7 +8,7 @@ permalink: /:collection/junit/junit5-architecture
 JUnit 5 = JUnit Platform + JUnit Jupiter + JUnit Vintage
 ```
 
-![junit5-architecture](https://github.com/arpit04tripathi/files-cdn/raw/cdn/junit/junit5-architecture.png)
+![junit5-architecture]({{site.cdn}}/junit/junit5-architecture.png)
 
 # JUnit Platform
 * To be able to launch junit tests, IDEs, build tools or plugins need to include and extend platform APIs. 

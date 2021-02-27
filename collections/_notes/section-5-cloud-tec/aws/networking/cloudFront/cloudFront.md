@@ -29,7 +29,7 @@ Focused on content delivery ie. efficient reads and downloads | Enabling faster 
 - Used to keep cache, copies of your files till TTL(Time To Live).
 - you can clear the cache yourself (before TTL), but you will be charged for it.
 
-![edge-location](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/s3/edge-location.png)
+![edge-location]({{site.cdn}}/aws/s3/edge-location.png)
 
 
 ### CloudFront Terms

@@ -12,4 +12,4 @@ The OAuth 2.0 Authorization Framework specification defines four flows to get 
 
 The specification also provides an extensibility mechanism for defining additional types.
 
-![grant-types.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/auth0/grant-types.png)
+![grant-types.png]({{site.cdn}}/auth0/grant-types.png)

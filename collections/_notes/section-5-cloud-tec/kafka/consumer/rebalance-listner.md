@@ -13,7 +13,7 @@ permalink: /kafka/consumer/rebalance-listner
 -	Maintain a list of offsets that are processed and ready to be committed.
 -	Commit the offsets when partitions are going away.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/kafka/rebalance-triggered.png)
+![]({{site.cdn}}/kafka/rebalance-triggered.png)
 
 ```java
 RebalanceListner rebalanceListener = new RebalanceListner(consumer);
@@ -36,7 +36,7 @@ Things handled by kafka are
 
 Automatic Partition Assignment - You don’t know which partition goes to which consumer.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/kafka/commit-specific-offset-example.png)
+![]({{site.cdn}}/kafka/commit-specific-offset-example.png)
 
 Commit in 
 - Range (first 3 partitions for example)

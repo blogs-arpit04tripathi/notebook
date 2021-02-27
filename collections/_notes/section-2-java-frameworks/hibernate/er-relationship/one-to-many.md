@@ -13,7 +13,7 @@ This problem can be solved in two different ways.
 In this approach, both entity will be responsible for making the relationship and maintaining it.  
 EmployeeEntity should declare that relationship is one to many, and AccountEntity should declare that relationship from its end is many to one.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/hibernate/12Many-foreign-key.png)
+![]({{site.cdn}}/hibernate/12Many-foreign-key.png)
 
 ```java
 @Entity(name = "ForeignKeyAssoEntity")
@@ -48,7 +48,7 @@ public class AccountEntity implements Serializable{
 # 2. with join table
 This approach uses a join table to store the associations between account and employee entities. @JoinTable annotation has been used to make this association.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/hibernate/12Many-join-table.png)
+![]({{site.cdn}}/hibernate/12Many-join-table.png)
 
 ```java
 @Entity(name = "JoinTableEmployeeEntity")

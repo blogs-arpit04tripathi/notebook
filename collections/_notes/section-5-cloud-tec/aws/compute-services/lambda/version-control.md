@@ -19,4 +19,4 @@ permalink: /aws/lambda/version-control
     - In case of failure you can rollback to pred=vious version just by remapping the alias PROD.
 - You can use versioning to split traffic for using BLUE-GREEN strategy
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/serverlesl/../serverless/lambda-alias.png)
+![]({{site.cdn}}/aws/serverlesl/../serverless/lambda-alias.png)

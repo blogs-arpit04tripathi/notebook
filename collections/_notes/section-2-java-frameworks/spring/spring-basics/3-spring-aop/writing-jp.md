@@ -4,7 +4,7 @@ title: Writing pointcuts
 permalink: /:collection/spring/aop/writing-jp
 ---
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-aop/joinPoint.png)
+![]({{site.cdn}}/spring/spring-aop/joinPoint.png)
 
 ```java
 package concert;

@@ -19,4 +19,4 @@ static void beforeAllInit(){
 class MathUtilTest{...}
 ```
 
-![junit-lifecycle](https://github.com/arpit04tripathi/files-cdn/raw/cdn/junit/junit-lifecycle.png)
+![junit-lifecycle]({{site.cdn}}/junit/junit-lifecycle.png)

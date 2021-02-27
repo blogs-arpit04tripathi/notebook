@@ -4,7 +4,7 @@ title: RDS Multi-AZ
 permalink: /aws/rds/multi-az
 ---
 
-![multi-az](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/ec2/multi-az.png)
+![multi-az]({{site.cdn}}/aws/ec2/multi-az.png)
 
 * Multi-AZ allows you to have an exact copy of your production database in another availabilty zone. (Standby DB)
 * AWS handles the replication for you, write to production database is automatically synchronized to the standby database.
@@ -14,7 +14,7 @@ permalink: /aws/rds/multi-az
 
 # Read Replicas
 
-![read-replica.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/ec2/read-replica.png)
+![read-replica.png]({{site.cdn}}/aws/ec2/read-replica.png)
 
 * Allow you to have read-only copy of your production DB.
 * Achieved by using Asynchronous replication from the primary RDS instance to the read replica.
@@ -36,4 +36,4 @@ permalink: /aws/rds/multi-az
     - Create Read Replica : Step 1 > Instance Actions > Create read replica
     - Apply Multi-AZ : Step 1 > Instance Action > Modify > check multi-az as yes.
 
-![read-replica-encrypt.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/ec2/read-replica-encrypt.png)
+![read-replica-encrypt.png]({{site.cdn}}/aws/ec2/read-replica-encrypt.png)

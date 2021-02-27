@@ -4,7 +4,7 @@ title: Detached Object
 permalink: /hibernate/persistence/detached
 ---
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/hibernate/detached-object.png)
+![]({{site.cdn}}/hibernate/detached-object.png)
 
 
 -	Detached objects have a representation in the database, but changes to the object will not be reflected in the database, and vice-versa. This temporary separation of the object and the database is shown in image below.

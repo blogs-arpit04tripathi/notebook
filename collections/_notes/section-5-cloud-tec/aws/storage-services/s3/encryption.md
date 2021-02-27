@@ -33,7 +33,7 @@ permalink: /aws/s3/encryption
 
 - Everytime a file is uploaded to S3, a PUT request is initiated.
 
-![encrypt-s3](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/s3/encrypt-s3.png)
+![encrypt-s3]({{site.cdn}}/aws/s3/encrypt-s3.png)
 
 - PUT /filename HTTP/1.1
 - HOst bucket dns
@@ -52,8 +52,8 @@ permalink: /aws/s3/encryption
 - Informational status response code indicates that everything so far is OK and that the client should continue with the request or ignore it if it is already finished.
 - To have a server check the request's headers, a client must send Expect: 100-continue as a header in its initial request and receive a 100 Continue status code in response before sending the body.
 
-![encrypt-s3-policy](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/s3/encrypt-s3-policy.png)
+![encrypt-s3-policy]({{site.cdn}}/aws/s3/encrypt-s3-policy.png)
 
-![encrypt-s3-policy-json](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/s3/encrypt-s3-policy-json.png)
+![encrypt-s3-policy-json]({{site.cdn}}/aws/s3/encrypt-s3-policy-json.png)
 
 * Here add "/*" for Resource if error shows up "Action does not apply to any resource in statement"

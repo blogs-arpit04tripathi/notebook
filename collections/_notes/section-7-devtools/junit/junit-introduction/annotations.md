@@ -70,4 +70,4 @@ public class AppTest {
 }
 ```
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/junit/nested-unit-tests.png)
+![]({{site.cdn}}/junit/nested-unit-tests.png)

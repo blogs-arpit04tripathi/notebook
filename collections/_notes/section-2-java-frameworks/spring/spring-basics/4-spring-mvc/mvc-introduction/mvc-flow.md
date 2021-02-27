@@ -4,7 +4,7 @@ title: MVC Flow
 permalink: /spring/mvc/flow
 ---
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-mvc/mvc-flow.png)
+![]({{site.cdn}}/spring/spring-mvc/mvc-flow.png)
 
 - **Dispatcher Servlet (Spring Conrtoller)** implements **front controller design pattern**
   - every web request must go through it so that it can manage the entire request life cycle.

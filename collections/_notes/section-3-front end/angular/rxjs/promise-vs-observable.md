@@ -4,7 +4,7 @@ title: Promise vs Observable
 permalink: /:collection/angular/rxjs/promise-vs-observable
 ---
 
-![promise-vs-observable](https://github.com/arpit04tripathi/files-cdn/raw/cdn/angular/promise-vs-observable.png)
+![promise-vs-observable]({{site.cdn}}/angular/promise-vs-observable.png)
 
 | Promise                                                            | Observable                                                                   |
 | ------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
@@ -18,4 +18,4 @@ permalink: /:collection/angular/rxjs/promise-vs-observable
 |                      | operators like map, forEach, reduce, filter    |
 | Push errors to child promises  | Subscribe method for centralized and predictable error handling.  |
 
-![observalble-code](https://github.com/arpit04tripathi/files-cdn/raw/cdn/angular/observalble-code.png)
+![observalble-code]({{site.cdn}}/angular/observalble-code.png)

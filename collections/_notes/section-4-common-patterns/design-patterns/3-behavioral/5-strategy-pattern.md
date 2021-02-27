@@ -16,7 +16,7 @@ permalink: /design-patterns/behavioral/strategy-pattern
 # Example-Strategy Pattern
 we will try to implement a simple Shopping Cart where we have two payment strategies – using Credit Card or using PayPal. First of all we will create the interface for our strategy pattern example, in our case to pay the amount passed as argument.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/design-patterns/behavioral-strategy.png)
+![]({{site.cdn}}/design-patterns/behavioral-strategy.png)
 
 ```java
 public interface PaymentStrategy {	public void pay(int amount);}

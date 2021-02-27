@@ -30,7 +30,7 @@ permalink: /:collection/angular/component/attributes
 })
 ```
 
-![component-attributes](https://github.com/arpit04tripathi/files-cdn/raw/cdn/angular/component.png)
+![component-attributes]({{site.cdn}}/angular/component.png)
 
 |properties|  |
 |---|---|

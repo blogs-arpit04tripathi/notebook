@@ -22,6 +22,6 @@ An example of a cross-origin request: The frontend JavaScript code for a web app
 
 For security reasons, browsers restrict cross-origin HTTP requests initiated from within scripts. For example, XMLHttpRequest and the Fetch API follow the same-origin policy. This means that a web application using those APIs can only request HTTP resources from the same origin the application was loaded from, unless the response from the other origin includes the right CORS headers.
 
-![client-server-http.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/cors/client-server-http.png)
+![client-server-http.png]({{site.cdn}}/webservices/cors/client-server-http.png)
 
-![cors.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/cors/cors.png)
+![cors.png]({{site.cdn}}/webservices/cors/cors.png)

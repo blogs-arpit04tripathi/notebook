@@ -59,7 +59,7 @@ public class Zipcode {
      }
 ```
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/hibernate/embeddable.png)
+![]({{site.cdn}}/hibernate/embeddable.png)
 
 In this case @Embeddable and @Embedded will work. But what if we have Home Address and Office Address? @Embedded will be there but field names will conflict, hence override its attribute.
 

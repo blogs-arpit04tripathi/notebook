@@ -6,7 +6,7 @@ permalink: /aws/ec2/lab
 
 AWS Console --> Services --> EC2 --> Launch Instance --> Amazon Linux AMI --> t2 micro free tier --> configure instance details --> Add root storage --> Add tags --> Create instance
 
-![ec2-config](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/ec2/ec2-config.png)
+![ec2-config]({{site.cdn}}/aws/ec2/ec2-config.png)
 
 Instance created from AMI (Amazon Machine Images)
 

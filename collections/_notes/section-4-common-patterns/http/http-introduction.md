@@ -11,7 +11,7 @@ permalink: /:collection/http/introduction
   - URL (Uniform resource locator)
 - Both URN's (names) and URL's (locators) are URI's, and a particular URI may be a name and a locator at the same time.
 
-![urn-url.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/http/urn-url.png)
+![urn-url.png]({{site.cdn}}/webservices/http/urn-url.png)
 
 - RFC 1737: Uniform Resource Names (URN): [Link](http://tools.ietf.org/html/rfc1737){:target="_blank"}
 - RFC 1808: Relative Uniform Resource Locators (URL): [Link](http://tools.ietf.org/html/rfc1808){:target="_blank"}

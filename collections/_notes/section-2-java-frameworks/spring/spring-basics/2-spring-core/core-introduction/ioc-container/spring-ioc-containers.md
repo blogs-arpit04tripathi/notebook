@@ -13,7 +13,7 @@ Spring container uses DI to manage components that make up an application. These
 - Configures them, and 
 - Manages their complete lifecycle
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-core/spring-container.png)
+![]({{site.cdn}}/spring/spring-core/spring-container.png)
 
 - Container gets its instructions on what objects to instantiate, configure, and assemble by reading the configuration metadata provided. 
 - Configuration metadata - XML, Java annotations, or Java code. 

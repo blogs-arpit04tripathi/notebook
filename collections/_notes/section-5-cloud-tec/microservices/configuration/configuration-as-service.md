@@ -10,7 +10,7 @@ permalink: /microservices/configuration/service
   - Hashicorp Consul
   - Spring Cloud Configuration Service
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/microservices/spring-cloud-config-server.png)
+![]({{site.cdn}}/webservices/microservices/spring-cloud-config-server.png)
 
 **Spring Cloud Configuration Service**
 - Add `Config Server` Dependency

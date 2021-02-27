@@ -35,4 +35,4 @@ logging.pattern.file= %d %-5level %logger %msg%n
 - Add dependency spring-boot-starter-log4j2
 - Create log4j2.xml
 
-![logger](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-boot/logger.png)
+![logger]({{site.cdn}}/spring/spring-boot/logger.png)

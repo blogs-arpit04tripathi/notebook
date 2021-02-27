@@ -17,7 +17,7 @@ session2.getTransaction().commit();
 session2.close();   // Now user is a transient object.
 ```
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/hibernate/detached-to-persistent.png)
+![]({{site.cdn}}/hibernate/detached-to-persistent.png)
 
 To stop this extra update query from running, we would instruct hibernate to run a select query and check if any changes are made. Update only if there are changes.
 ```java

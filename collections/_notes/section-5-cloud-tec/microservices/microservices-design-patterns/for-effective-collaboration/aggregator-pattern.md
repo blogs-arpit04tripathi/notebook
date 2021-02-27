@@ -13,4 +13,4 @@ permalink: /microservices/patterns/aggregator
 - Collects related items of data and displays them.
 - Based on DRY Principle.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/microservices/aggregator-pattern.png)
+![]({{site.cdn}}/webservices/microservices/aggregator-pattern.png)

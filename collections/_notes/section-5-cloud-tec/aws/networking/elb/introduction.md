@@ -35,4 +35,4 @@ permalink: /aws/elb/introduction
 # X-Forwarded-For Header
 * To get ipv4 address of your end user.
 
-![x-forwarded-for](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/ec2/x-forwarded-for.png)
+![x-forwarded-for]({{site.cdn}}/aws/ec2/x-forwarded-for.png)

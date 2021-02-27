@@ -9,6 +9,6 @@ permalink: /aws/iam/sts-assumeRoleWithWebIdentity
 - For mobile applications, Cognito is recommended.
 - Regular web applications can use STS assume-role-with-web-identity API.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/dev-theory/STS-AssumeRoleWithWebIdentity.png)
+![]({{site.cdn}}/aws/dev-theory/STS-AssumeRoleWithWebIdentity.png)
 
 AWS Systems Manager Parameter Store provides secure, hierarchical storage for configuration data management and secrets management. You can store data such as passwords, database strings, and license codes as parameter values.

@@ -12,7 +12,7 @@ permalink: /design-patterns/behavioral/mediator-pattern
 # Example - Mediator Pattern
 We will try to implement a chat application where users can do group chat. Every user will be identified by it’s name and they can send and receive messages. The message sent by any user should be received by all the other users in the group.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/design-patterns/behavioral-mediator.png)
+![]({{site.cdn}}/design-patterns/behavioral-mediator.png)
 
 ```java
 public interface ChatMediator {

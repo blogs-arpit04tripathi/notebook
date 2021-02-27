@@ -12,7 +12,7 @@ However, an in-memory database is not suitable for Enterprise applications. To r
 
 In **Search Catalog**, select **MySQL**. On the wizard screen, change the value of *MySQL Database Name to catalog*. The other values like “username” and “password” can be generated automatically so you can see how your application can consume those generated values later.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/docker/mysql-config.png)
+![]({{site.cdn}}/webservices/docker/mysql-config.png)
 
 Click Create.
 

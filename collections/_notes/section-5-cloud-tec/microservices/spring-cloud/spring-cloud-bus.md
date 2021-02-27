@@ -6,7 +6,7 @@ permalink: /:collection/spring-cloud-bus
 
 **What is Spring Cloud Bus? Need for it?**
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/microservices/spring-cloud-bus.png)
+![]({{site.cdn}}/webservices/microservices/spring-cloud-bus.png)
 
 Consider the scenario that we have multiple applications reading the properties using the Spring Cloud Config and the Spring Cloud Config in turn reads these properties from GIT.
 

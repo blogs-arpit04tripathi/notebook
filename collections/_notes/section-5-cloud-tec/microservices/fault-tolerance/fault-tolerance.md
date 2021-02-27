@@ -8,4 +8,4 @@ permalink: /microservices/fault-tolerance
 - **Resilience** - How many faults can system tolerate.
 
 **Movie Catalog API Ecosystem**
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/microservices/movie-catalog-api.png)
+![]({{site.cdn}}/webservices/microservices/movie-catalog-api.png)

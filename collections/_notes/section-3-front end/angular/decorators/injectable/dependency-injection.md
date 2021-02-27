@@ -20,6 +20,6 @@ constructor(private service: HeroService) { }
 *	When Angular discovers that a component depends on a service, it first checks if the injector already has any existing instances of that service. If a requested service instance does not yet exist, the injector makes one using the registered provider, and adds it to the injector before returning the service to Angular.
 *	When all requested services have been resolved and returned, Angular can call the component's constructor with those services as arguments. The process of HeroService injection looks something like this:
 
-![dependency-injection](https://github.com/arpit04tripathi/files-cdn/raw/cdn/angular/dependency-injection.png)
+![dependency-injection]({{site.cdn}}/angular/dependency-injection.png)
 
-![hierarchial-di](https://github.com/arpit04tripathi/files-cdn/raw/cdn/angular/hierarchial-di.png)
+![hierarchial-di]({{site.cdn}}/angular/hierarchial-di.png)

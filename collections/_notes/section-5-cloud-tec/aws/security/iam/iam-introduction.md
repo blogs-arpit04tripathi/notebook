@@ -31,7 +31,7 @@ What does IAM gives you?
 
 # Security Status Steps For new account
 
-![iam-dashboard](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/iam/iam-dashboard.png)
+![iam-dashboard]({{site.cdn}}/aws/iam/iam-dashboard.png)
 
 * Delete your root access keys
     - **Root Account** is the account created at the time of AWS Setup, it has complete admin access.

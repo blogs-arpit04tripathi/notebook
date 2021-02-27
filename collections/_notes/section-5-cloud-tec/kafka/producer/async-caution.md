@@ -9,4 +9,4 @@ permalink: /kafka/producer/async-caution
   - Synchronous send
   - `max.in.flight.requests.per.connection=1`
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/kafka/producer-async-batch.png)
+![]({{site.cdn}}/kafka/producer-async-batch.png)

@@ -15,4 +15,4 @@ ClassName(){ }
 ```
 
 # Assigning Object reference variables
-![assign-object](https://github.com/arpit04tripathi/files-cdn/raw/cdn/java/core-java/assign-object.png)
+![assign-object]({{site.cdn}}/java/core-java/assign-object.png)

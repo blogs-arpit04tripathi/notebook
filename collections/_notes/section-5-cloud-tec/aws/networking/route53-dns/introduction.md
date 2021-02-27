@@ -21,4 +21,4 @@ permalink: /aws/route53/introduction
     - https port 443
 * * Create Alias with newly created Target.
 
-![route53-record](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/ec2/route53-record.png)
+![route53-record]({{site.cdn}}/aws/ec2/route53-record.png)

@@ -26,4 +26,4 @@ permalink: /spring/aop/aop-features
 - The process of creating advised object (proxy) by applying advice is called **Weaving**.
 - In Spring AOP, ***weaving is performed at runtime***.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-aop/aop-proxy.png)
+![]({{site.cdn}}/spring/spring-aop/aop-proxy.png)

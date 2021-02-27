@@ -37,7 +37,7 @@ public interface StoreClient {
 **What is Netflix Feign? What are its advantages?**  
 Feign is a java to http client binder inspired by Retrofit, JAXRS-2.0, and WebSocket. Feign's first goal was reducing the complexity of binding Denominator uniformly to http apis regardless of restfulness. Previous examples in the employee-consumer we consumed the REST services exposed by the employee-producer using **REST Template**.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/microservices/netflix-feign.png)
+![]({{site.cdn}}/webservices/microservices/netflix-feign.png)
 
 But we had to write a lot of code to perform following-
 -	For Load balancing using Ribbon.

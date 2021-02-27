@@ -20,7 +20,7 @@ WS	    |Web Service
 XML	    |Extensible Markup Language
 UDDI	|Universal Description, Discovery and Integration
 
-![how-webservices-work](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/webservices/how-webservices-work.png)
+![how-webservices-work]({{site.cdn}}/webservices/webservices/how-webservices-work.png)
 
 - Service Description is published in a directory by all the service providers.
   - Service description is written in a special language called WSDL (Industry accepted).

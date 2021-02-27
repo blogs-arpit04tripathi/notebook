@@ -10,7 +10,7 @@ permalink: /:collection/angular/lifecycle-hooks
 * Angular offers lifecycle hooks that provide visibility into these key life moments and the ability to act when they occur.
 * A directive has the same set of lifecycle hooks.
 
-![lifecycle-of-directive-vs-component](https://github.com/arpit04tripathi/files-cdn/raw/cdn/angular/lifecycle-of-directive-vs-component.png)
+![lifecycle-of-directive-vs-component]({{site.cdn}}/angular/lifecycle-of-directive-vs-component.png)
 
 ### ngOnChanges()
 * Respond when Angular (re)sets data-bound input properties. (@Input)
@@ -62,6 +62,6 @@ export class ServerElementComponent implements onInit, onChnages{
 *	Unsubscribe Observables and detach event handlers to avoid memory leaks.
 *	Called just before Angular destroys the directive/component.
 
-![lifecycle-hooks](https://github.com/arpit04tripathi/files-cdn/raw/cdn/angular/lifecycle-hooks.png)
+![lifecycle-hooks]({{site.cdn}}/angular/lifecycle-hooks.png)
 
-![ngOnChanges()](https://github.com/arpit04tripathi/files-cdn/raw/cdn/angular/ngOnChanges-example.png)
+![ngOnChanges()]({{site.cdn}}/angular/ngOnChanges-example.png)

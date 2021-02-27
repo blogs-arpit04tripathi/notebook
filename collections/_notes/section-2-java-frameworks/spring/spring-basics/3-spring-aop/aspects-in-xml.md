@@ -39,7 +39,7 @@ public class Audience {
 </aop:config>
 ```
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-aop/advice-example-xml.png)
+![]({{site.cdn}}/spring/spring-aop/advice-example-xml.png)
 
 ```java
 public class Audience {

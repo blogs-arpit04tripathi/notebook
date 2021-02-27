@@ -16,7 +16,7 @@ permalink: /spring/aop/introduction
   - Core of AOP, encapsulates behaviors that can affect multiple classes into reusable modules.
   - Aspects offer an alternative to inheritance and delegation that can be cleaner in many circumstances.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-aop/aop.png)
+![]({{site.cdn}}/spring/spring-aop/aop.png)
 
 # Benefits
 - Centralized logic for each concern
@@ -25,6 +25,6 @@ permalink: /spring/aop/introduction
 
 # Concern vs Cross-cutting Concerns
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-aop/cross-cutting-vs-concern.png)
+![]({{site.cdn}}/spring/spring-aop/cross-cutting-vs-concern.png)
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-aop/aspects.png)
+![]({{site.cdn}}/spring/spring-aop/aspects.png)

@@ -18,9 +18,9 @@ permalink: /:collection/angular/data-binding
 |Class Binding|`[class.active = “isActive”]`|
 |Style Binding|[style.*]|
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/angular/data-binding.png)
+![]({{site.cdn}}/angular/data-binding.png)
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/angular/data-bindings.png)
+![]({{site.cdn}}/angular/data-bindings.png)
 
 ```
 <input type="text" class="form-control" (input)="onUpdateServerName($event)">

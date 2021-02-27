@@ -10,4 +10,4 @@ Customer Master Key
 
 Deleting KMS CMK will take anywhere between 7-30 days as per selection made by user.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/kms/envelope-encryption.png)
+![]({{site.cdn}}/aws/kms/envelope-encryption.png)

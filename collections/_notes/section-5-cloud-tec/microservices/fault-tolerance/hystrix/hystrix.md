@@ -41,10 +41,10 @@ getFallbackCatalog(@PathVariable String userId){
 }
 ```
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/microservices/hystrix-microservices.png)
+![]({{site.cdn}}/webservices/microservices/hystrix-microservices.png)
 	
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/microservices/hystrix-service-consumer.png)
+![]({{site.cdn}}/webservices/microservices/hystrix-service-consumer.png)
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/microservices/hystrix-fallback.png)
+![]({{site.cdn}}/webservices/microservices/hystrix-fallback.png)
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/microservices/hystrix-circuitbreaker.png)
+![]({{site.cdn}}/webservices/microservices/hystrix-circuitbreaker.png)

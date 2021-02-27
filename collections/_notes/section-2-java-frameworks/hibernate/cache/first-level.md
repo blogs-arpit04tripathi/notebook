@@ -4,7 +4,7 @@ title: First Level Cache
 permalink: /hibernate/cache/first-level
 ---
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/hibernate/cache-level-1.png)
+![]({{site.cdn}}/hibernate/cache-level-1.png)
 
 ```java
 //Open the hibernate session

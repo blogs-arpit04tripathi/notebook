@@ -14,7 +14,7 @@ permalink: /design-patterns/behavioral/visitor-pattern
 # Example-Visitor Pattern
 Consider a Shopping cart where we can add different type of items (Elements), when we click on checkout button, it calculates the total amount to be paid. Now we can have the calculation logic in item classes or we can move out this logic to another class using visitor pattern.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/design-patterns/behavioral-visitor.png)
+![]({{site.cdn}}/design-patterns/behavioral-visitor.png)
 
 ```java
 public interface ItemElement {public int accept(ShoppingCartVisitor visitor);}

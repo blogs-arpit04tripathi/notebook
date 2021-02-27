@@ -219,7 +219,7 @@ private static int minCost(int cost[][], int m, int n) {
 ```
 
 # 3D Array
-![3d-array](https://github.com/arpit04tripathi/files-cdn/raw/cdn/dsa/ds/array/array-3d.png)
+![3d-array]({{site.cdn}}/dsa/ds/array/array-3d.png)
 
 # Others
 

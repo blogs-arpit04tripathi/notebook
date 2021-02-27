@@ -23,7 +23,7 @@ permalink: /:collection/js/
   - lightweight - small memory footprint, easy to implement.
   - interpreted - no compilation, instructions are executed directly as opposed to java where intermediate bytecode is compiled and then executed.
 
-<img src="https://github.com/arpit04tripathi/files-cdn/raw/cdn/ui/js/why-js.png" width="400"/>
+<img src="{{site.cdn}}/ui/js/why-js.png" width="400"/>
 
 - Browser receives html as a string and constructs a DOM tree from it. This conversion will always result in same output.
 - JS is used to provide dynamic functionality to this.
@@ -169,7 +169,7 @@ console.log(myObj);
 * For JSON, keys can also be any valid string.
 * The JSON values can only be one of the six datatypes (strings, numbers, objects, arrays, Boolean, null). JavaScript values on the other hand can be any valid JavaScript Structure.
 
-![json-vs-jsObject](https://github.com/arpit04tripathi/files-cdn/raw/cdn/angular/json-vs-jsObject.png)
+![json-vs-jsObject]({{site.cdn}}/angular/json-vs-jsObject.png)
 * d is JSON string
 * e is JavaScript Object
 * f is also a JavaScript Object, we just parse a JSON string into a JavaScript Object.
@@ -178,7 +178,7 @@ console.log(myObj);
 
 JSON|JS Object
 ---|---
-![json](https://github.com/arpit04tripathi/files-cdn/raw/cdn/angular/json.png)|![jsObject](https://github.com/arpit04tripathi/files-cdn/raw/cdn/angular/jsObject.png)
+![json]({{site.cdn}}/angular/json.png)|![jsObject]({{site.cdn}}/angular/jsObject.png)
 
 ## Global Objects
 
@@ -565,9 +565,9 @@ console.log(Object.prototype === f.__proto__.__proto__);
 
 - prototypes can be used to implement inheritance in js.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/ui/js/prototypes.png)
+![]({{site.cdn}}/ui/js/prototypes.png)
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/ui/js/inheritance-with-prototype.png)
+![]({{site.cdn}}/ui/js/inheritance-with-prototype.png)
 
 # ToDo
 - [LocalStorage, sessionStorage](https://javascript.info/localstorage)

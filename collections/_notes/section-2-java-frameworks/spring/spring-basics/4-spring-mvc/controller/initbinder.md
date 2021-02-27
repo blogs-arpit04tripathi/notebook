@@ -9,7 +9,7 @@ permalink: /spring-mvc/initbinder
   - used with the methods which initializes WebDataBinder
   - works as a preprocessor for each request coming to the controller.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-mvc/init-binder.png)
+![]({{site.cdn}}/spring/spring-mvc/init-binder.png)
 
 ```java
 @InitBinder

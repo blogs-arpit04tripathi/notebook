@@ -33,7 +33,7 @@ Select Folder --> upload files -->
 ```
 select bucket --> Permissions --> 
 ```
-![bucket-permissions-public-settings](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/s3/bucket-permissions-public-settings.png)
+![bucket-permissions-public-settings]({{site.cdn}}/aws/s3/bucket-permissions-public-settings.png)
 
 * If bucket policy is set as private, you cannot upload public objects to it.
 
@@ -49,5 +49,5 @@ select bucket --> Permissions -->
 - Click Generate policy
 - Copy paste the policy to bucket --> permissions --> bucket policy
 
-![bucket-permissions-policies](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/s3/bucket-permissions-policies.png)
+![bucket-permissions-policies]({{site.cdn}}/aws/s3/bucket-permissions-policies.png)
 

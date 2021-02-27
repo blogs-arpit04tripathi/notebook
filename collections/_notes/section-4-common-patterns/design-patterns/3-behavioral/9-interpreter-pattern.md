@@ -21,7 +21,7 @@ To implement interpreter pattern
 - user input will be of two forms – “\<Number> in Binary” or “\<Number> in Hexadecimal” and
 - our interpreter client should return it in format “\<Number> in Binary= \<Number_Binary_String>” and “\<Number> in Hexadecimal= \<Number_Hex_String>” respectively.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/design-patterns/behavioral-interpreter.png)
+![]({{site.cdn}}/design-patterns/behavioral-interpreter.png)
 
 ```java
 public class InterpreterContext { 

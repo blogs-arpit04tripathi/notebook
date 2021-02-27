@@ -20,7 +20,7 @@ permalink: /design-patterns/creational/singleton-pattern
 - private static variable of the same class, the only instance of the class.
 - public static method to get the instance.
 
-![creational-singleton.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/design-patterns/creational-singleton.png)
+![creational-singleton.png]({{site.cdn}}/design-patterns/creational-singleton.png)
 
 ```java
 public class LazyInitializedSingleton {

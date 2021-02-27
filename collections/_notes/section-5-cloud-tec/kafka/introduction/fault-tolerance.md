@@ -13,7 +13,7 @@ Enabling a system to continue operating properly in the event of the failure of 
 
 Replica created as Leader and Follower.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/kafka/fault-tolerance.png)
+![]({{site.cdn}}/kafka/fault-tolerance.png)
 
 Different **server.properties** used for each broker
 -	broker.id=0 

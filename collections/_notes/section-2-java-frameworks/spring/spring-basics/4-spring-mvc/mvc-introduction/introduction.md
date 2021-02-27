@@ -24,7 +24,7 @@ permalink: /spring/mvc/introduction
   - data-service-presentation.
   - MVC is actually part of presentation layer.
 
-![mvc-tiers](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-mvc/mvc-tiers.png)
+![mvc-tiers]({{site.cdn}}/spring/spring-mvc/mvc-tiers.png)
 
 - The real controller in Spring MVC is **DispatchServlet** that will use the specific @Controller class to handle the URL request.
 - **@Controller** - serves as **C** in MVC.

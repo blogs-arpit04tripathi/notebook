@@ -15,9 +15,9 @@ ng build --prod --jit
 ng build --prod --aot
 ```
 
-![jit-vs-aot.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/angular/jit-vs-aot.png)
-![jit-vs-aot.png-points](https://github.com/arpit04tripathi/files-cdn/raw/cdn/angular/jit-vs-aot-points.png)
-![jit-vs-aot.png-flow](https://github.com/arpit04tripathi/files-cdn/raw/cdn/angular/jit-vs-aot-flow.png)
+![jit-vs-aot.png]({{site.cdn}}/angular/jit-vs-aot.png)
+![jit-vs-aot.png-points]({{site.cdn}}/angular/jit-vs-aot-points.png)
+![jit-vs-aot.png-flow]({{site.cdn}}/angular/jit-vs-aot-flow.png)
 
 
 # Flow of events with Just-in-Time Compilation

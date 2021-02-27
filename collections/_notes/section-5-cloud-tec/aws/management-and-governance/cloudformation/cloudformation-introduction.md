@@ -28,7 +28,7 @@ permalink: /aws/cloudformation/introduction
 - CloudFormation reads the template and makes the API calls on your behalf.
 - The resulting resources are called a stack.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/dev-theory/cloudformation-template-structure.png)
+![]({{site.cdn}}/aws/dev-theory/cloudformation-template-structure.png)
 
 - Resources is the only mandatory section of the template.
 - Transform section is used to reference additional code stored in S3, allowing for code re-use eg. for lambda code or template snippets / reusable pieces of cloudFormation code.

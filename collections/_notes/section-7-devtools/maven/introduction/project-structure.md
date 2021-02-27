@@ -12,6 +12,6 @@ src/main/resources	|Contains the deliverable resources for the project, such as 
 src/test/java	    |Contains the testing Java sourcecode (JUnit or TestNG test cases, for example) for the project.
 src/test/resources	|Contains resources necessary for testing.
 
-![mvn-project-structure](https://github.com/arpit04tripathi/files-cdn/raw/cdn/devtools/maven/mvn-project-structure.png)
+![mvn-project-structure]({{site.cdn}}/devtools/maven/mvn-project-structure.png)
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/devtools/maven/mvn-directory-structure.png)
+![]({{site.cdn}}/devtools/maven/mvn-directory-structure.png)

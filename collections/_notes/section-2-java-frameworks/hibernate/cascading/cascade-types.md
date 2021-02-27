@@ -14,7 +14,7 @@ The cascade types supported by the Java Persistence Architecture are as below:
 
 There is no **default cascade type in JPA**. By default no operations are cascaded.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/hibernate/cascade-types.png)
+![]({{site.cdn}}/hibernate/cascade-types.png)
 
 The cascade configuration option accepts an array of CascadeTypes; thus, to include only refreshes and merges in the cascade operation for a One-to-Many relationship as in our example, you might see the following:
 ```java

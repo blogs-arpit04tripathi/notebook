@@ -9,7 +9,7 @@ permalink: /:collection/angular/folder-structure
 - [understanding folder structure](https://overflowjs.com/posts/Angular-8-Understanding-Directory-Structure-and-Creating-CRUD-App){:target="_blank"}
 - [Structure](https://www.c-sharpcorner.com/blogs/folder-structure-of-angular-5-project){:target="_blank"}
 
-![folder-structure](https://github.com/arpit04tripathi/files-cdn/raw/cdn/angular/folder-structure.png)
+![folder-structure]({{site.cdn}}/angular/folder-structure.png)
 
 **package.json**
 - scripts
@@ -17,7 +17,7 @@ permalink: /:collection/angular/folder-structure
 - dependencies (***npm install*** added here)
 - devDependencies
 
-![package-json](https://github.com/arpit04tripathi/files-cdn/raw/cdn/angular/package-json.png)
+![package-json]({{site.cdn}}/angular/package-json.png)
 
 **angular.json**
 - bootstrapping (image on below page)
@@ -25,7 +25,7 @@ permalink: /:collection/angular/folder-structure
   - bootstrap, jquery and popper
   - aot flag
 
-![angular-json](https://github.com/arpit04tripathi/files-cdn/raw/cdn/angular/angular-json.png)
+![angular-json]({{site.cdn}}/angular/angular-json.png)
 
 * index.html
   - file that hosts your bootstrap component and its hierarchy

@@ -9,4 +9,4 @@ permalink: /microservices/configuration/security
   - save encrypted values in properties.
   - Using Java Cryptography Extension (JCE).
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/microservices/config-secure.png)
+![]({{site.cdn}}/webservices/microservices/config-secure.png)

@@ -12,7 +12,7 @@ permalink: /aws/ddb/streams
 - By default, primary key is recorded.
 - Before and after images can be captured.
 
-![dynamodb-streams-usecase](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/ddb/dynamodb-streams-usecase.png)
+![dynamodb-streams-usecase]({{site.cdn}}/aws/ddb/dynamodb-streams-usecase.png)
 
 # Processing DynamoDB Streams
 - Events are recorded in near real-time.
@@ -21,4 +21,4 @@ permalink: /aws/ddb/streams
 - Lambda polls the dynamodb stream.
 - Executes Lambda code based on a DynamoDB streams event.
 
-![dynamodb-streams-usecase-trigger-workflow](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/ddb/dynamodb-streams-usecase-trigger-workflow.png)
+![dynamodb-streams-usecase-trigger-workflow]({{site.cdn}}/aws/ddb/dynamodb-streams-usecase-trigger-workflow.png)

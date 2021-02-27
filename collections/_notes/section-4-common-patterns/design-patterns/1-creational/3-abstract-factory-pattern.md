@@ -83,4 +83,4 @@ public class TestAbstractFactoryPattern {
 -	javax.xml.transform.TransformerFactory#newInstance()
 -	javax.xml.xpath.XPathFactory#newInstance()
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/design-patterns/creational-AbstractFactoryPattern.png)
+![]({{site.cdn}}/design-patterns/creational-AbstractFactoryPattern.png)

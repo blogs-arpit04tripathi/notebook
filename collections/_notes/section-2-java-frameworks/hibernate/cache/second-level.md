@@ -8,7 +8,7 @@ permalink: /hibernate/cache/second-level
 
 **Second level cache**: This is apart from first level cache which is available to be used globally in session factory scope.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/hibernate/cache.png)
+![]({{site.cdn}}/hibernate/cache.png)
 
 -	Above statement means, **second level cache is created in session factory scope** and is **available to be used in all sessions** which are created using that particular session factory.
 -	It also means that **once session factory is closed, all cache associated with it die** and cache manager also closed down.

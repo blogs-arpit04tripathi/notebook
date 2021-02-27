@@ -11,13 +11,13 @@ Long lived applications require Stream Applications while Short lived applicatio
 
 In this example we make use of Stream Applications. Previously we had already developed Spring Cloud Stream applications to understand the concept of [Spring Cloud Stream Source](https://www.javainuse.com/spring/cloud-stream-rabbitmq-1) and [Spring Cloud Sink](https://www.javainuse.com/spring/cloud-stream-rabbitmq-2) and their benefit. 
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/microservices/spring-cloud-data-flow.png)
+![]({{site.cdn}}/webservices/microservices/spring-cloud-data-flow.png)
 
 Pipelines consist of Spring Boot apps, built using the Spring Cloud Stream or Spring Cloud Task microservice frameworks. SCDF can be accessed using the REST API exposed by it or the web UI console.
 
 We can make use of metrics, health checks, and the remote management of each microservice application Also we can scale stream and batch pipelines without interrupting data flows. With SCDF we build data pipelines for use cases like data ingestion, real-time analytics, and data import and export. SCDF is composed of the following Spring Projects.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/microservices/spring-cloud-data-flow-modules.png)
+![]({{site.cdn}}/webservices/microservices/spring-cloud-data-flow-modules.png)
 
 # Distributed Transactions
 

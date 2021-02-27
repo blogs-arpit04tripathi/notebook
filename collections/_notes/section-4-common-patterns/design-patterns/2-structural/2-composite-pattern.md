@@ -20,7 +20,7 @@ Composite Pattern consists of following objects.
 2.	**Leaf** – Defines the behaviour for the elements in the composition. It is the building block for the composition and implements base component. It doesn’t have references to other Components.
 3.	**Composite** – It consists of leaf elements and implements the operations in base component.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/design-patterns/structural-composite.png)
+![]({{site.cdn}}/design-patterns/structural-composite.png)
 
 # Base component
 defines the common methods for leaf and composites. We can create a class Shape with a method draw(String fillColor) to draw the shape with given color.

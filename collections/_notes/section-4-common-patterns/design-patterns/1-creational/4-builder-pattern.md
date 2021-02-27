@@ -28,7 +28,7 @@ permalink: /design-patterns/creational/builder-pattern
   -	 Builder class – setters for optional attributes, returns same Builder object after setting the optional attribute.
   -	Provide build() that will return the final Object needed by client program.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/design-patterns/creational-builder.png)
+![]({{site.cdn}}/design-patterns/creational-builder.png)
 
 ```java
 // Computer - only getter & no public constructor, get Computer object only via ComputerBuilder.

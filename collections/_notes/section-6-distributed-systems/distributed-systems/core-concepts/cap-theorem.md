@@ -11,4 +11,4 @@ permalink: /:collection/distributed-systems/cap-theorem
   - Partition Tolerance
 - This is for data centres that are installed across multiple locations
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/kafka/cap-theorem-mapping.png)
+![]({{site.cdn}}/kafka/cap-theorem-mapping.png)

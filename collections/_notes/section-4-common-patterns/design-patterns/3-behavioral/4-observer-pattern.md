@@ -15,7 +15,7 @@ permalink: /design-patterns/behavioral/observer-pattern
 # Example - Observer Pattern
 we would implement a simple topic and observers can register to this topic. Whenever any new message will be posted to the topic, all the registers observers will be notified and they can consume the message.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/design-patterns/behavioral-observer.png)
+![]({{site.cdn}}/design-patterns/behavioral-observer.png)
 
 ```java
 public interface Subject {

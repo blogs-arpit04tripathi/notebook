@@ -13,7 +13,7 @@ Now building the foundation for a house is same for all type of houses, whether 
 
 ***buildHouse() is the template method and defines the order of execution for performing several steps.***
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/design-patterns/behavioral-template.png)
+![]({{site.cdn}}/design-patterns/behavioral-template.png)
 
 ```java
 public abstract class HouseTemplate {

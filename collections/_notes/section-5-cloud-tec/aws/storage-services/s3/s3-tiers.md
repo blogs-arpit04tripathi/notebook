@@ -37,7 +37,7 @@ permalink: /aws/s3/tiers
 * Optimised for data that is infrequently accessed
 * It takes 3-5 hours to restore from glacier.
 
-![s3-tiers](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/s3/s3-tiers.png)
+![s3-tiers]({{site.cdn}}/aws/s3/s3-tiers.png)
 
 # S3 Intelligent Tiering
 * Unknown or unpredictable access patterns

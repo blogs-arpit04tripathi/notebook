@@ -4,7 +4,7 @@ title: Decorator - @NgModule
 permalink: /:collection/angular/ngmodule
 ---
 
-![modules](https://github.com/arpit04tripathi/files-cdn/raw/cdn/angular/modules-app-diagram.png)
+![modules]({{site.cdn}}/angular/modules-app-diagram.png)
 
 * Angular app is a set of NgModules.
 * declares a compilation context for closely related set of capabilities.

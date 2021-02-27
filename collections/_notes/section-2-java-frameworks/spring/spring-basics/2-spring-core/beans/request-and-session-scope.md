@@ -32,7 +32,7 @@ public class StoreService {
 }
 ```
 
-![scoped-proxies](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-core/scoped-proxies.png)
+![scoped-proxies]({{site.cdn}}/spring/spring-core/scoped-proxies.png)
 
 -	StoreService singleton bean created when Spring application context is loaded. 
 - Upon creation, Spring will attempt to inject ShoppingCart into the setShoppingCart() method.

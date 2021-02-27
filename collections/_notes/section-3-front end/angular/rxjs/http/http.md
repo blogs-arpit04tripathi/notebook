@@ -4,7 +4,7 @@ title: Http Calls using RxJs
 permalink: /:collection/angular/rxjs/http
 ---
 
-![rxjs-http](https://github.com/arpit04tripathi/files-cdn/raw/cdn/angular/rxjs-http.png)
+![rxjs-http]({{site.cdn}}/angular/rxjs-http.png)
 
 ```ts
 import { HttpClientModule } from '@angular/common/http';

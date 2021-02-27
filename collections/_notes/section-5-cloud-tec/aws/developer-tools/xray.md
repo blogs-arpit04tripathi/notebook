@@ -12,7 +12,7 @@ permalink: /aws/xray
 - AWS X-Ray is a service that collects data about requests that your application serves, and provides tools you can use to view, filter, and gain insights into that data to identify issues and opportunities for optimization.
 - For any traced request to your application, you can see detailed info not only about the request and response, but also about the calls that your appication makes downstream AWS resources, microservices, databases and HTTP web APIs.
 
-![aws-x-ray.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/serverless/aws-x-ray.png)
+![aws-x-ray.png]({{site.cdn}}/aws/serverless/aws-x-ray.png)
 
 # X-Ray SDK
 It provides
@@ -20,7 +20,7 @@ It provides
 - Client handlers to instrument AWS SDK clients that your application uses to call other AWS Services.
 - An HTTP client to use to instrument calls to other internal and external HTTP web services.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/serverless/x-ray-overview.png)
+![]({{site.cdn}}/aws/serverless/x-ray-overview.png)
 
 - AWS X-Ray SDK sends the data to the X-Ray daemon which buffers segments in a queue and uploads them to X-Ray in batches.
 - You need both X-Ray SDK and X-Ray Daemon on your systems.

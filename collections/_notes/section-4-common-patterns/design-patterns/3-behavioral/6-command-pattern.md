@@ -16,7 +16,7 @@ permalink: /design-patterns/behavioral/command-pattern
 # Example-Command Pattern
 Let’s say we want to provide a File System utility with methods to open, write and close file and it should support multiple operating systems such as Windows and Unix. To implement our File System utility, first of all we need to create the receiver classes that will actually do all the work. Since we code in terms of java interfaces, we can have FileSystemReceiver interface and it’s implementation classes for different operating system flavors such as Windows, Unix, Solaris etc.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/design-patterns/behavioral-command.png)
+![]({{site.cdn}}/design-patterns/behavioral-command.png)
 
 ```java
 public interface FileSystemReceiver {

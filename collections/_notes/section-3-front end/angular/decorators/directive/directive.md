@@ -20,4 +20,4 @@ export class TurnGreenDirective{
 }
 ```
 
-![directive](https://github.com/arpit04tripathi/files-cdn/raw/cdn/angular/directive.png)
+![directive]({{site.cdn}}/angular/directive.png)

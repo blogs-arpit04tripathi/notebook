@@ -6,7 +6,7 @@ permalink: /:collection/webservices/soa
 
 SOA is a software development model for distributed application components that incorporates discovery, access control, data mapping and security features.
 
-![soa](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/webservices/soa.png)
+![soa]({{site.cdn}}/webservices/webservices/soa.png)
 
 # Major objectives of SOA
 - To structure procedures or software components as loosely coupled services.

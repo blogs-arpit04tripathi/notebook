@@ -173,7 +173,7 @@ private int threadPool;
 ```
 
 ### @ConfigurationProperties vs @Value
-![configurationProperties_vs_value](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-boot/configurationProperties_vs_value.png)
+![configurationProperties_vs_value]({{site.cdn}}/spring/spring-boot/configurationProperties_vs_value.png)
 
 - If you define a set of configuration keys for your own components, spring boot recommends you to group them in a POJO annotated with @ConfigurationProperties.
 
@@ -614,7 +614,7 @@ management.endpoints.web.cors.allowed-origins=https://example.com
 management.endpoints.web.cors.allowed-methods=GET,POST
 ```
 
-![actuator-endpoints](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-boot/actuator-endpoints.png)
+![actuator-endpoints]({{site.cdn}}/spring/spring-boot/actuator-endpoints.png)
 - httptrace: Displays HTTP trace information
 - mappings: Displays a list of all @RequestMapping paths
 

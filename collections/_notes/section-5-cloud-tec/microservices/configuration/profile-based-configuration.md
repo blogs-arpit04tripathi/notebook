@@ -19,4 +19,4 @@ Environment env;
 env.getXXX();
 ```
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/microservices/config-env-specific.png)
+![]({{site.cdn}}/webservices/microservices/config-env-specific.png)

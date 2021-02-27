@@ -14,4 +14,4 @@ permalink: /:collection/docker/docker-vs-jvm
 - A **hypervisor**, also known as a ***virtual machine monitor*** or VMM, is software that creates and runs virtual machines (VMs). A hypervisor allows one host computer to support multiple guest VMs by virtually sharing its resources, such as memory and processing.
 - A **container engine** is a piece of software that accepts user requests, including command line options, pulls images, and from the end user's perspective runs the container.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/docker/vm-vs-docker.png)
+![]({{site.cdn}}/webservices/docker/vm-vs-docker.png)

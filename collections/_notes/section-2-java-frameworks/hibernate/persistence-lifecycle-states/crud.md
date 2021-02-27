@@ -12,5 +12,5 @@ user.setName("Updated");
 session.update(user);
 ```
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/hibernate/persistence-crud.png)
+![]({{site.cdn}}/hibernate/persistence-crud.png)
 

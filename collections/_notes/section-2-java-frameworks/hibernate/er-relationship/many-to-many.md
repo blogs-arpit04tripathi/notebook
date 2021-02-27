@@ -6,7 +6,7 @@ permalink: /hibernate/mapping/many-to-many
 
 **Hibernate many to many mapping** is made between two entities where one can have relation with multiple other entity instances. For example, for a subscription service SubscriptionEntity and ReaderEntity can be two type of entities. Any subscription can have multiple readers, where a reader can subscribe to multiple subscriptions.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/hibernate/ManytoMany.png)
+![]({{site.cdn}}/hibernate/ManytoMany.png)
 
 Owner entity is the entity which is **responsible make making the association and maintaining it.** In our case, I am making ReaderEntity the owner entity. **@JoinTable** annotation has been used to make this association.
 

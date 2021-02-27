@@ -11,7 +11,7 @@ Authorization protocols provide a state parameter that allows you to restore t
 The primary reason for using the state parameter is to mitigate [CSRF attacks](https://en.wikipedia.org/wiki/Cross-site_request_forgery).
 When you use state for CSRF mitigation on the redirection endpoint, that means that within the state value there is a unique and non-guessable value associated with each authentication request about to be initiated. It’s that unique and non-guessable value that allows you to prevent the attack by confirming if the value coming from the response matches the one you expect (the one you generated when initiating the request). The state parameter is a string so you can encode any other information in it.
 
-![csrf.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/auth0/csrf.png)
+![csrf.png]({{site.cdn}}/auth0/csrf.png)
 
 # Redirect users
 You can also use the state parameter to encode an application state that will round-trip to the client application after the transaction completes. In this way, the application can put the user where they were before the authentication process happened.

@@ -4,7 +4,7 @@ title: Software Architecture Evolution
 permalink: /software-architecture/evolution
 ---
 
-![evolution-software-architecture](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/microservices/evolution-software-architecture.png)
+![evolution-software-architecture]({{site.cdn}}/webservices/microservices/evolution-software-architecture.png)
 
 
 **How SOA, monolithic, and Microservices Architectures are different from each other?**

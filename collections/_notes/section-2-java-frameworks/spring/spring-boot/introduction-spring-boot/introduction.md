@@ -4,7 +4,7 @@ title: SpringBoot Introduction
 permalink: /:collection/spring/spring/boot/introduction
 ---
 
-![spring-boot-equation](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-boot/spring-boot-equation.png)
+![spring-boot-equation]({{site.cdn}}/spring/spring-boot/spring-boot-equation.png)
 
 - **SpringBoot**
   - Spring framework module
@@ -36,4 +36,4 @@ permalink: /:collection/spring/spring/boot/introduction
   - Thymeleaf
   - Mustache
 
-![spring-projects](https://github.com/arpit04tripathi/files-cdn/raw/cdn/spring/spring-boot/spring-projects.png)
+![spring-projects]({{site.cdn}}/spring/spring-boot/spring-projects.png)

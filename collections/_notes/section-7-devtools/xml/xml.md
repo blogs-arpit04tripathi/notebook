@@ -43,7 +43,7 @@ permalink: /:collection/xml/
 
 ## XML Structure
 
-![xml-structure.png](https://github.com/arpit04tripathi/files-cdn/raw/cdn/webservices/xml/xml-structure.png)
+![xml-structure.png]({{site.cdn}}/webservices/xml/xml-structure.png)
 
 |Benefits of XML||
 |---|---|

@@ -4,7 +4,7 @@ title: Why ORM?
 permalink: /hibernate/orm/why
 ---
 
-![orm](https://github.com/arpit04tripathi/files-cdn/raw/cdn/hibernate/orm.png)
+![orm]({{site.cdn}}/hibernate/orm.png)
 
 **'Object-Relational Impedance Mismatch'** (sometimes called the 'Paradigm Mismatch') is just a fancy way of saying that object models and relational models do not work very well together.
 

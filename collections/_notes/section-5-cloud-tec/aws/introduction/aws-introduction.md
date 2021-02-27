@@ -13,9 +13,9 @@ permalink: /aws/introduction
 
 **AWS Associate Developer Certification Details**
 
-![aws-associate-developer-cert-breakup](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/intro/aws-associate-developer-cert-breakup.png)
+![aws-associate-developer-cert-breakup]({{site.cdn}}/aws/intro/aws-associate-developer-cert-breakup.png)
 
-![AWS Components](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/intro/aws-components.png)
+![AWS Components]({{site.cdn}}/aws/intro/aws-components.png)
 
 # AWS CLI Pagination
 - You can control the number of items included in the output when you run a cli command.

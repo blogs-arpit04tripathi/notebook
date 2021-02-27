@@ -10,7 +10,7 @@ permalink: /hibernate/table-per-class
 Public class Vehicle{ }
 ```
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/hibernate/inheritance-table-per-class.png)
+![]({{site.cdn}}/hibernate/inheritance-table-per-class.png)
 
 Here, @GeneratedValue is inherited by all the childs as well. Generated values 1,2,3.
 

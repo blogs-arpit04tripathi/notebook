@@ -14,4 +14,4 @@ permalink: /aws/devtools/codeCommit
 - Supports https and ssh
 - Supports notifications via SNS and cloudwatch.
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/aws/dev-theory/codeCommit.png)
+![]({{site.cdn}}/aws/dev-theory/codeCommit.png)

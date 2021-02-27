@@ -4,11 +4,11 @@ title: Schema Evolution (Avro Schemas)
 permalink: /kafka/schema-evolution
 ---
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/kafka/schema-evolution.png)
+![]({{site.cdn}}/kafka/schema-evolution.png)
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/kafka/avro-overview.png)
+![]({{site.cdn}}/kafka/avro-overview.png)
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/kafka/avro-serialization.png)
+![]({{site.cdn}}/kafka/avro-serialization.png)
 
 ```java
 props.put("value.deserializer", "io.consfluent.kafka.serializers.KafkaAvroDeserializer");
@@ -20,4 +20,4 @@ props.put("specific.avro.reader", "true");
 -	Confluent Platform – rpm packages by yum
 -	Schema resolution
 
-![](https://github.com/arpit04tripathi/files-cdn/raw/cdn/kafka/confluent-platform.png)
+![]({{site.cdn}}/kafka/confluent-platform.png)
