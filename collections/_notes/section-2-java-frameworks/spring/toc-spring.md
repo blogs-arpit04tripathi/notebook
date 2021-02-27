@@ -7,7 +7,7 @@ permalink: /:collection/spring/
 # Latest in Spring
 - [New in Spring](latest) - todo
 - [Spring Framework Architecture](architecture)
-- [Spring Annotations Quick Reference](https://springframework.guru/spring-framework-annotations){:target="_blank"}
+- [Spring Annotations (Quick Reference)](https://springframework.guru/spring-framework-annotations){:target="_blank"}
 
 # Spring Core
 - [Introduction to Spring](core/introduction)
