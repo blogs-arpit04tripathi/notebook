@@ -38,7 +38,7 @@ permalink: /notes/
 
 **Distributed Systems**
   - [Distributed Systems](distributed-systems)
-  - [System Design FAQ](system-design/faq)
+  - [System Design](system-design)
 
 **Devtools**
   - [JUnit](junit)

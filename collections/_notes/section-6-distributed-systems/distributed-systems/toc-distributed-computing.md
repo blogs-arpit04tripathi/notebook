@@ -7,24 +7,24 @@ permalink: /:collection/distributed-systems/
 - [A Thorough Introduction to Distributed Systems](https://www.freecodecamp.org/news/a-thorough-introduction-to-distributed-systems-3b91562c9b3c/){:target="_blank"}
 - **Data Intensive Applications** - We call an application data-intensive if data is its primary challenge—the quantity of data, the complexity of data, or the speed at which it is changing—as opposed to compute-intensive, where CPU cycles are the bottleneck.
 - Distributed System Approaches
-  - [Master Slave](/distributed-systems/master-slave)
-  - [Masterless](/distributed-systems/masterless)
-- [Big Data Problems](/distributed-systems/big-data-problems)
+  - [Master Slave](master-slave)
+  - [Masterless](masterless)
+- [Big Data Problems](big-data-problems)
 - Issues to be Figured out
-  - [Replication](/distributed-systems/replication)
+  - [Replication](replication)
   - Scalability
-    - [Storage Scalability Introduction](/distributed-systems/storage-scalability)
-    - [Vertical scaling and Horizontal scaling](/distributed-systems/horizontal-vertical-scaling)
-  - [CAP theorem](/distributed-systems/cap-theorem)
-    - [Consistency](/distributed-systems/consistency)
+    - [Storage Scalability Introduction](storage-scalability)
+    - [Vertical scaling and Horizontal scaling](horizontal-vertical-scaling)
+  - [CAP theorem](cap-theorem)
+    - [Consistency](consistency)
       - Eventual consistency
-    - [Reliability - Partition Tolerance](/distributed-systems/partition-tolerance)
-    - [Availability](/distributed-systems/availability)
+    - [Reliability - Partition Tolerance](partition-tolerance)
+    - [Availability](availability)
   - Efficiency
   - Maintainability
 - Tools
-  - [Relational Database](/distributed-systems/rdbms)
-  - [NoSQL Data Stores](/distributed-systems/nosql)
+  - [Relational Database](rdbms)
+  - [NoSQL Data Stores](nosql)
     - ACID
   - Stream Processor
   - Batch Processor
@@ -32,11 +32,11 @@ permalink: /:collection/distributed-systems/
 - Buzz Words
   - Big Data
   - Web-scale
-  - [Sharding](/distributed-systems/sharding)
+  - [Sharding](sharding)
   - Cloud services
   - MapReduce
   - Real-time
-  - [Elastic Search](/distributed-systems/elastic-search)
+  - [Elastic Search](elastic-search)
 - single-node versus distributed systems
 - online/interactive versus offline/batch processing systems
 - [Real life example of scaling using MySQL](https://medium.com/@Pinterest_Engineering/sharding-pinterest-how-we-scaled-our-mysql-fleet-3f341e96ca6f){:target="_blank"}

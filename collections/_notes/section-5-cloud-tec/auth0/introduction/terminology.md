@@ -4,7 +4,7 @@ title: Auth0 Terminology
 permalink: /:collection/auth0/terminology
 ---
 
-- [Auth0 Glossary](https://auth0.com/docs/glossary)
+- [Auth0 Glossary](https://auth0.com/docs/glossary){:target="_blank"}
 
 # Tenant
 - Tenant is a term borrowed from software multitenancy. It refers to an architecture where a single software instance serves multiple tenants. In Auth0, a tenant is logically isolated. No tenant can access the data of another tenant, even though multiple tenants might be running on the same machine.

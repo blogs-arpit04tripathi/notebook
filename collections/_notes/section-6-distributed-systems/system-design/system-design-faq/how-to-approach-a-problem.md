@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Steps To Approach A System Design Problem
-permalink: /:collection/system-design/faq/how-to-approach-a-problem
+permalink: /:collection/system-design/how-to-approach-a-problem
 ---
 
 # Step 1 - Feature expectations ( First 2 mins ) : 
