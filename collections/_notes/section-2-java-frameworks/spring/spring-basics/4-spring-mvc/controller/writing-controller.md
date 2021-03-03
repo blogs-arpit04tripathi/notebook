@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Writing a Controller
-permalink: /:collection/spring-mvc/writing-controller
+permalink: /:collection/spring/mvc/writing-controller
 ---
 
 - **@Controller** - stereotype annotation, to enable for component-scanning and declared as a bean.

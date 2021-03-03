@@ -1,7 +1,7 @@
 ---
 layout: post
 title: StandardServletMultipartResolver
-permalink: /:collection/spring-mvc/multipart/StandardServletMultipartResolver
+permalink: /:collection/spring/mvc/multipart/StandardServletMultipartResolver
 ---
 
 # Resolving Multipart Requests With Servlet 3.0

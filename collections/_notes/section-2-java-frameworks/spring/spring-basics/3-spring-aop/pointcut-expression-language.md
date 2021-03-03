@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AspectJ pointcut expression language
-permalink: /:collection/spring-aop/pointcut-expression-language
+permalink: /:collection/spring/aop/pointcut-expression-language
 ---
 
 - Pointcuts are used to pinpoint where an aspect’s advice should be applied.

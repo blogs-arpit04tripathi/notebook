@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Handle multipart request
-permalink: /:collection/spring-mvc/multipart/handle-request
+permalink: /:collection/spring/mvc/multipart/handle-request
 ---
 
 - TOC

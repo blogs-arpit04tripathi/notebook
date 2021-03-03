@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java Validation API
-permalink: /:collection/spring-mvc/validations
+permalink: /:collection/spring/mvc/validations
 ---
 
 - Java Validation API, such as Hibernate Validator, is in the project’s classpath.

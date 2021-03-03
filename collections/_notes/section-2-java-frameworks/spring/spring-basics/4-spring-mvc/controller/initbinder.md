@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Annotation @Initbinder
-permalink: /:collection/spring-mvc/initbinder
+permalink: /:collection/spring/mvc/initbinder
 ---
 
 - @Initbinder to customize the request being sent to the controller.

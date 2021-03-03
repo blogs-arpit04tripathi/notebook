@@ -1,7 +1,7 @@
 ---
 layout: post
 title: View resolver Types
-permalink: /:collection/spring-mvc/view-resolver-types
+permalink: /:collection/spring/mvc/view-resolver-types
 ---
 
 |View resolver                  |Description|

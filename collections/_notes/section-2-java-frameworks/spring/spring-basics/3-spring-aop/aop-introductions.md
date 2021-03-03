@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AOP Introductions
-permalink: /:collection/spring-aop/introductions
+permalink: /:collection/spring/aop/introductions
 ---
 
 - **Introduction** - aspects can attach new methods to Spring beans.

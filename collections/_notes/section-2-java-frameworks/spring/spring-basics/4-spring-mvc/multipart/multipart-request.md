@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Multipart Requests
-permalink: /:collection/spring-mvc/multipart
+permalink: /:collection/spring/mvc/multipart
 ---
 
 - Multipart form data

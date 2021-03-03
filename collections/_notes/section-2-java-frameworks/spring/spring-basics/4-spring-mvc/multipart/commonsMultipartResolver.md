@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CommonsMultipartResolver
-permalink: /:collection/spring-mvc/multipart/CommonsMultipartResolver
+permalink: /:collection/spring/mvc/multipart/CommonsMultipartResolver
 ---
 
 # Configuring a Jakarta Commons FileUpload Multipart Resolver
