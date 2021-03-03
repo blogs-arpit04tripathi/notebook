@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Consumer API
-permalink: /kafka/consumer/api
+permalink: /:collection/kafka/consumer/api
 ---
 
 ![]({{site.cdn}}/kafka/consumer-group-partition-mapping.png)

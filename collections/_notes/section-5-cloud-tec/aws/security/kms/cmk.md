@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CMK - Customer Master Key
-permalink: /aws/kms/cmk
+permalink: /:collection/aws/kms/cmk
 ---
 
 - Customer Master Key

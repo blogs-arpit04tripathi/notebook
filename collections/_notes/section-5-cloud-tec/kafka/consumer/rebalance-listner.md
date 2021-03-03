@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RebalanceListener
-permalink: /kafka/consumer/rebalance-listner
+permalink: /:collection/kafka/consumer/rebalance-listner
 ---
 
 **HOW TO KNOW THAT A REBALANCE IS TRIGGERED?**

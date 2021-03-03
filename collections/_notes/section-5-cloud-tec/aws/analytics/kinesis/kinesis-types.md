@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Types of Kinesis
-permalink: /aws/kinesis/types
+permalink: /:collection/aws/kinesis/types
 ---
 
 - TOC

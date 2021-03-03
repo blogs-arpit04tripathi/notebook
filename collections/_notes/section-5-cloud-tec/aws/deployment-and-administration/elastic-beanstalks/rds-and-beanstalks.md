@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RDS and Beanstalks
-permalink: /aws/beanstalks/rds-and-beanstalks
+permalink: /:collection/aws/beanstalks/rds-and-beanstalks
 ---
 
 EBS (Beanstalks) supports 2 ways of integrating an RDS DB with your Beanstalk environment.

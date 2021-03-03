@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Version Control in Lambda LAB
-permalink: /aws/lambda/version-control-lab
+permalink: /:collection/aws/lambda/version-control-lab
 ---
 
 - Create new lambda --> Qualifiers --> Version ($LATEST) --> Action --> Publish new version (Version 1)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fault Tolerance
-permalink: /kafka/fault-tolerance
+permalink: /:collection/kafka/fault-tolerance
 ---
 
 Enabling a system to continue operating properly in the event of the failure of some of its components.

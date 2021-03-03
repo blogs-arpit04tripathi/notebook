@@ -1,7 +1,7 @@
 ---
 layout: post
 title: S3 Security
-permalink: /aws/s3/security
+permalink: /:collection/aws/s3/security
 ---
 
 * By default, all newly created buckets are private.

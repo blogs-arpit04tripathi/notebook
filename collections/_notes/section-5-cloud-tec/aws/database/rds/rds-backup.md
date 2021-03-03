@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RDS Backups
-permalink: /aws/rds/backup
+permalink: /:collection/aws/rds/backup
 ---
 
 * Two types of backups

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Version Control in Lambda
-permalink: /aws/lambda/version-control
+permalink: /:collection/aws/lambda/version-control
 ---
 
 - Publish one or more versions of your lambda functions.

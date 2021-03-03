@@ -1,7 +1,7 @@
 ---
 layout: post
 title: API Gateway Introduction
-permalink: /aws/api-gateway/introduction
+permalink: /:collection/aws/api-gateway/introduction
 ---
 
 - API - Application Programming Interface

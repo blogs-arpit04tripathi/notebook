@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Consumer Config
-permalink: /kafka/consumer/config
+permalink: /:collection/kafka/consumer/config
 ---
 
 ```java

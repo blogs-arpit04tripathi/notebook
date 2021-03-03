@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DDB On Demand Capacity
-permalink: /aws/ddb/on-demand-capacity-pricing
+permalink: /:collection/aws/ddb/on-demand-capacity-pricing
 ---
 
 

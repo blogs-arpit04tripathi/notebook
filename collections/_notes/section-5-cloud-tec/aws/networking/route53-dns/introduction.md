@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Route53 DNS Introduction
-permalink: /aws/route53/introduction
+permalink: /:collection/aws/route53/introduction
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Default Partitioner
-permalink: /kafka/partitioner/default
+permalink: /:collection/kafka/partitioner/default
 ---
 
 - If partition number specified, use it.

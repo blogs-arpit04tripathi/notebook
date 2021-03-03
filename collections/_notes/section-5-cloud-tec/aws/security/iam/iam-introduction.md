@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IAM Introduction
-permalink: /aws/iam/introduction
+permalink: /:collection/aws/iam/introduction
 ---
 
 - TOC

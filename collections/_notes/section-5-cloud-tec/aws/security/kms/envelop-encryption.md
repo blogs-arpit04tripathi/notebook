@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Envelope Encryption
-permalink: /aws/kms/envelop-encryption
+permalink: /:collection/aws/kms/envelop-encryption
 ---
 
 Customer Master Key

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Elasticache vs Redshift
-permalink: /aws/elasticache/elasticache-vs-redshift
+permalink: /:collection/aws/elasticache/elasticache-vs-redshift
 ---
 
 * Scenario : Particular DB is under a lot of stress/load, which service will you alleviate.

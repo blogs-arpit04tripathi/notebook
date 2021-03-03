@@ -1,7 +1,7 @@
 ---
 layout: post
 title: S3 Charges
-permalink: /aws/s3/charges
+permalink: /:collection/aws/s3/charges
 ---
 
 * Storage per GB

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kafka CLI
-permalink: /kafka/cli
+permalink: /:collection/kafka/cli
 ---
 
 - URL - https://kafka.apache.org/quickstart

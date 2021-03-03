@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ELB Introduction
-permalink: /aws/elb/introduction
+permalink: /:collection/aws/elb/introduction
 ---
 
 * Balances load accross multiple web-server instances.

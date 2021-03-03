@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EC2 Lab
-permalink: /aws/ec2/lab
+permalink: /:collection/aws/ec2/lab
 ---
 
 AWS Console --> Services --> EC2 --> Launch Instance --> Amazon Linux AMI --> t2 micro free tier --> configure instance details --> Add root storage --> Add tags --> Create instance

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Configuring Beanstalks
-permalink: /aws/beanstalks/config
+permalink: /:collection/aws/beanstalks/config
 ---
 
 - EBS can be configured by using EBS configuration file.

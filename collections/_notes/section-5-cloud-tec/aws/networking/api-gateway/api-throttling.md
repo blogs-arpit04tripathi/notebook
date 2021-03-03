@@ -1,7 +1,7 @@
 ---
 layout: post
 title: API Throttling
-permalink: /aws/api-gateway/api-throttling
+permalink: /:collection/aws/api-gateway/api-throttling
 ---
 
 - By default, API Gateway limits the steady state request rate to 10,000 requests per second (rps).

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RDS Multi-AZ
-permalink: /aws/rds/multi-az
+permalink: /:collection/aws/rds/multi-az
 ---
 
 ![multi-az]({{site.cdn}}/aws/ec2/multi-az.png)

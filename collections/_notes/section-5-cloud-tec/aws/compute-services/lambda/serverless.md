@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Serverless Computing Introduction
-permalink: /aws/serverless
+permalink: /:collection/aws/serverless
 ---
 
 ![history-of-cloud]({{site.cdn}}/aws/serverless/history-of-cloud.png)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DDB Access Control
-permalink: /aws/ddb/access-control
+permalink: /:collection/aws/ddb/access-control
 ---
 
 - Authentication and Access Control is managed using AWS IAM.

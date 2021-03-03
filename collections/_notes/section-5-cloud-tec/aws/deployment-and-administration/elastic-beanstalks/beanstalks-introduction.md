@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Elastic Beanstalks Introduction
-permalink: /aws/beanstalks/introduction
+permalink: /:collection/aws/beanstalks/introduction
 ---
 
 - Elastic Beanstalk is a service to for deploying and scaling web applications developed in many languages: Java, .Net, node.js, python, ruby, Go and Docker onto widely used application server platforms like Apache Tomcat, Nginx, Passenger and IIS.

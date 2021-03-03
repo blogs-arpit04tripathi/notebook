@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scan vs Query
-permalink: /aws/ddb/scan-vs-query
+permalink: /:collection/aws/ddb/scan-vs-query
 ---
 
 - TOC

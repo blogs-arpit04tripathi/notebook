@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EC2 Introduction
-permalink: /aws/ec2/introduction
+permalink: /:collection/aws/ec2/introduction
 ---
 
 * Amazon Elastic Cloud Compute

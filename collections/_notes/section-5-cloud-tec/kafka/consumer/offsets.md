@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Offsets
-permalink: /kafka/consumer/offsets
+permalink: /:collection/kafka/consumer/offsets
 ---
 
 - **Current Offset**

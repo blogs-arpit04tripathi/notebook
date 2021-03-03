@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SQS Delay Queue
-permalink: /aws/sqs/delay-queue
+permalink: /:collection/aws/sqs/delay-queue
 ---
 
 - Postpone delivery of new message to a queue for number of seconds.

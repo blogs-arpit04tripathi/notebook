@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DDB Introduction
-permalink: /aws/ddb/introduction
+permalink: /:collection/aws/ddb/introduction
 ---
 
 - Fast and flexible NoSQL database service for all applications that need consistent, single-digit millisecond latency at any scale.

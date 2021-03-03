@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DDB Provisioned Throughput
-permalink: /aws/ddb/provisioned-throughput
+permalink: /:collection/aws/ddb/provisioned-throughput
 ---
 
 - TOC

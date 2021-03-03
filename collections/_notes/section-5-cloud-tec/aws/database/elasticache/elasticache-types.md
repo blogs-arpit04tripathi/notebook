@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Types of Elasticache
-permalink: /aws/elasticache/types
+permalink: /:collection/aws/elasticache/types
 ---
 
 * Elasticache supports two open-source in-memory caching engines

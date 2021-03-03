@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CloudFormation Introduction
-permalink: /aws/cloudformation/introduction
+permalink: /:collection/aws/cloudformation/introduction
 ---
 
 - TOC

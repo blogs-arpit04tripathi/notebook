@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kinesis Consumers/Kinesis Client Library
-permalink: /aws/kinesis/consumer
+permalink: /:collection/aws/kinesis/consumer
 ---
 
 - Kinesis client library runs on the consumer instances.

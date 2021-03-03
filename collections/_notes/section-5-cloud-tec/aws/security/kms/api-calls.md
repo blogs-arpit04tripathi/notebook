@@ -1,7 +1,7 @@
 ---
 layout: post
 title: KMS API Calls
-permalink: /aws/kms/api-calls
+permalink: /:collection/aws/kms/api-calls
 ---
 
 ```

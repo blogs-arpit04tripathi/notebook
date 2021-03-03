@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Types of IAM Policies
-permalink: /aws/iam/policy-types
+permalink: /:collection/aws/iam/policy-types
 ---
 
 IAM (Identity Access Management) is used to define user access permissions within AWS.

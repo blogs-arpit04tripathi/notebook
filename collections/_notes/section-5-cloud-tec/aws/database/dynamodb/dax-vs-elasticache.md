@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DAX vs Elasticache
-permalink: /aws/ddb/dax-vs-elasticache
+permalink: /:collection/aws/ddb/dax-vs-elasticache
 ---
 
 - DAX is optimized to only used for DynamoDB.

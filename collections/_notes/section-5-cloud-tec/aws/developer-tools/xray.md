@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AWS X-Ray
-permalink: /aws/xray
+permalink: /:collection/aws/xray
 ---
 
 - TOC

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DAX - DDB Accelerator
-permalink: /aws/ddb/dax
+permalink: /:collection/aws/ddb/dax
 ---
 
 - Fully managed, clustured in-memory cache for DynamoDB.

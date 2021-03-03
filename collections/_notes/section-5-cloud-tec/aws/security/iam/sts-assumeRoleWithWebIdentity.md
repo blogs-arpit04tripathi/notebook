@@ -1,7 +1,7 @@
 ---
 layout: post
 title: STS AssumeRoleWithWebIdentity
-permalink: /aws/iam/sts-assumeRoleWithWebIdentity
+permalink: /:collection/aws/iam/sts-assumeRoleWithWebIdentity
 ---
 
 - assume-role-with-web-identity is an API provided by STS (Security Token Service).

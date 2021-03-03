@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Web Identity Federation
-permalink: /aws/iam/webid-federation
+permalink: /:collection/aws/iam/webid-federation
 ---
 
 - Web Identity Federation gives your user access to AWS resources after they have succesfully authenticated with a web-based identity provider like Amazon, Facebook or Google.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Core APIs
-permalink: /kafka/core-apis
+permalink: /:collection/kafka/core-apis
 ---
 
 - **Producer API** allows an application to publish a stream of records to one or more Kafka topics.

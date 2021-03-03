@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data Warehousing
-permalink: /aws/rds/data-warehousing
+permalink: /:collection/aws/rds/data-warehousing
 ---
 
 * Used for business intelligence. Tool slike Cognos, Jaspersoft, SQLServer Reporting Services, Oracle Hyperion, and SAP NetWeaver.

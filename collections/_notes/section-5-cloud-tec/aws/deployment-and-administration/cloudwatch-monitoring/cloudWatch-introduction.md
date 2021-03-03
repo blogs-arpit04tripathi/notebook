@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CloudWatch Introduction
-permalink: /aws/cloudWatch/introduction
+permalink: /:collection/aws/cloudWatch/introduction
 ---
 
 - TOC

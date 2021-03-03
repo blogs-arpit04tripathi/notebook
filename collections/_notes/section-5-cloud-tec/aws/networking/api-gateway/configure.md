@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Configure API Gateway
-permalink: /aws/api-gateway/configure
+permalink: /:collection/aws/api-gateway/configure
 ---
 
 - Define an API(container)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Encryption
-permalink: /aws/rds/encryption
+permalink: /:collection/aws/rds/encryption
 ---
 
 * Encryption at rest is supported for MySQL, Oracle, SQL Server, PostgreSQL, MariaDB and Aurora.

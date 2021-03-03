@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Import APIs
-permalink: /aws/api-gateway/import-apis
+permalink: /:collection/aws/api-gateway/import-apis
 ---
 
 - Use API Gateway Import API feature to import API from an external definition file into API Gateway.

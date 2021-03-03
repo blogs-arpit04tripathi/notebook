@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apache Kafka ToDo
-permalink: /kafka/todo
+permalink: /:collection/kafka/todo
 ---
 
 ![]({{site.cdn}}/kafka/future-topics.png)

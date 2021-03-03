@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AWS Developer Tools Introduction
-permalink: /aws/devtools/introduction
+permalink: /:collection/aws/devtools/introduction
 ---
 
 - **CodeCommit** - Source and Version Control

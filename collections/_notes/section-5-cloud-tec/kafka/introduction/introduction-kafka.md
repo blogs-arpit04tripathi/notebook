@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kafka Introduction
-permalink: /kafka/introduction
+permalink: /:collection/kafka/introduction
 ---
 
 Apache Kafka® is a **distributed streaming platform**. What exactly does that mean?

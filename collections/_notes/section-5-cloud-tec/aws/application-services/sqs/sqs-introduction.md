@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SQS Introduction
-permalink: /aws/sqs/introduction
+permalink: /:collection/aws/sqs/introduction
 ---
 
 

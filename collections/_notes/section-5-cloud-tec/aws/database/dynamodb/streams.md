@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DynamoDB Streams
-permalink: /aws/ddb/streams
+permalink: /:collection/aws/ddb/streams
 ---
 
 - Time-ordered sequence of item level modifications(insert, update, delete).

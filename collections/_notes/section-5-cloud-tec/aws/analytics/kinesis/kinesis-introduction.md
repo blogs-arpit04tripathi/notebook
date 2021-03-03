@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kinesis Introduction
-permalink: /aws/kinesis/introduction
+permalink: /:collection/aws/kinesis/introduction
 ---
 
 **Streaming Data** - data generated continuosly by thousands of data sources, which typically sends data records simultaneously and in small sizes (kb).

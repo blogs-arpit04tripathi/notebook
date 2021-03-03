@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Caching Strategies
-permalink: /aws/elasticache/caching-strategies
+permalink: /:collection/aws/elasticache/caching-strategies
 ---
 
 # Lazy Loading

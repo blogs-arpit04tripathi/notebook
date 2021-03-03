@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SES Introduction
-permalink: /aws/ses/introduction
+permalink: /:collection/aws/ses/introduction
 ---
 
 # SES UseCases

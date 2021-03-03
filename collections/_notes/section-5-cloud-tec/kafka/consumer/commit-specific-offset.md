@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Commit Specific Offset
-permalink: /kafka/consumer/commit-specific-offset
+permalink: /:collection/kafka/consumer/commit-specific-offset
 ---
 
 ![]({{site.cdn}}/kafka/commit-specific-offset.png)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RDS Introduction
-permalink: /aws/rds/introduction
+permalink: /:collection/aws/rds/introduction
 ---
 
 * Relational Database Service

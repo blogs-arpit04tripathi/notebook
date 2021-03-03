@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kafka vs Queue
-permalink: /kafka/kafka-vs-queue
+permalink: /:collection/kafka/kafka-vs-queue
 ---
 
 **How is it different from Queue like ActiveMQ?**

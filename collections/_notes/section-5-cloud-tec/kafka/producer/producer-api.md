@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Producer API
-permalink: /kafka/producer/api
+permalink: /:collection/kafka/producer/api
 ---
 
 -	bootstrap.servers = brokers list for zookeeper

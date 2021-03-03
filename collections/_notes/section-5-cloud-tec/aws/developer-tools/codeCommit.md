@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CodeCommit
-permalink: /aws/devtools/codeCommit
+permalink: /:collection/aws/devtools/codeCommit
 ---
 
 - Centralized code repository

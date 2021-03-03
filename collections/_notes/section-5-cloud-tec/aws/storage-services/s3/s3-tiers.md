@@ -1,7 +1,7 @@
 ---
 layout: post
 title: S3 Storage Tiers Or Classes
-permalink: /aws/s3/tiers
+permalink: /:collection/aws/s3/tiers
 ---
 
 - TOC

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Commit Current Offset
-permalink: /kafka/consumer/commit-current-offset
+permalink: /:collection/kafka/consumer/commit-current-offset
 ---
 
 - **AUTO COMMIT**

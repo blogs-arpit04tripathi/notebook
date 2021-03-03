@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Producer Config
-permalink: /kafka/producer/config
+permalink: /:collection/kafka/producer/config
 ---
 
 # bootstrap.servers

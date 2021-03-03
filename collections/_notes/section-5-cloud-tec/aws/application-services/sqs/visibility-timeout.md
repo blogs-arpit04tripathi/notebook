@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SQS Visibility Timeout
-permalink: /aws/sqs/visibility-timeout
+permalink: /:collection/aws/sqs/visibility-timeout
 ---
 
 - Amount of time that the message is invisible to SQS after a reader picks up the message.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Indexes
-permalink: /aws/ddb/indexes
+permalink: /:collection/aws/ddb/indexes
 ---
 
 

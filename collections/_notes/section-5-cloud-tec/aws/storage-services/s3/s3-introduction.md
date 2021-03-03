@@ -1,7 +1,7 @@
 ---
 layout: post
 title: S3 Introduction
-permalink: /aws/s3/introduction
+permalink: /:collection/aws/s3/introduction
 ---
 
 

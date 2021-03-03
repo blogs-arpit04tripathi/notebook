@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SQS Long Polling
-permalink: /aws/sqs/long-polling
+permalink: /:collection/aws/sqs/long-polling
 ---
 
 - SQS uses Long Polling for retrieving messages from queue.

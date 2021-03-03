@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CodeDeployment
-permalink: /aws/devtools/codeDeployment
+permalink: /:collection/aws/devtools/codeDeployment
 ---
 
 ![]({{site.cdn}}/aws/dev-theory/code-deploy-approaches.png)

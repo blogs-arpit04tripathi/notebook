@@ -1,7 +1,7 @@
 ---
 layout: post
 title: S3 Encryption
-permalink: /aws/s3/encryption
+permalink: /:collection/aws/s3/encryption
 ---
 
 - TOC

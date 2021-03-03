@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CICD
-permalink: /aws/devtools/cicd
+permalink: /:collection/aws/devtools/cicd
 ---
 
 - Software industry best practice.

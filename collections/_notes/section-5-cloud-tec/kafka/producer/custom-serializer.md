@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Custom Serializers
-permalink: /kafka/serializer/custom
+permalink: /:collection/kafka/serializer/custom
 ---
 
 -	props.put("value.serializer", "SupplierSerializer");

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lambda Introduction
-permalink: /aws/lambda/introduction
+permalink: /:collection/aws/lambda/introduction
 ---
 
 - TOC

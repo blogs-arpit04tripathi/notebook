@@ -1,7 +1,7 @@
 ---
 layout: post
 title: KMS Introduction
-permalink: /aws/kms/introduction
+permalink: /:collection/aws/kms/introduction
 ---
 
 - KMS - Key Management System

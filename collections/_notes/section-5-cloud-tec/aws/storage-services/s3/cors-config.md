@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CORS Configuration
-permalink: /aws/s3/cors-config
+permalink: /:collection/aws/s3/cors-config
 ---
 
 - Cross origin resource sharing

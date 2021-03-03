@@ -1,7 +1,7 @@
 ---
 layout: post
 title: S3 Performance Optimization
-permalink: /aws/s3/performance-optimization
+permalink: /:collection/aws/s3/performance-optimization
 ---
 
 - By default, designed to support very high request rates.

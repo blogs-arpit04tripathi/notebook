@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DDB Primary Keys
-permalink: /aws/ddb/primary-keys
+permalink: /:collection/aws/ddb/primary-keys
 ---
 
 - TOC

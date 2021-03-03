@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EBS - Elastic Block Storage
-permalink: /aws/ebs/introduction
+permalink: /:collection/aws/ebs/introduction
 ---
 
 * Elastic Block Storage

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Integration Problem
-permalink: /kafka/integration-problem
+permalink: /:collection/kafka/integration-problem
 ---
 
 ![]({{site.cdn}}/kafka/integration-problem.png)

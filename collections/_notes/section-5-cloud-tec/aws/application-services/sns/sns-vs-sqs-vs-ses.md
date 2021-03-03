@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SNS vs SQS vs SES
-permalink: /aws/sns/sns-vs-sqs-vs-ses
+permalink: /:collection/aws/sns/sns-vs-sqs-vs-ses
 ---
 
 # SNS vs SQS

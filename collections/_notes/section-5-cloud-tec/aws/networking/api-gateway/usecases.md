@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What API Gateway can do?
-permalink: /aws/api-gateway/usecases
+permalink: /:collection/aws/api-gateway/usecases
 ---
 
 - Expose https endpoint to define a RESTful API.

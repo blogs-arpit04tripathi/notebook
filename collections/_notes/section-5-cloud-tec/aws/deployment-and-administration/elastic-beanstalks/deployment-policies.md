@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Beanstalks Deployment Policies
-permalink: /aws/beanstalks/deployment-policies
+permalink: /:collection/aws/beanstalks/deployment-policies
 ---
 
 - TOC

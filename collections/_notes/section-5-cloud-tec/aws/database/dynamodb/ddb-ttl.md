@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DDB TTL
-permalink: /aws/ddb/ttl
+permalink: /:collection/aws/ddb/ttl
 ---
 
 - Time To Live attribute defines an expiry time for your data.

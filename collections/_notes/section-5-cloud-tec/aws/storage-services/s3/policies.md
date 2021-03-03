@@ -1,7 +1,7 @@
 ---
 layout: post
 title: S3 Policies
-permalink: /aws/s3/policies
+permalink: /:collection/aws/s3/policies
 ---
 
 - TOC

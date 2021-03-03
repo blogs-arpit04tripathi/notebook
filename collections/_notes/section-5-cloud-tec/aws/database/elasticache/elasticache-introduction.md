@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Elasticache Introduction
-permalink: /aws/elasticache/introduction
+permalink: /:collection/aws/elasticache/introduction
 ---
 
 * Elasticache is a web service to deploy, operate and scale an in-memory cache in cloud.

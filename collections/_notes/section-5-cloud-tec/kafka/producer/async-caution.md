@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Asynchronous Call (Caution)
-permalink: /kafka/producer/async-caution
+permalink: /:collection/kafka/producer/async-caution
 ---
 
 - It may happen that due to retries, the sequence of messages sent to kafka are mixed up.

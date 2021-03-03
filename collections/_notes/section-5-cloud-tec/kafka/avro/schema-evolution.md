@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Schema Evolution (Avro Schemas)
-permalink: /kafka/schema-evolution
+permalink: /:collection/kafka/schema-evolution
 ---
 
 ![]({{site.cdn}}/kafka/schema-evolution.png)

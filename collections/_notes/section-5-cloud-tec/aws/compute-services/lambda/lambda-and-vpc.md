@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lambda and VPC
-permalink: /aws/lambda/lambda-and-vpc
+permalink: /:collection/aws/lambda/lambda-and-vpc
 ---
 
 ![]({{site.cdn}}/aws/serverless/lambda-and-vpc.png)

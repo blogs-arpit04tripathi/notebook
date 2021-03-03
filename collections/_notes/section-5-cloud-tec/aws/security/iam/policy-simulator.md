@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IAM Policy Simulator
-permalink: /aws/iam/policy-simulator
+permalink: /:collection/aws/iam/policy-simulator
 ---
 
 - Test the affects of IAM Policies before commiting them to production.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DynamoDB Transactions
-permalink: /aws/ddb/transactions
+permalink: /:collection/aws/ddb/transactions
 ---
 
 

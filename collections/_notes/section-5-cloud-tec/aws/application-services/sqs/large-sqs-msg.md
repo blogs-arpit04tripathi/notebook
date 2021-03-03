@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Messaging Large SQS Messages
-permalink: /aws/sqs/large-sqs-msg
+permalink: /:collection/aws/sqs/large-sqs-msg
 ---
 
 - For large SQS messages - 256KB upto 2GB.

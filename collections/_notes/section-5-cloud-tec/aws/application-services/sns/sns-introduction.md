@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SNS Introduction
-permalink: /aws/sns/introduction
+permalink: /:collection/aws/sns/introduction
 ---
 
 - AWS service to setup, operate and send notifications from the cloud.

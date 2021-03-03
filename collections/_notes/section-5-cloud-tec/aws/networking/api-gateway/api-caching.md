@@ -1,7 +1,7 @@
 ---
 layout: post
 title: API Caching
-permalink: /aws/api-gateway/api-caching
+permalink: /:collection/aws/api-gateway/api-caching
 ---
 
 - You can allow API caching in API gateway to cache your endpoint response.

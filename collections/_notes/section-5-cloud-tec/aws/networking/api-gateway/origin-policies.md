@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Origin Policies
-permalink: /aws/api-gateway/origin-policies
+permalink: /:collection/aws/api-gateway/origin-policies
 ---
 
 # Same Origin Policy

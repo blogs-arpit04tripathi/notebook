@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Simple Serverless Website
-permalink: /aws/lambda/simple-serverless-website
+permalink: /:collection/aws/lambda/simple-serverless-website
 ---
 
 - Using Route53, API Gateway, Lambda, S3

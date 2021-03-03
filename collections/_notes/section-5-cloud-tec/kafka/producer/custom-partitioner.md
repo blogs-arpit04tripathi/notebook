@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Custom Partitioner
-permalink: /kafka/partitioner/custom
+permalink: /:collection/kafka/partitioner/custom
 ---
 
 - [ApacheKafkaTutorials](https://github.com/LearningJournal/ApacheKafkaTutorials)

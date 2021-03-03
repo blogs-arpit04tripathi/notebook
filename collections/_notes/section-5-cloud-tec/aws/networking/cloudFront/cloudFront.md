@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CloudFront
-permalink: /aws/cloudFront
+permalink: /:collection/aws/cloudFront
 ---
 
 - TOC

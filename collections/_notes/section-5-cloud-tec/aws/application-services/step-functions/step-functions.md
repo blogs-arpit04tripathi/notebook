@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Step Functions
-permalink: /aws/step-functions
+permalink: /:collection/aws/step-functions
 ---
 
 - Allows you to visualize and test your serverless applications using JSON-based Amazon States Language.

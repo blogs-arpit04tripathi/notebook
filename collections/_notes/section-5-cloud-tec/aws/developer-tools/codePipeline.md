@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CodePipeline
-permalink: /aws/devtools/codePipeline
+permalink: /:collection/aws/devtools/codePipeline
 ---
 
 A fully managed CICD service 

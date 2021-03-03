@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RDS Lab
-permalink: /aws/rds/lab
+permalink: /:collection/aws/rds/lab
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kafka Broker Configuration
-permalink: /kafka/broker-config
+permalink: /:collection/kafka/broker-config
 ---
 
 |Broker Configuration||

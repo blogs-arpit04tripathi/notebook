@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deploying Docker with Beanstalks
-permalink: /aws/beanstalks/deploy-docker
+permalink: /:collection/aws/beanstalks/deploy-docker
 ---
 
 - EBS supports deployment of docker containers.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Core Concepts
-permalink: /kafka/core-concepts
+permalink: /:collection/kafka/core-concepts
 ---
 
 - **Producer**: Application sending messges to Kafka. (Array of bytes)

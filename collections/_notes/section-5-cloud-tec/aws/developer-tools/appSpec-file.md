@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AppSpec File
-permalink: /aws/devtools/appSpec-file
+permalink: /:collection/aws/devtools/appSpec-file
 ---
 
 - Configuration file defining parameters to be used during CodeDeploy deployment.

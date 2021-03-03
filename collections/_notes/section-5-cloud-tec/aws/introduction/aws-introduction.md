@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AWS Introduction
-permalink: /aws/introduction
+permalink: /:collection/aws/introduction
 ---
 
 - TOC

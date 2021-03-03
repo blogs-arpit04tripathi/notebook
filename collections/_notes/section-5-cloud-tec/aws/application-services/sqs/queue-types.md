@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SQS Queue Types
-permalink: /aws/sqs/queue-types
+permalink: /:collection/aws/sqs/queue-types
 ---
 
 - Standard Queue (default)

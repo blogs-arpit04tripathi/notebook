@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DDB Tables
-permalink: /aws/ddb/tables
+permalink: /:collection/aws/ddb/tables
 ---
 
 - Stored on SSD storage (Solid State Disks)
