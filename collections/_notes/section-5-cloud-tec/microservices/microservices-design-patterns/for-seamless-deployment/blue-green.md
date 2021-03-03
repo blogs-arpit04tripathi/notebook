@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blue-Green Deployment
-permalink: /microservices/patterns/blue-green
+permalink: /:collection/microservices/patterns/blue-green
 ---
 
 - In a microservice design pattern, there are multiple microservices.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microservices Features
-permalink: /microservices/features
+permalink: /:collection/microservices/features
 ---
 
 **Disadvantages of Monolithic Application**

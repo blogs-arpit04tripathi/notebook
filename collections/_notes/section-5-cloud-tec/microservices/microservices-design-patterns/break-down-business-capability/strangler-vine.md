@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Strangler Vine Pattern
-permalink: /microservices/patterns/strangler-vine
+permalink: /:collection/microservices/patterns/strangler-vine
 ---
 
 - Struggle of converting a monolithic system to design microservice architecture.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hystrix Configuration Parameters
-permalink: /microservices/hystrix/config-params
+permalink: /:collection/microservices/hystrix/config-params
 ---
 
 ![]({{site.cdn}}/webservices/microservices/hystrix-config-parameters.png)

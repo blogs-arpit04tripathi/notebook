@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Config as a Microservice
-permalink: /microservices/configuration/service
+permalink: /:collection/microservices/configuration/service
 ---
 
 - Technology Options 

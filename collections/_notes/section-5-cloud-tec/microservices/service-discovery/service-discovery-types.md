@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Service Discovery Types
-permalink: /microservices/service-discovery/types
+permalink: /:collection/microservices/service-discovery/types
 ---
 
 

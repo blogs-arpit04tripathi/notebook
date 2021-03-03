@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Netflix Eureka
-permalink: /microservices/service-discovery/netflix-eureka
+permalink: /:collection/microservices/service-discovery/netflix-eureka
 ---
 
 - When we start a project, we usally have all the configurations in the properties file.

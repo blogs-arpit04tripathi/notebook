@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Branch Pattern
-permalink: /microservices/patterns/branch
+permalink: /:collection/microservices/patterns/branch
 ---
 
 - Extend Aggregator design patterns - here request not passed sequentially.

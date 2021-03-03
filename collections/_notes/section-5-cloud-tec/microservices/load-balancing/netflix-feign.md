@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Netflix Feign - Declarative REST Client
-permalink: /microservices/load-balancing/netflix-feign
+permalink: /:collection/microservices/load-balancing/netflix-feign
 ---
 
 - [Netflix Feign - Declarative REST Client](https://cloud.spring.io/spring-cloud-netflix/multi/multi_spring-cloud-feign.html){:target="_blank"}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microservices Authentication
-permalink: /microservices/authentication
+permalink: /:collection/microservices/authentication
 ---
 
 **What Is OAuth?**  

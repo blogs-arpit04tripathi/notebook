@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shared Database per Service
-permalink: /microservices/patterns/shared-db
+permalink: /:collection/microservices/patterns/shared-db
 ---
 
 - In Domain Driven Design, a separate database per service is feasible, but in an approach where you decompose a monolithic architecture to microservice, using a single database can be tough.

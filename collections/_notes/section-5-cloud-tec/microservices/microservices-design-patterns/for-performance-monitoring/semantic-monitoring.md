@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Semantic Monitoring
-permalink: /microservices/patterns/semantic-monitoring
+permalink: /:collection/microservices/patterns/semantic-monitoring
 ---
 
 - Synthetic Monitoring a.k.a Semantic Monitoring

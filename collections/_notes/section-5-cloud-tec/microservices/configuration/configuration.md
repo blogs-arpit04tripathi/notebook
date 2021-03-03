@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microservices Configuration
-permalink: /microservices/configuration
+permalink: /:collection/microservices/configuration
 ---
 
 - Separating code from configuration

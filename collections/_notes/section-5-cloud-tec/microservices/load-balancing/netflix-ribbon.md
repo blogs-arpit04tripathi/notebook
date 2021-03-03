@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Netflix Ribbon - Client Side Load Balancer
-permalink: /microservices/load-balancing/netflix-ribbon
+permalink: /:collection/microservices/load-balancing/netflix-ribbon
 ---
 
 - Ribbon is a client-side load balancer that gives you a lot of control over the behavior of HTTP and TCP clients.

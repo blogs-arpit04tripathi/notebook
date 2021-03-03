@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microservice Architecture Design Principles
-permalink: /microservices/design-principles
+permalink: /:collection/microservices/design-principles
 ---
 
 **What are Reactive Extensions in Microservices?**

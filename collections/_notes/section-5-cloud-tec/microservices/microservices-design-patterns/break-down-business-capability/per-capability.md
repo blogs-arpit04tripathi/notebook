@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microservice per Business Capability
-permalink: /microservices/patterns/per-capability
+permalink: /:collection/microservices/patterns/per-capability
 ---
 
 Successful microservice

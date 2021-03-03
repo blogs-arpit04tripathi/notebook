@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microservice Architecture - Sample Application
-permalink: /microservices/sample-applications
+permalink: /:collection/microservices/sample-applications
 ---
 
 ![]({{site.cdn}}/webservices/microservices/microservices-virtual-network.png)

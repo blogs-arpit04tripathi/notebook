@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microservices
-permalink: /microservices/patterns/api-gateway
+permalink: /:collection/microservices/patterns/api-gateway
 ---
 
 - Backend for Front-End/ API Gateway

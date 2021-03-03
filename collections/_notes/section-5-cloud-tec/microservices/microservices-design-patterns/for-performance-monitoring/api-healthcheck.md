@@ -1,7 +1,7 @@
 ---
 layout: post
 title: API Health Check
-permalink: /microservices/patterns/api-healthcheck
+permalink: /:collection/microservices/patterns/api-healthcheck
 ---
 
 - APIs serve as the building blocks of an online connectivity.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Configuration Strategies
-permalink: /microservices/configuration/strategies
+permalink: /:collection/microservices/configuration/strategies
 ---
 
 |Specificity|Type|Where|

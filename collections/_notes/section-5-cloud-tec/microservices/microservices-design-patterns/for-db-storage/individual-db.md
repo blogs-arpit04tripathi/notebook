@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Individual Database per Service
-permalink: /microservices/patterns/individual-db
+permalink: /:collection/microservices/patterns/individual-db
 ---
 
 - Usually applied in Domain Driven Designs.

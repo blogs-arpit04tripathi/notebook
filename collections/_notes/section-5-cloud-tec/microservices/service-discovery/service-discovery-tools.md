@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Service Discovery Tools
-permalink: /microservices/service-discovery/tools
+permalink: /:collection/microservices/service-discovery/tools
 ---
 
 - When service A starts up. It registers itself to some service discovery tool (discovery server) telling I am Service A running on this ip address using this port.

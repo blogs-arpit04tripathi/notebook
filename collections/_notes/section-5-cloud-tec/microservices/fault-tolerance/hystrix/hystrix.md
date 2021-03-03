@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hystrix
-permalink: /microservices/hystrix
+permalink: /:collection/microservices/hystrix
 ---
 
 - Open source library created by Netflix.

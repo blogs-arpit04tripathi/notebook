@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microservices
-permalink: /microservices/introduction
+permalink: /:collection/microservices/introduction
 ---
 
 - Microservices is an architectural style

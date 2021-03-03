@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microservices
-permalink: /microservices/hystrix/dashboard
+permalink: /:collection/microservices/hystrix/dashboard
 ---
 
 - Add dependency `spring-cloud-starter-netflix-hystrix-dashboard`

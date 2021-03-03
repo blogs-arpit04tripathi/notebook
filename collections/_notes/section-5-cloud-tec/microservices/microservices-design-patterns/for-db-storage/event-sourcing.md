@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Event Sourcing Design Pattern
-permalink: /microservices/patterns/event-sourcing
+permalink: /:collection/microservices/patterns/event-sourcing
 ---
 
 - How can you rely on the architecture to make a change or publish a real-time event with respect to the changes in state of the application?

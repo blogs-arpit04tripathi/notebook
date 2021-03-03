@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microservices Architecture Components
-permalink: /microservices/components
+permalink: /:collection/microservices/components
 ---
 
 -	**Clients**: Different users will send requests from different devices.

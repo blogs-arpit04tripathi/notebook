@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microservices around similar Business Capability
-permalink: /microservices/patterns/around-similar-capability
+permalink: /:collection/microservices/patterns/around-similar-capability
 ---
 
 - Despite segregating on the basis of business capabilities, microservices often come up with a greater challenge.

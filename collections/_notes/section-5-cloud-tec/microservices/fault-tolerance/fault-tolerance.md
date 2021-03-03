@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fault Tolerance and Resilience
-permalink: /microservices/fault-tolerance
+permalink: /:collection/microservices/fault-tolerance
 ---
 
 - **Fault Tolerance** - How does system behave when there is a fault, impact of fault.

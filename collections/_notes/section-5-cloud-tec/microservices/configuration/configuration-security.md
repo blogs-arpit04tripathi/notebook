@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Configuration Security
-permalink: /microservices/configuration/security
+permalink: /:collection/microservices/configuration/security
 ---
 
 - Config Server + Spring Security

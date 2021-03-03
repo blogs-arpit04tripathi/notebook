@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shared Objects in Microservices
-permalink: /microservices/shared-objects
+permalink: /:collection/microservices/shared-objects
 ---
 
 Suppose we have class A defined in microservice A and microservice B is calling an endpoint to get this as response, should we have replica of class definition in microservice B or use a shared library among them?

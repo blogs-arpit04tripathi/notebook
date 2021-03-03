@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Netflix Zuul - Server Side Load Balancer
-permalink: /microservices/load-balancing/netflix-zuul
+permalink: /:collection/microservices/load-balancing/netflix-zuul
 ---
 
 **Load Balancing?**  

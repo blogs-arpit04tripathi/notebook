@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Log Aggregation
-permalink: /microservices/patterns/log-aggregation
+permalink: /:collection/microservices/patterns/log-aggregation
 ---
 
 Monitoring the performance

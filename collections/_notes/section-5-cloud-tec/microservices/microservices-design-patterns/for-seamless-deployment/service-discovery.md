@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Service Discovery
-permalink: /microservices/patterns/service-discovery
+permalink: /:collection/microservices/patterns/service-discovery
 ---
 
 - The use of containers leads to dynamic allocation of the IP address.

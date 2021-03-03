@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Profile Based Config
-permalink: /microservices/configuration/profile-based
+permalink: /:collection/microservices/configuration/profile-based
 ---
 
 you can also select beans based on active profile.

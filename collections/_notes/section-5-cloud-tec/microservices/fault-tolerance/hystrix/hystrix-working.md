@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How does Hystrix Work?
-permalink: /microservices/hystrix/working
+permalink: /:collection/microservices/hystrix/working
 ---
 
 Creates a Hystrix Proxy object.

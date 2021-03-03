@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Service Discovery
-permalink: /microservices/service-discovery
+permalink: /:collection/microservices/service-discovery
 ---
 
 Microservices might be running on different servers, then how to keep track of them?   

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aggregator Pattern
-permalink: /microservices/patterns/aggregator
+permalink: /:collection/microservices/patterns/aggregator
 ---
 
 - Multiple microservices, fetching the output and combining it for the end-user is necessary.

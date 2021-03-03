@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Asynchronous Messaging Pattern
-permalink: /microservices/patterns/saga-transaction-pattern
+permalink: /:collection/microservices/patterns/saga-transaction-pattern
 ---
 
 - [Microservices Using the Saga Pattern](https://dzone.com/articles/microservices-using-saga-pattern#:~:text=The%20Saga%20Pattern%20is%20as,perform%20the%20next%20local%20transaction.){:target="_blank"}

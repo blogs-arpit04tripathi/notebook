@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microservices Testing
-permalink: /microservices/testing
+permalink: /:collection/microservices/testing
 ---
 
 **Explain three types of Tests for Microservices?**  

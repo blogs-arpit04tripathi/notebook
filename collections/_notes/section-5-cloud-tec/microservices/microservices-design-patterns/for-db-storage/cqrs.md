@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Command Query Responsibility Segregation (CQRS)
-permalink: /microservices/patterns/cqrs
+permalink: /:collection/microservices/patterns/cqrs
 ---
 
 - In a database-per-service model, the query cannot be implemented because of the limited access to only one database.

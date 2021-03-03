@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chain of responsibility Pattern
-permalink: /microservices/patterns/chain-of-responsibility
+permalink: /:collection/microservices/patterns/chain-of-responsibility
 ---
 
 * produces a single output which is combination of mltiple chanied outputs.

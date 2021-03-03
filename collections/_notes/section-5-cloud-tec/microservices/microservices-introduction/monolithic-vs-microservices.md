@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Monolithic vs Microservices
-permalink: /microservices/monolithic-vs-microservices
+permalink: /:collection/microservices/monolithic-vs-microservices
 ---
 
 - **Monolithic architecture** is like a big container in which all the software components of an application are clubbed inside a single package.

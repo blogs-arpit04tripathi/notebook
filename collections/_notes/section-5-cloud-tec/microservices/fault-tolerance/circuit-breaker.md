@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Circuit Breaker
-permalink: /microservices/circuit-breaker
+permalink: /:collection/microservices/circuit-breaker
 ---
 
 **When does a circuit trips?**

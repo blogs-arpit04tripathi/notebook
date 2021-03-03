@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Issues with Microservices
-permalink: /microservices/issue-with-microservices
+permalink: /:collection/microservices/issue-with-microservices
 ---
 
 - A Microservice goes down?
