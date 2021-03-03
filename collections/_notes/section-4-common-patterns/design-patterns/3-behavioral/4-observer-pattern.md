@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Observer Pattern
-permalink: /design-patterns/behavioral/observer-pattern
+permalink: /:collection/design-patterns/behavioral/observer-pattern
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prototype Pattern
-permalink: /design-patterns/creational/prototype-pattern
+permalink: /:collection/design-patterns/creational/prototype-pattern
 ---
 
 - TOC

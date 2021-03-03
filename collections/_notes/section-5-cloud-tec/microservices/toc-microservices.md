@@ -6,7 +6,7 @@ permalink: /:collection/microservices
 
 # Microservices
 - [12 Factor App](https://12factor.net/){:target="_blank"}
-- [Software Architecture Evolution](/software-architecture/evolution)
+- [Software Architecture Evolution](software-architecture-evolution)
   - [Microservices Architecture Components](components)
 - [Microservices Introduction](introduction)
   - [Monolithic vs Microservices](monolithic-vs-microservices)
@@ -61,13 +61,13 @@ permalink: /:collection/microservices
   - Service Mesh (Sidecar Pattern) - Control Plane and sidecar plane
 - [Microservices Authentication](authentication)
 - [Microservices Testing](testing)
-- [Domain Driven Design](/domain-driven-design)
+- [Domain Driven Design](domain-driven-design)
 - [Microservice Architecture - Sample Application](sample-applications)
 - [Monitoring](monitoring)
-- [Spring Cloud](/spring-cloud)
-- [Spring Cloud Bus](/spring-cloud-bus)
-- [Spring Cloud Data Flow](/spring-cloud-data-flow)
-- [Pivotal Cloud Foundry(PCF)](/pcf)
+- [Spring Cloud](spring-cloud)
+- [Spring Cloud Bus](spring-cloud-bus)
+- [Spring Cloud Data Flow](spring-cloud-data-flow)
+- [Pivotal Cloud Foundry(PCF)](pcf)
 
 # References
 - [microservices.io]( http://microservices.io/)

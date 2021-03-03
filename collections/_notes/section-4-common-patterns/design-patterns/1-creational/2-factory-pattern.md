@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Factory Pattern
-permalink: /design-patterns/creational/factory-pattern
+permalink: /:collection/design-patterns/creational/factory-pattern
 ---
 
 - TOC

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Facade Pattern
-permalink: /design-patterns/structural/facade-pattern
+permalink: /:collection/design-patterns/structural/facade-pattern
 ---
 
 - TOC

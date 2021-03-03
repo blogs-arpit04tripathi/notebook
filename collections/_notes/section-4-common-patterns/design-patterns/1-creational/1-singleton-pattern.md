@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Singleton Pattern
-permalink: /design-patterns/creational/singleton-pattern
+permalink: /:collection/design-patterns/creational/singleton-pattern
 ---
 
 - TOC

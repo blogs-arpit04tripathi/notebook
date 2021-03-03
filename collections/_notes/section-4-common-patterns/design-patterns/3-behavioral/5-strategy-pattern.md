@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Strategy Pattern
-permalink: /design-patterns/behavioral/strategy-pattern
+permalink: /:collection/design-patterns/behavioral/strategy-pattern
 ---
 
 - TOC

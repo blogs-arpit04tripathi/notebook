@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Inner Class (Nested Class)
-permalink: /java/inner-class
+permalink: /:collection/java/inner-class
 ---
 
 * define class within a class, ***nested classes***. 

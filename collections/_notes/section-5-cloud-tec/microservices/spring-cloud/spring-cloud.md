@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring Cloud
-permalink: /:collection/spring-cloud/
+permalink: /:collection/microservices/spring-cloud/
 ---
 
 -	Spring Cloud, in microservices, is a system that provides integration with external systems. 

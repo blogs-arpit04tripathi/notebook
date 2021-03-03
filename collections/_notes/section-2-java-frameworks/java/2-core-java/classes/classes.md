@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Classes
-permalink: /java/classes
+permalink: /:collection/java/classes
 ---
 
 * Defines a new data type, works as a template. 	

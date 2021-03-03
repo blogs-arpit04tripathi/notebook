@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adapter Pattern
-permalink: /design-patterns/structural/adapter-pattern
+permalink: /:collection/design-patterns/structural/adapter-pattern
 ---
 
 - TOC

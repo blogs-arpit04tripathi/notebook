@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Decorator Pattern
-permalink: /design-patterns/structural/decorator-pattern
+permalink: /:collection/design-patterns/structural/decorator-pattern
 ---
 
 - TOC

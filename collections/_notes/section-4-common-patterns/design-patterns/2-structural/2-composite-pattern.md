@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Composite Pattern
-permalink: /design-patterns/structural/composite-pattern
+permalink: /:collection/design-patterns/structural/composite-pattern
 ---
 
 - TOC

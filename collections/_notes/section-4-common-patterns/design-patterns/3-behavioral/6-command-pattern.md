@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Command Pattern
-permalink: /design-patterns/behavioral/command-pattern
+permalink: /:collection/design-patterns/behavioral/command-pattern
 ---
 
 - TOC

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mediator Pattern
-permalink: /design-patterns/behavioral/mediator-pattern
+permalink: /:collection/design-patterns/behavioral/mediator-pattern
 ---
 
 - Mediator design pattern is used to provide a centralized communication medium between different objects in a system. Mediator design pattern is very helpful in an enterprise application where multiple objects are interacting with each other. If the objects interact with each other directly, the system components are tightly-coupled with each other that makes maintainability cost higher and not flexible to extend easily. Mediator pattern focuses on provide a mediator between objects for communication and help in implementing lose-coupling between objects.

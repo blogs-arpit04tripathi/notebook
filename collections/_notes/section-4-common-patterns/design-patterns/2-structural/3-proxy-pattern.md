@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Proxy Pattern
-permalink: /design-patterns/structural/proxy-pattern
+permalink: /:collection/design-patterns/structural/proxy-pattern
 ---
 
 - TOC

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Memento Pattern
-permalink: /design-patterns/behavioral/memento-pattern
+permalink: /:collection/design-patterns/behavioral/memento-pattern
 ---
 
 - TOC

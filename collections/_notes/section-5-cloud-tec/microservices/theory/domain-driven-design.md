@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Domain Driven Design
-permalink: /domain-driven-design
+permalink: /:collection/microservices/domain-driven-design
 ---
 
 **Define Domain Driven Design**  

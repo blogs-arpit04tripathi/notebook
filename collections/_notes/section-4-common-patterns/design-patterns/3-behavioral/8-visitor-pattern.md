@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visitor Pattern
-permalink: /design-patterns/behavioral/visitor-pattern
+permalink: /:collection/design-patterns/behavioral/visitor-pattern
 ---
 
 - TOC

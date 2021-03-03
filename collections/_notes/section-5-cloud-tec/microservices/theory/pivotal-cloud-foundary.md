@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pivotal Cloud Foundry(PCF)
-permalink: /pcf
+permalink: /:collection/microservices/pcf
 ---
 
 **What is Pivotal Cloud Foundry(PCF)?**  

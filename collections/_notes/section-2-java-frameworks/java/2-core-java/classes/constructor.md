@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Constructors
-permalink: /java/constructors
+permalink: /:collection/java/constructors
 ---
 
 * Constructors has no return type, not even **void**, because implicit return type is the class type itself.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Garbage Collection
-permalink: /java/garbage-collection-gc
+permalink: /:collection/java/garbage-collection-gc
 ---
 
 * Java provides automatic deallocation via *garbage collection*. 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Variables and scopes
-permalink: /java/var-scopes
+permalink: /:collection/java/var-scopes
 ---
 
 * **Variables**

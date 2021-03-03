@@ -26,7 +26,7 @@ permalink: /notes/
 
 **Common Patterns**
   - [Design Patterns](design-patterns)
-  - [Http and CORS](http-cors)
+  - [Http and CORS](http)
 
 **Cloud Tech**
   - [Web Services](webservices)

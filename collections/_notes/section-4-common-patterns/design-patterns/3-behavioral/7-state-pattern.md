@@ -1,7 +1,7 @@
 ---
 layout: post
 title: State Pattern
-permalink: /design-patterns/behavioral/state-pattern
+permalink: /:collection/design-patterns/behavioral/state-pattern
 ---
 
 - TOC

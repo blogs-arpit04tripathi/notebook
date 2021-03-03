@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Class vs Anonymous Inner class
-permalink: /java/class-vs-anonymous-inner-class
+permalink: /:collection/java/class-vs-anonymous-inner-class
 ---
 
 - **Normal class**

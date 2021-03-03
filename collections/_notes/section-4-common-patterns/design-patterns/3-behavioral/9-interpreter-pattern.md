@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interpreter Pattern
-permalink: /design-patterns/behavioral/interpreter-pattern
+permalink: /:collection/design-patterns/behavioral/interpreter-pattern
 ---
 
 - TOC

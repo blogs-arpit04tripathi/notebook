@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Iterator Pattern
-permalink: /design-patterns/behavioral/iterator-pattern
+permalink: /:collection/design-patterns/behavioral/iterator-pattern
 ---
 
 - TOC

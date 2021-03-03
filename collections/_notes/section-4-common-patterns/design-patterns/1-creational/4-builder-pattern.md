@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Builder Pattern
-permalink: /design-patterns/creational/builder-pattern
+permalink: /:collection/design-patterns/creational/builder-pattern
 ---
 
 - TOC

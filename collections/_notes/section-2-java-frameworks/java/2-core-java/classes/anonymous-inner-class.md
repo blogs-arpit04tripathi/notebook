@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Anonymous Inner class
-permalink: /java/anonymous-inner-class
+permalink: /:collection/java/anonymous-inner-class
 ---
 
 - Inner class without a name.

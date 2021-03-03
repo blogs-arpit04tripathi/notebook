@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microservices
+title: API Gateway
 permalink: /:collection/microservices/patterns/api-gateway
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Software Architecture Evolution
-permalink: /software-architecture/evolution
+permalink: /:collection/microservices/software-architecture-evolution
 ---
 
 ![evolution-software-architecture]({{site.cdn}}/webservices/microservices/evolution-software-architecture.png)

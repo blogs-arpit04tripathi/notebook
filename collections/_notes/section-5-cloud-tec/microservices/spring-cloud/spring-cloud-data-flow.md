@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring Cloud Data Flow
-permalink: /:collection/spring-cloud-data-flow
+permalink: /:collection/microservices/spring-cloud-data-flow
 ---
 
 **What is Spring Cloud Data Flow? Need for it?**  

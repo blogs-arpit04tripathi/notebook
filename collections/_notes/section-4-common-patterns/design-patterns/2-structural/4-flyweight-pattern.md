@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Flyweight Pattern (Pooling)
-permalink: /design-patterns/structural/flyweight-pattern
+permalink: /:collection/design-patterns/structural/flyweight-pattern
 ---
 
 - TOC

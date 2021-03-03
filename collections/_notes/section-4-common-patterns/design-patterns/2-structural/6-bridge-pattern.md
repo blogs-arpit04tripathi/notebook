@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bridge Pattern
-permalink: /design-patterns/structural/bridge-pattern
+permalink: /:collection/design-patterns/structural/bridge-pattern
 ---
 
 - TOC
