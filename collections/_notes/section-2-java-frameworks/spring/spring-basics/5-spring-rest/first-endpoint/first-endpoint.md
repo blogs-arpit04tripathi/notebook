@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Creating REST endpoint
-permalink: /:collection/spring-rest/first-endpoint
+permalink: /:collection/spring/rest/first-endpoint
 ---
 
 - Controllers deal with resources in terms of the Java objects.
