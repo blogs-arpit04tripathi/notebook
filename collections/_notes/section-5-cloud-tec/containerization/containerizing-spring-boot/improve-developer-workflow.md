@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Improving the Developer Workflow
-permalink: /docker/improve-developer-workflow
+permalink: /:collection/containerization/docker/improve-developer-workflow
 ---
 
 As developer, to place your application in the cloud, you had to follow these steps:

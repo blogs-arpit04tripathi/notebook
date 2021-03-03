@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Running the Application Inside the Container
-permalink: /docker/run-application-in-container
+permalink: /:collection/containerization/docker/run-application-in-container
 ---
 
 The previously created image called demo is available locally. You can check the existing images available locally through the command docker images.

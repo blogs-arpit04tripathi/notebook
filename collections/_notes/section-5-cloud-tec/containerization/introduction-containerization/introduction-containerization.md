@@ -25,14 +25,14 @@ permalink: /:collection/containerization/introduction
 - This software application and the dependencies that support it which are tightly-packaged together.
 
 **What is Docker? How to deploy Spring Boot Microservices to Docker?**  
--	[What is Docker](https://www.javainuse.com/devOps/docker)
--	[Deploying Spring Based WAR Application to Docker](https://www.javainuse.com/devOps/docker/docker-war)
--	[Deploying Spring Based JAR Application to Docker](https://www.javainuse.com/devOps/docker/docker-jar)
+-	[What is Docker](https://www.javainuse.com/devOps/docker){:target="_blank"}
+-	[Deploying Spring Based WAR Application to Docker](https://www.javainuse.com/devOps/docker/docker-war){:target="_blank"}
+-	[Deploying Spring Based JAR Application to Docker](https://www.javainuse.com/devOps/docker/docker-jar){:target="_blank"}
 
 **What is Docker? How to deploy Spring Boot Microservices to Docker?**  
--	[What is Docker](https://www.javainuse.com/devOps/docker)
--	[Deploying Spring Based WAR Application to Docker](https://www.javainuse.com/devOps/docker/docker-war)
--	[Deploying Spring Based JAR Application to Docker](https://www.javainuse.com/devOps/docker/docker-jar)
+-	[What is Docker](https://www.javainuse.com/devOps/docker){:target="_blank"}
+-	[Deploying Spring Based WAR Application to Docker](https://www.javainuse.com/devOps/docker/docker-war){:target="_blank"}
+-	[Deploying Spring Based JAR Application to Docker](https://www.javainuse.com/devOps/docker/docker-jar){:target="_blank"}
 
 **How to deploy multiple microservices to docker?**
-- [Deploying Multiple Spring Boot Microservices using Docker Networking](https://www.javainuse.com/devOps/docker/docker-networking)
+- [Deploying Multiple Spring Boot Microservices using Docker Networking](https://www.javainuse.com/devOps/docker/docker-networking){:target="_blank"}

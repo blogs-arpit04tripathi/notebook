@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Continuously Delivering Your Java Application
-permalink: /docker/continuos-deliver-application
+permalink: /:collection/containerization/docker/continuos-deliver-application
 ---
 
 Since you created your application from the source code, OpenShift also shows the commit version that was used to create your application.

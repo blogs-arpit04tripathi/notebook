@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Publishing Your Image on Docker Hub
-permalink: /docker/publih-to-docker-hub
+permalink: /:collection/containerization/docker/publih-to-docker-hub
 ---
 
 To publish your image on Docker Hub, you need to sign up for a free account.  

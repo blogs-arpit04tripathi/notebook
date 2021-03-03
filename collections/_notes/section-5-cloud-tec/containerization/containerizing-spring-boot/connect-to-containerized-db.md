@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Connecting Your Containerized Application to a Containerized Database
-permalink: /docker/connect-to-containerized-db
+permalink: /:collection/containerization/docker/connect-to-containerized-db
 ---
 
 The application that you forked from https://github.com/rafabene/refcard-demo contains an endpoint that replies with a catalog of items, their names, and their prices in JSON format. These values are stored in an H2 “in-memory” database.

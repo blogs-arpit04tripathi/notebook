@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Making Your Cloud Application Accessible Externally
-permalink: /docker/make-application-accessible-externally
+permalink: /:collection/containerization/docker/make-application-accessible-externally
 ---
 
 At this moment, your application is being executed inside the cluster, but it’s not accessible externally.

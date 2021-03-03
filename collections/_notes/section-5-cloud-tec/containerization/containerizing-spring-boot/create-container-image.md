@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Create Container Image for Spring Boot Application
-permalink: /docker/create-container-image
+permalink: /:collection/containerization/docker/create-container-image
 ---
 
 The easiest way to create a Docker image is to write a Dockerfile. It contains a series of commands that customize an image based on a previous one. For our application, we will start from the existing OpenJDK 10 image, add our JAR file, and define the default command that will execute when the container starts.

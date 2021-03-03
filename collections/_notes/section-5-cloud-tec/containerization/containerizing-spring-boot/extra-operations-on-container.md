@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Extra Operations on the Container
-permalink: /docker/extra-operations-on-container
+permalink: /:collection/containerization/docker/extra-operations-on-container
 ---
 
 Although your container is running detached, you can perform some operations on it like checking the logs of your application with the command docker logs plus the name of the container.

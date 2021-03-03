@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scaling Your Application in the Cloud
-permalink: /docker/scaling-in-cloud
+permalink: /:collection/containerization/docker/scaling-in-cloud
 ---
 
 Every time you execute the docker run command, it creates a single container running in a single machine. Now, imagine that you need to execute a fleet of containers on multiple servers. You will face the following challenges:

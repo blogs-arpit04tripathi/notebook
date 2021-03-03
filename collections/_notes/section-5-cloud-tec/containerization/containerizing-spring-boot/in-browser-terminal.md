@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Accessing the In-Browser Terminal for the Running Containers
-permalink: /docker/in-browser-terminal
+permalink: /:collection/containerization/docker/in-browser-terminal
 ---
 
 You can open a command prompt on any running container on OpenShift. Let’s open a terminal on MySQL so we can check if the database has been created and the values has been imported.
