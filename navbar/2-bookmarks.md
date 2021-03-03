@@ -4,8 +4,6 @@ title: Bookmarks
 permalink: /bookmarks/
 ---
 
-> ***Don’t be fooled by the calendar. There are only as many days in the year as you make use of.<br>One man gets only a week’s value out of a year while another man gets a full year’s value out of a week.***
-
 **Online Programming**
   - **HackerRank** - [Jobs](https://www.hackerrank.com/jobs/search){:target="_blank"} - [Contests](https://www.hackerrank.com/contests){:target="_blank"} - [Dashboard](https://www.hackerrank.com/dashboard){:target="_blank"} - [Profile](https://www.hackerrank.com/arpit04tripathi){:target="_blank"}
   - **HackerEarth** - [Challenges (Jobs)](https://www.hackerearth.com/challenges/hiring/){:target="_blank"} - [Practice](https://www.hackerearth.com/practice){:target="_blank"} - [Blogs](https://www.hackerearth.com/blog/developers/){:target="_blank"} - [Profile](https://www.hackerearth.com/@arpit04tripathi){:target="_blank"}
