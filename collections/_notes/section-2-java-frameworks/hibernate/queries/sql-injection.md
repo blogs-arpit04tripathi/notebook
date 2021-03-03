@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SQL Injection
-permalink: /hibernate/queries/sql-injection
+permalink: /:collection/hibernate/queries/sql-injection
 ---
 
 ```java

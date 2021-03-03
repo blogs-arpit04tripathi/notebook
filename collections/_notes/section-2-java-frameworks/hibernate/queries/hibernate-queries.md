@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hibernate Queries
-permalink: /hibernate/queries
+permalink: /:collection/hibernate/queries
 ---
 
 **How to log hibernate generated sql queries in log files?**  

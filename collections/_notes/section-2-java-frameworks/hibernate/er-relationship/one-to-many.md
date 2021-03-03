@@ -1,7 +1,7 @@
 ---
 layout: post
 title: One to Many Mapping
-permalink: /hibernate/mapping/one-to-many
+permalink: /:collection/hibernate/mapping/one-to-many
 ---
 
 This problem can be solved in two different ways.

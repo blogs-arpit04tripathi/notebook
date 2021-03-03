@@ -1,7 +1,7 @@
 ---
 layout: post
 title: paging through the result set
-permalink: /hibernate/hql/criteria/paging
+permalink: /:collection/hibernate/hql/criteria/paging
 ---
 
 setFirstResult() method takes an integer that represents the first row in your result set, starting with row 0. 

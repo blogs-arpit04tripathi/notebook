@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TABLE_PER_CLASS Strategy (Table Per Concrete class)
-permalink: /hibernate/table-per-class
+permalink: /:collection/hibernate/table-per-class
 ---
 
 ```java

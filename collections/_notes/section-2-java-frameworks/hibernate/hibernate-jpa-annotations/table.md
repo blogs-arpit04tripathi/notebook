@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Annotation @Table and @SecondaryTable
-permalink: /hibernate/annotations/table
+permalink: /:collection/hibernate/annotations/table
 ---
 
 By default, table names are derived from the entity names. Therefore, given a class Employee with a simple @Entity annotation, the table name would be "employee", adjusted for the database’s configuration. If the entity name is changed (by providing a different name in the @Entity annotation, such as **@Entity("EMP_MASTER"))**, the new name will be used for the table name.

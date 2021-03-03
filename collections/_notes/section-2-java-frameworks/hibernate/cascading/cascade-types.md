@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JPA Cascade Types
-permalink: /hibernate/cascade/types
+permalink: /:collection/hibernate/cascade/types
 ---
 
 The cascade types supported by the Java Persistence Architecture are as below:

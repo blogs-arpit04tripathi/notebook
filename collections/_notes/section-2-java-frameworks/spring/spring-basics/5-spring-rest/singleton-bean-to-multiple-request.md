@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Singleton Bean to Multiple Request
-permalink: /spring/rest/singleton-bean-to-multiple-request
+permalink: /:collection/spring/rest/singleton-bean-to-multiple-request
 ---
 
 **How spring serves singleton bean to multiple request at the same time**

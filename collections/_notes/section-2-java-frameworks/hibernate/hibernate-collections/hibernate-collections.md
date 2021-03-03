@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hibernate Collections
-permalink: /hibernate/collections
+permalink: /:collection/hibernate/collections
 ---
 
 **What is difference between sorted collection and ordered collection, which one is better?**  

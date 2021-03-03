@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rendering web views
-permalink: /spring/mvc/render-web-views
+permalink: /:collection/spring/mvc/render-web-views
 ---
 
 - Spring MVC decouples controller logic and view-rendering of a view.

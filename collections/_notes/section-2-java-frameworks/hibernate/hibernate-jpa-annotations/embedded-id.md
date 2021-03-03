@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Annotation @Id, @IdClass, or @EmbeddedId (Compound Primary Keys)
-permalink: /hibernate/annotations/embedded-id
+permalink: /:collection/hibernate/annotations/embedded-id
 ---
 
 For multi-column primary key, You must create a class to represent this primary key. It will not require a primary key of its own, of course, but it must be a public class, must have a default constructor, must be serializable, and must implement hashCode() and equals() methods to allow the Hibernate code to test for primary key collisions.

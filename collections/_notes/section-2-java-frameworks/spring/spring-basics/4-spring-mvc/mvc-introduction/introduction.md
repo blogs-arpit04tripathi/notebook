@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring MVC Introduction
-permalink: /spring/mvc/introduction
+permalink: /:collection/spring/mvc/introduction
 ---
 
 - Developing web-based applications have challenges - state management, workflow, and validation.

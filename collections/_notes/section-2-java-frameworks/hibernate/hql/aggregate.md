@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HQL Aggregate Methods
-permalink: /hibernate/hql/aggregate
+permalink: /:collection/hibernate/hql/aggregate
 ---
 
 ```java

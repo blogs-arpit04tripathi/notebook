@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Problems ORM Solves
-permalink: /hibernate/orm/problems-solved
+permalink: /:collection/hibernate/orm/problems-solved
 ---
 
 # 1. Granularity

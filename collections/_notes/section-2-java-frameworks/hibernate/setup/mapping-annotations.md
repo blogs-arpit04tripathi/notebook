@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hibernate mapping Annotations
-permalink: /hibernate/mapping-annotations
+permalink: /:collection/hibernate/mapping-annotations
 ---
 
 Hibernate supports JPA annotations and it has some other annotations in **org.hibernate.annotations** package. Some of the important JPA and hibernate annotations used are:

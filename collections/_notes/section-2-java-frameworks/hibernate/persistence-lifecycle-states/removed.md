@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Removed Object
-permalink: /hibernate/persistence/removed
+permalink: /:collection/hibernate/persistence/removed
 ---
 
 Removed objects are objects that are being managed by Hibernate (persistent objects, in other words) that have been passed to the session’s remove() method. When the application marks the changes held in the session as to be committed, the entries in the database that correspond to removed objects are deleted.

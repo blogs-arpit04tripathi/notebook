@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How lazy loading solve above problem
-permalink: /hibernate/lazy-loading/problems-solved
+permalink: /:collection/hibernate/lazy-loading/problems-solved
 ---
 
 Now when we have understood the problem, let’s understand how lazy loading actually helps in real life. If we consider to solve the problem discussed above then we would be accessing a category (or catalog) in below manner:

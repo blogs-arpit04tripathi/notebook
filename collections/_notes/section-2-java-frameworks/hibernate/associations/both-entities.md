@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Association managed by both entities
-permalink: /hibernate/associations/both-entities
+permalink: /:collection/hibernate/associations/both-entities
 ---
 
 

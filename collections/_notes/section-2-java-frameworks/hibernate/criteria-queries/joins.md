@@ -1,7 +1,7 @@
 ---
 layout: post
 title: perform associations (joins)
-permalink: /hibernate/hql/criteria/joins
+permalink: /:collection/hibernate/hql/criteria/joins
 ---
 
 The association works when going from **either one-to-many or from many-to-one.** First, we will demonstrate how to use one-to-many associations to obtain suppliers who sell products with a price over $25. Notice that we create a new Criteria object for the products property, add restrictions to the products’ criteria we just created, and then obtain the results from the supplier Criteria object.

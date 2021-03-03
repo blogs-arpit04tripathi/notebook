@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Associations for Various Mappings
-permalink: /hibernate/associations/various-mappings
+permalink: /:collection/hibernate/associations/various-mappings
 ---
 
 Above example shows how to manage association between entities in one-to-one mapping. In above example, we could have chosen the association managed by **AccountEntity** as well and things would have worked out pretty well with minor code changes. But in case of other mappings (e.g. One-to-many or Many-to-one), you will not have the liberty to define associations at your will. You need rules.

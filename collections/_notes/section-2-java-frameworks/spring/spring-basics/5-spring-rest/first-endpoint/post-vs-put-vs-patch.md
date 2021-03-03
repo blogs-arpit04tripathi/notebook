@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POST vs PUT vs PATCH
-permalink: /spring/rest/post-vs-put-vs-patch
+permalink: /:collection/spring/rest/post-vs-put-vs-patch
 ---
 
 

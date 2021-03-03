@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hibernate Cache
-permalink: /hibernate/cache
+permalink: /:collection/hibernate/cache
 ---
 
 Hibernate Cache can be very useful in gaining fast application performance if used correctly. 

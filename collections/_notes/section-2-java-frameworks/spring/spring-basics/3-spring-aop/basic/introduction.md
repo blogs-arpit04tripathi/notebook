@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring AOP Introduction
-permalink: /spring/aop/introduction
+permalink: /:collection/spring/aop/introduction
 ---
 
 - **Aspect-oriented programming (AOP)** separates cross-cutting concerns from the business logic.

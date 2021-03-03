@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CRUD (Create / Read / Update / Delete)
-permalink: /hibernate/persistence/crud
+permalink: /:collection/hibernate/persistence/crud
 ---
 
 ```java

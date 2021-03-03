@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HandlerInterceptorAdapter
-permalink: /spring/mvc/handler-interceptor-adapter
+permalink: /:collection/spring/mvc/handler-interceptor-adapter
 ---
 
 - **HandlerMapping**, maps controller method to an URL.

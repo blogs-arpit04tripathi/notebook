@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding Associations with Example
-permalink: /hibernate/associations
+permalink: /:collection/hibernate/associations
 ---
 
 Two simple entities (AccountEntity and EmployeeEntity) for this example and then create one-to-one association. 

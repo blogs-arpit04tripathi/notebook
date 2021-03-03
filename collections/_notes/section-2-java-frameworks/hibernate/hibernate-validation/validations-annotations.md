@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Validation annotations
-permalink: /hibernate/validations/annotations
+permalink: /:collection/hibernate/validations/annotations
 ---
 
 # Bean validation annotations

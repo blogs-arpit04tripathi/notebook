@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Get Data by Lazy Loading
-permalink: /hibernate/lazy-loading/get
+permalink: /:collection/hibernate/lazy-loading/get
 ---
 
 In any application, hibernate fetches data from databse either in eager or lazy mode. **Hibernate lazy loading** refer to strategy when data is loaded lazily, on demand.

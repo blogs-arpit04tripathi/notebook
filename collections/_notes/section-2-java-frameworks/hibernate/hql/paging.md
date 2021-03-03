@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HQL – Paging Through the ResultSet
-permalink: /hibernate/hql/paging
+permalink: /:collection/hibernate/hql/paging
 ---
 
 ```java

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Detached to Persistent
-permalink: /hibernate/persistence/detached-to-persistent
+permalink: /:collection/hibernate/persistence/detached-to-persistent
 ---
 
 - User may take time hence we have to create a session to fetch and then close it. Here, the object become detached.

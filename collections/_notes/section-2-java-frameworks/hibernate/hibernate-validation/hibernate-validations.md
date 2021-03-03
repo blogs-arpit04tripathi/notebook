@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hibernate Validations
-permalink: /hibernate/validations
+permalink: /:collection/hibernate/validations
 ---
 
 **What is Hibernate Validator Framework?**  

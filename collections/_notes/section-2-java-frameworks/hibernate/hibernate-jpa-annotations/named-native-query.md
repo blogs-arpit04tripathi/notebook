@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Annotation @NamedNativeQuery and @NamedNativeQueries
-permalink: /hibernate/annotations/named-native-query
+permalink: /:collection/hibernate/annotations/named-native-query
 ---
 
 In general, you should prefer to write HQL queries because then you can let Hibernate handle the intricacies of converting the HQL into the various SQL dialects.

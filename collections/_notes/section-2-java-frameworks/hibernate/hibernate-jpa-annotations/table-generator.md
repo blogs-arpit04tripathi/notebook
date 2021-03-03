@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Annotation @TableGenerator
-permalink: /hibernate/annotations/table-generator
+permalink: /:collection/hibernate/annotations/table-generator
 ---
  
 annotation is used in a very similar way to the @SequenceGenerator annotation, but because @TableGeneratormanipulates a standard database table to obtain its primary key values, instead of using a vendor-specific sequence object, it is guaranteed to be portable between database platforms.

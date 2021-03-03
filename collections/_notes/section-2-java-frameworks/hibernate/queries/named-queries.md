@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Named Query
-permalink: /hibernate/queries/named-queries
+permalink: /:collection/hibernate/queries/named-queries
 ---
 
 Named queries in hibernate is a **technique to group the HQL statements in single location**, and lately refer them by some name whenever need to use them. It **helps largely in code cleanup** because these HQL statements are no longer scattered in whole code.

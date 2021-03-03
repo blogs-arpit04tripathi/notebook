@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Composite Natural ID
-permalink: /hibernate/annotations/composite-natural-id
+permalink: /:collection/hibernate/annotations/composite-natural-id
 ---
 
 ```java

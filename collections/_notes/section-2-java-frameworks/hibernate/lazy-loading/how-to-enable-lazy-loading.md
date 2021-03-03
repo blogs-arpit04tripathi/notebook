@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to enable lazy loading in hibernate
-permalink: /hibernate/lazy-loading/how-to-enable
+permalink: /:collection/hibernate/lazy-loading/how-to-enable
 ---
 
 Before moving further, it is important to recap the default behavior of lazy loading in case of using hibernate mappings vs annotations.

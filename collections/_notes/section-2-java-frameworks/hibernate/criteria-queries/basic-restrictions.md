@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Basic Restrictions
-permalink: /hibernate/hql/criteria/basic-restrictions
+permalink: /:collection/hibernate/hql/criteria/basic-restrictions
 ---
 
 # equals

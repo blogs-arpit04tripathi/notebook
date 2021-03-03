@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GET
-permalink: /spring/rest/get-resources
+permalink: /:collection/spring/rest/get-resources
 ---
 
 - can throw unchecked exception - `RestClientException`.

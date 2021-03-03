@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HQL Insert
-permalink: /hibernate/hql/insert
+permalink: /:collection/hibernate/hql/insert
 ---
 
 An HQL INSERT **cannot be used to directly insert arbitrary entities**—it can only be used to insert entities constructed from information obtained from SELECT queries (unlike ordinary SQL, in which an INSERT command can be used to insert arbitrary data into a table, as well as insert values selected from other tables).

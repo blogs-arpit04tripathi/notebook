@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Entity / Persistence LifeCycle States
-permalink: /hibernate/persistence/lifecycle
+permalink: /:collection/hibernate/persistence/lifecycle
 ---
 
 **What are different states of an entity bean?**  

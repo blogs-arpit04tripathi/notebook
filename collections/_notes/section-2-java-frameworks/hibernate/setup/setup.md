@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Setup Hibernate
-permalink: /hibernate/setup
+permalink: /:collection/hibernate/setup
 ---
 
 ```xml

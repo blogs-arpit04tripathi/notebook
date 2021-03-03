@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Displaying Internationalized Messages
-permalink: /spring/mvc/internationalized-messages
+permalink: /:collection/spring/mvc/internationalized-messages
 ---
 
 ```xml

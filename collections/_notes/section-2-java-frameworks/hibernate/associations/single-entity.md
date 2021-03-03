@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Association managed by single entity
-permalink: /hibernate/associations/single-entity
+permalink: /:collection/hibernate/associations/single-entity
 ---
 
 ```java

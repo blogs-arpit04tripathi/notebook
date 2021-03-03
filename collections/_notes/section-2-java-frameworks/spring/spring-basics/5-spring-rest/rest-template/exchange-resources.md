@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exchange
-permalink: /spring/rest/exchange-resources
+permalink: /:collection/spring/rest/exchange-resources
 ---
 
 - ***set headers on the request sent.***

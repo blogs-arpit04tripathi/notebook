@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Annotation @OrderColumn
-permalink: /hibernate/annotations/order-column
+permalink: /:collection/hibernate/annotations/order-column
 ---
 
 ```java

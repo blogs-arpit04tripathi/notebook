@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HttpMessageConverter
-permalink: /spring-rest/HttpMessageConverter
+permalink: /:collection/spring-rest/HttpMessageConverter
 ---
 
 - Message conversion

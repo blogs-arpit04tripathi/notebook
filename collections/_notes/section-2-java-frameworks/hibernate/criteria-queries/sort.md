@@ -1,7 +1,7 @@
 ---
 layout: post
 title: sort query results
-permalink: /hibernate/hql/criteria/sort
+permalink: /:collection/hibernate/hql/criteria/sort
 ---
 
 ```java

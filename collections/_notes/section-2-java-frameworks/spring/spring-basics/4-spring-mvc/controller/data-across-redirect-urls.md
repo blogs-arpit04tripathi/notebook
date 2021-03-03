@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Carrying data across redirect requests
-permalink: /spring/mvc/data-across-redirect-urls
+permalink: /:collection/spring/mvc/data-across-redirect-urls
 ---
 
 - TOC

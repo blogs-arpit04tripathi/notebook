@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Steps For Enabling Cachce
-permalink: /hibernate/cache/enable-steps
+permalink: /:collection/hibernate/cache/enable-steps
 ---
 
 **Step 1.**	Add hibernate-ehcache dependency in your maven project, if it’s not maven then add corresponding jars.

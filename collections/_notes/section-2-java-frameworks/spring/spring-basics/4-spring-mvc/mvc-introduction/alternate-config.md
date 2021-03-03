@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Alternate Spring MVC configuration
-permalink: /spring/mvc/alternate-config
+permalink: /:collection/spring/mvc/alternate-config
 ---
 
 - TOC

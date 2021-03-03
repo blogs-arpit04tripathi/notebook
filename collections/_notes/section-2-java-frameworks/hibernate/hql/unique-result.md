@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HQL – Get a Unique Result
-permalink: /hibernate/hql/unique-result
+permalink: /:collection/hibernate/hql/unique-result
 ---
 
 ```java

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ContentNegotiatingViewResolver
-permalink: /spring-rest/contentNegotiatingViewResolver
+permalink: /:collection/spring-rest/contentNegotiatingViewResolver
 ---
 
 - Controller handler method response is generally a logical view name.

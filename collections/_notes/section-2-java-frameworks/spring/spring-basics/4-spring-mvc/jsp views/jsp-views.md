@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Creating JSP views
-permalink: /spring/mvc/jsp-views
+permalink: /:collection/spring/mvc/jsp-views
 ---
 
 - TOC

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hibernate C3P0 Connection Pool
-permalink: /hibernate/connection-pool
+permalink: /:collection/hibernate/connection-pool
 ---
 
 By default, Hibernate uses JDBC connections in order to interact with a database. Creating these connections is expensive—probably the most expensive single operation Hibernate will execute in a typical-use case. Since JDBC connection management is so expensive that possibly you will advise to use a pool of connections, which can open connections ahead of time (and close them only when needed, as opposed to "when they’re no longer used").

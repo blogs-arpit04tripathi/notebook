@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MVC Flow
-permalink: /spring/mvc/flow
+permalink: /:collection/spring/mvc/flow
 ---
 
 ![]({{site.cdn}}/spring/spring-mvc/mvc-flow.png)

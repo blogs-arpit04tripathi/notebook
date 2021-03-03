@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ResponseEntity
-permalink: /spring-rest/response-entity
+permalink: /:collection/spring-rest/response-entity
 ---
 
 Communicating errors to the client, Spring offers:

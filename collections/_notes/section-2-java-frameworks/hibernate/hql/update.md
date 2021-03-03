@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HQL Update
-permalink: /hibernate/hql/update
+permalink: /:collection/hibernate/hql/update
 ---
 
 ```sql

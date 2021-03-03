@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HQL Select
-permalink: /hibernate/hql/select
+permalink: /:collection/hibernate/hql/select
 ---
 
 ```sql

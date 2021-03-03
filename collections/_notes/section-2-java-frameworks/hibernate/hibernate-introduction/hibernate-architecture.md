@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hibernate Architecture
-permalink: /hibernate/architecture
+permalink: /:collection/hibernate/architecture
 ---
 
 ![]({{site.cdn}}/hibernate/hibernate-architecture.png)

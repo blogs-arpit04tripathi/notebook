@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hibernate Transaction Management
-permalink: /hibernate/transaction-management
+permalink: /:collection/hibernate/transaction-management
 ---
 
 **How transaction management works in Hibernate?**  

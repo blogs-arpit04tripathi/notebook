@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Second Level Cache
-permalink: /hibernate/cache/second-level
+permalink: /:collection/hibernate/cache/second-level
 ---
 
 **Fist level cache**: This is enabled by default and works in session scope.

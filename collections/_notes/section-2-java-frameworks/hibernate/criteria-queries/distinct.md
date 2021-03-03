@@ -1,7 +1,7 @@
 ---
 layout: post
 title: obtain distinct results
-permalink: /hibernate/hql/criteria/distinct
+permalink: /:collection/hibernate/hql/criteria/distinct
 ---
 
 ```java

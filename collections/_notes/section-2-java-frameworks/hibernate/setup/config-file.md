@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hibernate Configuration File
-permalink: /hibernate/config-file
+permalink: /:collection/hibernate/config-file
 ---
 
 **What is hibernate configuration file?**

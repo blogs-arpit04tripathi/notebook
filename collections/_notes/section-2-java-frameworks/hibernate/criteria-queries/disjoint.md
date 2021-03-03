@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using Disjunction Objects with Criteria
-permalink: /hibernate/hql/criteria/disjoint
+permalink: /:collection/hibernate/hql/criteria/disjoint
 ---
 
 To create an OR expression with more than two different criteria.

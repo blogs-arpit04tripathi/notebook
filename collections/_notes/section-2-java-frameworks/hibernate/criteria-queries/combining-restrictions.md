@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Comibining Restrictions
-permalink: /hibernate/hql/criteria/combining-restrictions
+permalink: /:collection/hibernate/hql/criteria/combining-restrictions
 ---
 
 ```java

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring General Tag Library
-permalink: /spring/mvc/taglib
+permalink: /:collection/spring/mvc/taglib
 ---
 
 

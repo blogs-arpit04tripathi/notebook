@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Accepting request input
-permalink: /spring/mvc/request-inputs
+permalink: /:collection/spring/mvc/request-inputs
 ---
 
 - TOC

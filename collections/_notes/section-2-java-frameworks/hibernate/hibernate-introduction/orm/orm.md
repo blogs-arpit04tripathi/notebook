@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ORM (Object Relational Mapping)
-permalink: /hibernate/orm
+permalink: /:collection/hibernate/orm
 ---
 
 -	Object-Relational Mapping (ORM) 

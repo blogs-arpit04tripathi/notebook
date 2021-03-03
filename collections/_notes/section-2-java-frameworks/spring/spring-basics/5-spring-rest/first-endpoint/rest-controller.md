@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Annotation @RestController
-permalink: /spring-rest/rest-controller
+permalink: /:collection/spring-rest/rest-controller
 ---
 
 # @RestController

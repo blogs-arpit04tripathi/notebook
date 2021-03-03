@@ -1,7 +1,7 @@
 ---
 layout: post
 title: sqlRestriction()
-permalink: /hibernate/hql/criteria/sql-restriction
+permalink: /:collection/hibernate/hql/criteria/sql-restriction
 ---
 
 sqlRestriction() restriction allows you to directly specify SQL in the Criteria API. It’s useful if you need to use SQL clauses that Hibernate does not support through the Criteria API.

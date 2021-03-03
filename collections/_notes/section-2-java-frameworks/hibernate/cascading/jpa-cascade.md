@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JPA Cascading
-permalink: /hibernate/jpa-cascade
+permalink: /:collection/hibernate/jpa-cascade
 ---
 
 We learned about **mapping associated entities** in hibernate already in previous tutorials such as **one-to-one mapping** and **one-to-many mappings**. There we wanted to save the mapped entity whenever relationship owner entity got saved. To enable this we had use "CascadeType" attribute.

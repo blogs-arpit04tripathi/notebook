@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Enabling Spring MVC
-permalink: /spring/mvc/enabling-mvc
+permalink: /:collection/spring/mvc/enabling-mvc
 ---
 
 RootConfig is annotated with @ComponentScan.

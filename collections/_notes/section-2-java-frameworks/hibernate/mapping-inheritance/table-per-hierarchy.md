@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SINGLE_TABLE Strategy (Table Per Hierarchy)
-permalink: /hibernate/table-per-hierarchy
+permalink: /:collection/hibernate/table-per-hierarchy
 ---
 
 This is default, even if no @Inheritance is noted on Vehicle class.  

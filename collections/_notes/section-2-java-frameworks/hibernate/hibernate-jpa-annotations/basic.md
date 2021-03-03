@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Annotation @Basic
-permalink: /hibernate/annotations/basic
+permalink: /:collection/hibernate/annotations/basic
 ---
 
 By default, properties and instance variables in your POJO are persistent; Hibernate will store their values for you. The simplest mappings are therefore for the "basic" types. These include primitives, primitive wrappers, arrays of primitives or wrappers, enumerations, and any types that implement Serializable but are not themselves mapped entities.

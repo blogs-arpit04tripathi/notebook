@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Advising controllers
-permalink: /spring/mvc/advising-controllers
+permalink: /:collection/spring/mvc/advising-controllers
 ---
 
 - ***Centralized Exception Handling***

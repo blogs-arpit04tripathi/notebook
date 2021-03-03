@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Persistent Object
-permalink: /hibernate/persistence/persistent
+permalink: /:collection/hibernate/persistence/persistent
 ---
 
 ![]({{site.cdn}}/hibernate/persistent-object.png)

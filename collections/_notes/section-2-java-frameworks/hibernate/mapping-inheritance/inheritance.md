@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mapping Inheritance Hierarchies
-permalink: /hibernate/inheritance
+permalink: /:collection/hibernate/inheritance
 ---
 
 Hibernate supports the three basic inheritance mapping strategies:

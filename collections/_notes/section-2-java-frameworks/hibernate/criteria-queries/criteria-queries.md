@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Criteria Queries
-permalink: /hibernate/hql/criteria-queries
+permalink: /:collection/hibernate/hql/criteria-queries
 ---
 
 The criteria query API lets you build nested, structured query expressions in Java, providing a compile-time syntax checking that is not possible with a query language like HQL or SQL.

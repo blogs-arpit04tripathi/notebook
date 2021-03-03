@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hibernate vs JDBC
-permalink: /hibernate/hibernate-vs-jdbc
+permalink: /:collection/hibernate/hibernate-vs-jdbc
 ---
 
 # JDBC

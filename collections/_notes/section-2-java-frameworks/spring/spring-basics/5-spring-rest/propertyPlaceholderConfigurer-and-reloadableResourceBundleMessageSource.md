@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PropertyPlaceholderConfigurer and ReloadableResourceBundleMessageSource
-permalink: /spring/rest/propertyPlaceholderConfigurer-and-reloadableResourceBundleMessageSource
+permalink: /:collection/spring/rest/propertyPlaceholderConfigurer-and-reloadableResourceBundleMessageSource
 ---
 
 # PropertyPlaceholderConfigurer 

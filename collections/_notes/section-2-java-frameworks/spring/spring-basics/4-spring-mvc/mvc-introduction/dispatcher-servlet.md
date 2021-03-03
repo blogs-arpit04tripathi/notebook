@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DispatcherServlet
-permalink: /spring/mvc/dispatcher-servlet
+permalink: /:collection/spring/mvc/dispatcher-servlet
 ---
 
 - ***DispatcherServlet***

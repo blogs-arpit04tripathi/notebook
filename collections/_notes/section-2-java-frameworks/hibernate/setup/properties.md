@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hibernate Properties
-permalink: /hibernate/properties
+permalink: /:collection/hibernate/properties
 ---
 
 

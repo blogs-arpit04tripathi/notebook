@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blob
-permalink: /hibernate/blob-data
+permalink: /:collection/hibernate/blob-data
 ---
 
 ```java

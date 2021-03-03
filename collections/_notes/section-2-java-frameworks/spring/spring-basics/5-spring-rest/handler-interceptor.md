@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HandlerInterceptor
-permalink: /spring/rest/handler-interceptor
+permalink: /:collection/spring/rest/handler-interceptor
 ---
 
 - `org.springframework.web.servlet.HandlerInterceptor` interface - Intercepting requests

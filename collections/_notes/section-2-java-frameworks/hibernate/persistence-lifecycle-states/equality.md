@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Equality
-permalink: /hibernate/persistence/equality
+permalink: /:collection/hibernate/persistence/equality
 ---
 
 -	Requesting a persistent object again **from the same Hibernate session returns the same Java instance of a class**, which means that you can compare the objects using the standard Java ‘==’ equality syntax.

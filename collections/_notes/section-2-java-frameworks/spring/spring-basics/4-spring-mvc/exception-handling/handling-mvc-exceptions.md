@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Handling exceptions
-permalink: /spring/mvc/handling-mvc-exceptions
+permalink: /:collection/spring/mvc/handling-mvc-exceptions
 ---
 
 - Spring offers a ways to translate exceptions to responses.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Annotation @Lob
-permalink: /hibernate/annotations/lob
+permalink: /:collection/hibernate/annotations/lob
 ---
 
 String- and character-based types will be stored in an appropriate character-based type i.e. CLOB. All other objects will be stored in a BLOB.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hibernate - Misc
-permalink: /hibernate/misc
+permalink: /:collection/hibernate/misc
 ---
 
 **What is the benefit of Hibernate Tools Eclipse plugin?**  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POST
-permalink: /spring/rest/post-resources
+permalink: /:collection/spring/rest/post-resources
 ---
 
 ```java

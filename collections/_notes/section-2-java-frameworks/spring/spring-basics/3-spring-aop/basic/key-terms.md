@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Key Terminologies
-permalink: /spring/aop/key-terms
+permalink: /:collection/spring/aop/key-terms
 ---
 
 - **Aspects**

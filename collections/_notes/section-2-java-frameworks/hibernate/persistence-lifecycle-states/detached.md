@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Detached Object
-permalink: /hibernate/persistence/detached
+permalink: /:collection/hibernate/persistence/detached
 ---
 
 ![]({{site.cdn}}/hibernate/detached-object.png)

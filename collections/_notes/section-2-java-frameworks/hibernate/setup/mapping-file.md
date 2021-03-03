@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hibernate Mapping File
-permalink: /hibernate/mapping-file
+permalink: /:collection/hibernate/mapping-file
 ---
 
 **What is hibernate mapping file?**  

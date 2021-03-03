@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Annotation @Column
-permalink: /hibernate/annotations/column
+permalink: /:collection/hibernate/annotations/column
 ---
 
 used to specify the details of the column to which a field or property will be mapped. 

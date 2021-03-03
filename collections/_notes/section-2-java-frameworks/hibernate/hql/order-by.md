@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HQL – Sorting Results with the ‘order by’ clause
-permalink: /hibernate/hql/order-by
+permalink: /:collection/hibernate/hql/order-by
 ---
 
 ```java

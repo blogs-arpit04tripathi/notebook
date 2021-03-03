@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Annotation @NamedQuery and @NamedQueries
-permalink: /hibernate/annotations/named-query
+permalink: /:collection/hibernate/annotations/named-query
 ---
 
 @NamedQuery and @NamedQueries allow one or more Hibernate Query Language or Java Persistence Query Language (JPQL) queries to be associated with an entity.

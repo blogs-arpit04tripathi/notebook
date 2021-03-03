@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SessionFactory and Session
-permalink: /hibernate/session-factory
+permalink: /:collection/hibernate/session-factory
 ---
 
 **SessionFactory**

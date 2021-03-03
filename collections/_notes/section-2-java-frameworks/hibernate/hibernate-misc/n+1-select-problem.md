@@ -1,7 +1,7 @@
 ---
 layout: post
 title: n+1 Select Problem
-permalink: /hibernate/n+1-select-problem
+permalink: /:collection/hibernate/n+1-select-problem
 ---
 
 Let's say you have a collection of Car objects (database rows), and each Car has a collection of Wheel objects (also rows). In other words, Car -> Wheel is a 1-to-many relationship.

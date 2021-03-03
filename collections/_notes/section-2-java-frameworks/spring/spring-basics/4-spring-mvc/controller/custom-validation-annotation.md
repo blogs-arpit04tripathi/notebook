@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Custom Validation Annotation
-permalink: /spring-mvc/custom-validation-annotation
+permalink: /:collection/spring-mvc/custom-validation-annotation
 ---
 
 ```java

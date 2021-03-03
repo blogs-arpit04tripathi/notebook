@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Handler Mapping
-permalink: /spring/rest/handler-mapping
+permalink: /:collection/spring/rest/handler-mapping
 ---
 
 - **HandlerMapping** provides ***HandlerExecutionChain***.

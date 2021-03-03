@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hibernate lazy loading – why we need it?
-permalink: /hibernate/lazy-loading/why
+permalink: /:collection/hibernate/lazy-loading/why
 ---
 
 -	Consider one of common Internet web application: the online store. The store maintains a catalog of products. At the crudest level, this can be modeled as a catalog entity managing a series of product entities. In a large store, there may be tens of thousands of products grouped into various overlapping categories.

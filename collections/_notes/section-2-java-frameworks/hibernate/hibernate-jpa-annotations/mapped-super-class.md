@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Annotation @MappedSuperclass
-permalink: /hibernate/annotations/mapped-super-class
+permalink: /:collection/hibernate/annotations/mapped-super-class
 ---
 
 -	A special case of inheritance occurs when the root of the hierarchy is not itself a persistent entity, but various classes derived from it are. Such a class can be abstract or concrete. The @MappedSuperclass annotation allows you to take advantage of this circumstance.

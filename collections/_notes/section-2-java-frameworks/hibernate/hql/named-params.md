@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HQL Named Parameters
-permalink: /hibernate/hql/named-params
+permalink: /:collection/hibernate/hql/named-params
 ---
 
 ```java

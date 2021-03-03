@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PUT
-permalink: /spring/rest/put-resources
+permalink: /:collection/spring/rest/put-resources
 ---
 
 ```java

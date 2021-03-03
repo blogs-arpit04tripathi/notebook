@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Transient Object
-permalink: /hibernate/persistence/transient
+permalink: /:collection/hibernate/persistence/transient
 ---
 
 ![]({{site.cdn}}/hibernate/transient-object.png)

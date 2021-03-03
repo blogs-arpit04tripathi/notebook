@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ContentNegotiationManager Configuration
-permalink: /spring-rest/contentNegotiationManager/configuration
+permalink: /:collection/spring-rest/contentNegotiationManager/configuration
 ---
 
 - Specify default content type.

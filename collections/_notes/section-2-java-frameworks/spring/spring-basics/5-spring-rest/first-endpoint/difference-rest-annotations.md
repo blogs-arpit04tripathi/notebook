@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Difference - @Component, @Service, @Repository, @Controller
-permalink: /spring/rest/difference-rest-annotations
+permalink: /:collection/spring/rest/difference-rest-annotations
 ---
 
 - @Component

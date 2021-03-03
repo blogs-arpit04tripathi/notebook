@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ApplicationContext vs DispatcherServletContext
-permalink: /spring/mvc/applicationContext-vs-dispatcherServletContext
+permalink: /:collection/spring/mvc/applicationContext-vs-dispatcherServletContext
 ---
  
 - Spring lets you define multiple contexts in a parent-child hierarchy.

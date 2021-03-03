@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HQL – Enable Logs and Comments
-permalink: /hibernate/hql/log-and-comments
+permalink: /:collection/hibernate/hql/log-and-comments
 ---
 
 # HQL Logs

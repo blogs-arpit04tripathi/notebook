@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hibernate Introduction
-permalink: /hibernate/introduction
+permalink: /:collection/hibernate/introduction
 ---
 
 ***HIbernate is ORM tool, Domain model persistence for relational databases.***

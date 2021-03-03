@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Query by example (QBE)
-permalink: /hibernate/hql/criteria/query-by-example
+permalink: /:collection/hibernate/hql/criteria/query-by-example
 ---
 
 In QBE, instead of programmatically building a Criteria object with Criterion objects and logical expressions, you can partially populate an instance of the object. You use this instance as a template and have Hibernate build the criteria for you based upon its values. 

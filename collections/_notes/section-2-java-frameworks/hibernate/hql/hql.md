@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hibernate HQL
-permalink: /hibernate/hql
+permalink: /:collection/hibernate/hql
 ---
 
 **What is HQL and what are it’s benefits?**

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Annotation @zzz
-permalink: /hibernate/annotations/natural-id
+permalink: /:collection/hibernate/annotations/natural-id
 ---
 
 -	@Id annotation with @GeneratedValue to create primary keys for records in database. In most real life applications, these primary keys are **"artificial primary keys"** and referred only inside application runtime. However, there’s also the concept of a **"natural ID"**, which provides another convenient and logical way to refer to an entity, apart from an artificial or composite primary key.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Orphan Removal
-permalink: /hibernate/cascade/orphan-removal
+permalink: /:collection/hibernate/cascade/orphan-removal
 ---
 
 Apart from JPA provided cascade types, there is one more cascading operation in hibernate which is not part of the normal set above discussed, called **"orphan removal"**. This removes an owned object from the database when it’s removed from its owning relationship.

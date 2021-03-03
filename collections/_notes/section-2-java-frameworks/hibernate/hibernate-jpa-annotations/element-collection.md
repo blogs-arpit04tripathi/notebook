@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Annotation @ElementCollection
-permalink: /hibernate/annotations/element-collection
+permalink: /:collection/hibernate/annotations/element-collection
 ---
 
 @ElementCollection annotation for mapping collections of basic or embeddable classes.

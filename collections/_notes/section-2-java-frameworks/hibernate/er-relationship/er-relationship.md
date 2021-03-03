@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Modeling Entity Relationships/Associations
-permalink: /hibernate/er-relationship
+permalink: /:collection/hibernate/er-relationship
 ---
 
 **How to implement relationships in hibernate?**  

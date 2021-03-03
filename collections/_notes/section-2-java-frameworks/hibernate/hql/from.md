@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HQL – from clause and aliases
-permalink: /hibernate/hql/from
+permalink: /:collection/hibernate/hql/from
 ---
 
 ```sql

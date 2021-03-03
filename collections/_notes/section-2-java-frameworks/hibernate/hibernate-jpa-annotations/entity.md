@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Annotation @Entity
-permalink: /hibernate/annotations/entity
+permalink: /:collection/hibernate/annotations/entity
 ---
 
 It marks this class as an entity bean, so it **must have a no-argument constructor** that is visible.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DELETE
-permalink: /spring/rest/delete-resources
+permalink: /:collection/spring/rest/delete-resources
 ---
 
 ```java

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Caching Strategies
-permalink: /hibernate/cache/strategies
+permalink: /:collection/hibernate/cache/strategies
 ---
 
 1.	**Read Only**: This caching strategy should be used for persistent objects that will always read but never updated. It’s good for reading and caching application configuration and other static data that are never updated. This is the simplest strategy with best performance because there is no overload to check if the object is updated in database or not.

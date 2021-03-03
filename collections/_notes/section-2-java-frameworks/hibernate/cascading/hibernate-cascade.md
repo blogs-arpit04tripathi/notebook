@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hibernate Cascading
-permalink: /hibernate/cascade
+permalink: /:collection/hibernate/cascade
 ---
 
 **What is cascading and what are different types of cascading?** 

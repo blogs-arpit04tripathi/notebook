@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JOINED Strategy (Table Per Subclass)
-permalink: /hibernate/table-per-subclass
+permalink: /:collection/hibernate/table-per-subclass
 ---
 
 ```java

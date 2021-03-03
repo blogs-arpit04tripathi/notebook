@@ -1,7 +1,7 @@
 ---
 layout: post
 title: One to One Mapping Annotation
-permalink: /hibernate/mapping/one-to-one
+permalink: /:collection/hibernate/mapping/one-to-one
 ---
 
 Various supported techniques for one to one mapping

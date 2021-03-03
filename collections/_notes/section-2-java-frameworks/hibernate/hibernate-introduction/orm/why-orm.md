@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why ORM?
-permalink: /hibernate/orm/why
+permalink: /:collection/hibernate/orm/why
 ---
 
 ![orm]({{site.cdn}}/hibernate/orm.png)

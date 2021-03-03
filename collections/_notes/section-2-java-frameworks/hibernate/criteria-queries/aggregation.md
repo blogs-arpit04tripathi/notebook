@@ -1,7 +1,7 @@
 ---
 layout: post
 title: projections and aggregates
-permalink: /hibernate/hql/criteria/aggregation
+permalink: /:collection/hibernate/hql/criteria/aggregation
 ---
 
 Instead of working with objects from the result set, you can treat the results from the result set as a set of rows and columns, also known as a projection of the data. This is similar to how you would use data from a SELECT query with JDBC.

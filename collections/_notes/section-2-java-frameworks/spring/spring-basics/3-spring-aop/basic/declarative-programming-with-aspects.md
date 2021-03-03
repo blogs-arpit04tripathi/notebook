@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Declarative programming through aspects
-permalink: /spring/aop/declarative-programming-with-aspects
+permalink: /:collection/spring/aop/declarative-programming-with-aspects
 ---
 
 - With AOP, you can then cover your core application with layers of functionality.

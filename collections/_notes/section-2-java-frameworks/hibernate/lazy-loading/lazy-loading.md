@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lazy Loading
-permalink: /hibernate/lazy-loading
+permalink: /:collection/hibernate/lazy-loading
 ---
 
 **Why we should not make Entity Class final?**  

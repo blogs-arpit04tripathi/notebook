@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Creating URLs
-permalink: /spring/mvc/create-url
+permalink: /:collection/spring/mvc/create-url
 ---
 
 

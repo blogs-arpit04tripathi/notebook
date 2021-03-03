@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HQL select clause and projection
-permalink: /hibernate/hql/projection
+permalink: /:collection/hibernate/hql/projection
 ---
 
 

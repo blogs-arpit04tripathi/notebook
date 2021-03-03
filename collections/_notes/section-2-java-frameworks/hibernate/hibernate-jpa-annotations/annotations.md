@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JPA 2 Annotations
-permalink: /hibernate/annotations
+permalink: /:collection/hibernate/annotations
 ---
 
 **Annotation**

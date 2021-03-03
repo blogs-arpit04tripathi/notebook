@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Consuming REST resources - RestTemplate
-permalink: /spring/rest/consume-rest-resources
+permalink: /:collection/spring/rest/consume-rest-resources
 ---
 
 - RestTemplate frees you from the tedium of consuming RESTful resources.

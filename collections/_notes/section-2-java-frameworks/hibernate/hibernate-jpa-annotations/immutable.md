@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Annotation @Immutable
-permalink: /hibernate/annotations/immutable
+permalink: /:collection/hibernate/annotations/immutable
 ---
 
 -	Marks an entity as being, well, immutable. 

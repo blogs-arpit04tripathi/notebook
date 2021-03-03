@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Native SQL
-permalink: /hibernate/queries/native-sql
+permalink: /:collection/hibernate/queries/native-sql
 ---
 
 -	Writing the query in DB specific Query Language is called Native SQL.

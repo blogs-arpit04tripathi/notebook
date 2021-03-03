@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hibernate Mapping
-permalink: /hibernate/mapping
+permalink: /:collection/hibernate/mapping
 ---
 
 we can face situations where two entities can be related and must be referenced from each other, in either uni-direction or in bi-direction.

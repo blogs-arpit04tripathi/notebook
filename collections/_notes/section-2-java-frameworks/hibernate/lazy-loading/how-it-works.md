@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How lazy loading works in hibernate
-permalink: /hibernate/lazy-loading/how-it-works
+permalink: /:collection/hibernate/lazy-loading/how-it-works
 ---
 
 The simplest way that Hibernate can apply lazy load behavior upon the entities and associations is **by providing a proxy implementation** of them. Hibernate intercepts calls to the entity by substituting a proxy for it derived from the entity’s class. Where the requested information is missing, it will be loaded from the database before control is ceded to the parent entity’s implementation.

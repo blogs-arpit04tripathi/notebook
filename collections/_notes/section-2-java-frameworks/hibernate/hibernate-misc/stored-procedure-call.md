@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Store Procedure Call
-permalink: /hibernate/stored-procedure-call
+permalink: /:collection/hibernate/stored-procedure-call
 ---
 
 **Native SQL – createSQLQuery**

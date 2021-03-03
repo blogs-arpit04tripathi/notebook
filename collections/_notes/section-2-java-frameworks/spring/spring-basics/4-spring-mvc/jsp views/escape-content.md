@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Escaping Content
-permalink: /spring/mvc/escape-content
+permalink: /:collection/spring/mvc/escape-content
 ---
 
 

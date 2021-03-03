@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Primary Keys with @Id and @GeneratedValue
-permalink: /hibernate/annotations/id
+permalink: /:collection/hibernate/annotations/id
 ---
 
 - **Natural Key** – email ID for business logic, Needs to provided with a value

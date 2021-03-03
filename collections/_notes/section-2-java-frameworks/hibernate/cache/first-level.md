@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Level Cache
-permalink: /hibernate/cache/first-level
+permalink: /:collection/hibernate/cache/first-level
 ---
 
 ![]({{site.cdn}}/hibernate/cache-level-1.png)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring AOP features
-permalink: /spring/aop/aop-features
+permalink: /:collection/spring/aop/aop-features
 ---
 
 - Spring ***advises objects at runtime***.
