@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SpringBoot Introduction
-permalink: /:collection/spring/spring/boot/introduction
+permalink: /:collection/spring/boot/introduction
 ---
 
 ![spring-boot-equation]({{site.cdn}}/spring/spring-boot/spring-boot-equation.png)

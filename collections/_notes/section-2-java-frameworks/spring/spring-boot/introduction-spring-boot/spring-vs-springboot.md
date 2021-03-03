@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring vs SpringBoot
-permalink: /:collection/spring/spring/boot/spring-vs-springboot
+permalink: /:collection/spring/boot/spring-vs-springboot
 ---
 
 - TOC
