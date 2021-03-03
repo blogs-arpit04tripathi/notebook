@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ApplicationContext Types
-permalink: /:collection/spring/ioc-container/application-context-types
+permalink: /:collection/spring/core/ioc-container/application-context-types
 ---
 
 |ApplicationContext Types||

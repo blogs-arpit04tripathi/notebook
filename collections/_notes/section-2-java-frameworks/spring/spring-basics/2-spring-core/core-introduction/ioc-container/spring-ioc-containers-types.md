@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring IOC Container Types
-permalink: /:collection/spring/ioc-container/types
+permalink: /:collection/spring/core/ioc-container/types
 ---
 
 1. Bean factories (org.springframework.beans.factory.BeanFactory)

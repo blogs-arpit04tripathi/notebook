@@ -4,19 +4,21 @@ title: Spring Framework
 permalink: /:collection/spring/
 ---
 
+# References
+- [Spring Annotations (Quick Reference)](https://springframework.guru/spring-framework-annotations){:target="_blank"}
+
 # Latest in Spring
 - [New in Spring](latest) - todo
 - [Spring Framework Architecture](architecture)
-- [Spring Annotations (Quick Reference)](https://springframework.guru/spring-framework-annotations){:target="_blank"}
 
 # Spring Core
-- [Introduction to Spring](core/introduction)
-- [POJO vs Java Beans vs EJB](pojo-bean-ejb)
-- [Spring IOC Container](ioc-container)
-  - [IOC Container Types](ioc-container/types)
+- [Introduction to Spring](introduction)
+- [POJO vs Java Beans vs EJB](core/pojo-bean-ejb)
+- [Spring IOC Container](core/ioc-container)
+  - [IOC Container Types](core/ioc-container/types)
     - BeanFactory
-    - [Application Context](ioc-container/application-context)
-      - [Application Context Types](ioc-container/application-context-types)
+    - [Application Context](core/ioc-container/application-context)
+      - [Application Context Types](core/ioc-container/application-context-types)
 - Spring Beans
   - [Lifecycle of Bean](bean-lifecycle)
   - [Spring Bean Definition Metadata](bean-metadata)

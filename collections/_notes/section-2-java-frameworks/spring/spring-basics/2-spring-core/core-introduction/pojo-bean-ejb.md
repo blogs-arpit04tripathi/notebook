@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POJO vs Java Beans vs EJB
-permalink: /:collection/spring/pojo-bean-ejb
+permalink: /:collection/spring/core/pojo-bean-ejb
 ---
 
 # POJO (Plain Old Java Object) 
@@ -22,6 +22,6 @@ permalink: /:collection/spring/pojo-bean-ejb
 # EJB (Enterprise JavaBean)
 -	They are some objects whose life cycle is managed by a container (the EJB container), so you don’t “new Xxxx()” them - instead you “request” for an instance and who offer certain out of the box functionalities, like security, transactionality, persistence (although in newer versions of EJB the persistence part became a separate standard - JPA), thread-safety, remote-calling, etc.
 -	They only reside in application servers that handle EJBs (Tomcat doesn't hold EJBs). There are 3 types of EJBs:
-    -	**Session**: Usually contain some business logic.
-    -	**Entity**: Usually interface with a data store, such as a database.
-    -	**Message-Driven**: Receives messages from JMS.
+  -	**Session**: Usually contain some business logic.
+  -	**Entity**: Usually interface with a data store, such as a database.
+  -	**Message-Driven**: Receives messages from JMS.
