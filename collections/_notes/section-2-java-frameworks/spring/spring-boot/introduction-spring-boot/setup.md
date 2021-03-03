@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring Boot application Setup with Maven
-permalink: /:collection/spring/spring-boot/setup
+permalink: /:collection/spring/boot/setup
 ---
 
 - Inherit from the spring-boot-starter-parent project and declare dependencies to Spring Boot starters. 

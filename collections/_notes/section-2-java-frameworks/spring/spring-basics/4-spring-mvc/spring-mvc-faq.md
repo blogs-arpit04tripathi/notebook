@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring MVC - FAQ
-permalink: /:collection/spring/spring-mvc/faq
+permalink: /:collection/spring/mvc/faq
 ---
 
 - TOC

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring Boot Starter Template
-permalink: /:collection/spring/spring-boot/starter-template
+permalink: /:collection/spring/boot/starter-template
 ---
 
 - Templates that ***contain a collection of all the relevant transitive dependencies*** that are needed to start a particular functionality. 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring REST Introduction
-permalink: /:collection/spring/spring-rest/introduction
+permalink: /:collection/spring/rest/introduction
 ---
 
 

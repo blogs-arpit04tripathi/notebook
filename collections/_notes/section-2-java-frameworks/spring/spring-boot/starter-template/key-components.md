@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SpringBoot Key Components
-permalink: /:collection/spring/spring-boot/key-components
+permalink: /:collection/spring/boot/key-components
 ---
 
 * [Key Components and Internals of Spring Boot Framework](https://www.journaldev.com/7989/key-components-and-internals-of-spring-boot-framework){:target="_blank"}

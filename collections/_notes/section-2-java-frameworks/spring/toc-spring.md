@@ -55,12 +55,12 @@ permalink: /:collection/spring/
   - [Types of Weaving](aop/types-of-weaving)
 - Creating annotated aspects
   - [Writing pointcuts](aop/writing-jp)
-    - [AspectJ pointcut expression language](/spring-aop/pointcut-expression-language)
+    - [AspectJ pointcut expression language](aop/pointcut-expression-language)
     - [Types of Advices](aop/types-of-advices)
   - [Defining an aspect](aop/defining-aspects)
     - [Parameters in advice](aop/params-in-advice)
     - [Ordering Aspects](aop/ordering-aspects)
-- [AOP Introduction](/spring-aop/introductions)
+- [AOP Introduction](aop/introductions)
 - [Eliminating boilerplate code with aspects](aop/eliminate-bolierplate-with-aspects)
 - [Declaring aspects in XML](aop/aspects-in-xml)
 
@@ -72,18 +72,18 @@ permalink: /:collection/spring/
     - [Enabling Spring MVC](mvc/enabling-mvc)
   - [Application Context vs DispatcherServletContext](mvc/applicationContext-vs-dispatcherServletContext)
   - [Alternate Spring MVC configuration](mvc/alternate-config)
-- [Writing a controller](/spring-mvc/writing-controller)
+- [Writing a controller](mvc/writing-controller)
   - [Accepting request input](mvc/request-inputs) - @PathVariable, @RequestParam
   - [Carrying data across redirect requests](mvc/data-across-redirect-urls)
-  - [Java Validation API](/spring-mvc/validations)
-    - [Custom Validation Annotation](/spring-mvc/custom-validation-annotation)
-  - [@Initbinder](/spring-mvc/initbinder)
+  - [Java Validation API](mvc/validations)
+    - [Custom Validation Annotation](mvc/custom-validation-annotation)
+  - [@Initbinder](mvc/initbinder)
 - [Rendering web views](mvc/render-web-views)
-  - [View resolver Types](/spring-mvc/view-resolver-types)
-- [Multipart Requests](/spring-mvc/multipart)
-  - [StandardServletMultipartResolver](/spring-mvc/multipart/StandardServletMultipartResolver)
-  - [CommonsMultipartResolver](/spring-mvc/multipart/CommonsMultipartResolver)
-  - [Handle multipart request](/spring-mvc/multipart/handle-request) - @RequestPart
+  - [View resolver Types](mvc/view-resolver-types)
+- [Multipart Requests](mvc/multipart)
+  - [StandardServletMultipartResolver](mvc/multipart/StandardServletMultipartResolver)
+  - [CommonsMultipartResolver](mvc/multipart/CommonsMultipartResolver)
+  - [Handle multipart request](mvc/multipart/handle-request) - @RequestPart
 - Exception Handling
   - [Handling exceptions](mvc/handling-mvc-exceptions) - @ExceptionHandler, @ResponseStatus
   - [Advising controllers](mvc/advising-controllers) - @ControllerAdvice
@@ -96,12 +96,12 @@ permalink: /:collection/spring/
 
 # Spring REST
 - [Spring REST Introduction](rest/introduction)
-- [Creating REST endpoint](/spring-rest/first-endpoint)
-  - [ContentNegotiatingViewResolver](/spring-rest/contentNegotiatingViewResolver)
-    - [ContentNegotiationManager Configuration](/spring-rest/contentNegotiationManager/configuration)
-  - [HttpMessageConverters](/spring-rest/HttpMessageConverter)
-  - [@RestController](/spring-rest/rest-controller) - @RequestBody, @ResponseBody
-  - [ResponseEntity](/spring-rest/response-entity)
+- [Creating REST endpoint](rest/first-endpoint)
+  - [ContentNegotiatingViewResolver](rest/contentNegotiatingViewResolver)
+    - [ContentNegotiationManager Configuration](rest/contentNegotiationManager/configuration)
+  - [HttpMessageConverters](rest/HttpMessageConverter)
+  - [@RestController](rest/rest-controller) - @RequestBody, @ResponseBody
+  - [ResponseEntity](rest/response-entity)
   - [Difference - @Component, @Service, @Repository, @Controller](rest/difference-rest-annotations)
   - [POST vs PUT vs PATCH](rest/post-vs-put-vs-patch)
 - [Consuming REST resources - RestTemplate](rest/consume-rest-resources)
@@ -126,25 +126,25 @@ permalink: /:collection/spring/
 # Spring Boot
 - [SpringBoot Introduction](boot/introduction)
   - [Spring vs SpringBoot](boot/spring-vs-springboot)
-  - [SpringBoot Setup](/spring-boot/setup)
-- [Spring Boot Starter Template](/spring-boot/starter-template)
-  - [Sample pom xml with starter template](/spring-boot/starter-template/example)
-- [SpringBoot Key Components](/spring-boot/key-components)
+  - [SpringBoot Setup](boot/setup)
+- [Spring Boot Starter Template](boot/starter-template)
+  - [Sample pom xml with starter template](boot/starter-template/example)
+- [SpringBoot Key Components](boot/key-components)
 - Basic Configurations
-- [Spring Boot Embedded Containers](/spring-boot/embedded-containers)
-- [Logging](/spring-boot/logging)
-- [Spring Boot Spring Data JPA](/spring-boot/spring-data-jpa)
-- [SpringBoot DevTools](/spring-boot/devtools)
-- [SpringBoot Spring Security](/spring-boot/spring-security)
-- [Actuator](/spring-boot/actuator)
-- [SpringBoot Testing](/spring-boot/testing)
-  - [Auto-Configured Tests](/spring-boot/testing/autoconfigured-tests)
-- [zzz](/spring-boot/zzz)
+- [Spring Boot Embedded Containers](boot/embedded-containers)
+- [Logging](boot/logging)
+- [Spring Boot Spring Data JPA](boot/spring-data-jpa)
+- [SpringBoot DevTools](boot/devtools)
+- [SpringBoot Spring Security](boot/spring-security)
+- [Actuator](boot/actuator)
+- [SpringBoot Testing](boot/testing)
+  - [Auto-Configured Tests](boot/testing/autoconfigured-tests)
+- [zzz](boot/zzz)
 - [Spring Boot](boot) - main file
-- [ThymeLeaf](/spring-boot/thymeleaf)
+- [ThymeLeaf](boot/thymeleaf)
 
 # Spring Cloud
-- [Spring Cloud](/spring-cloud)
+- [Spring Cloud](cloud)
 
 # Spring WebFlux
-- [Spring WebFlux](/spring-webflux)
+- [Spring WebFlux](webflux)

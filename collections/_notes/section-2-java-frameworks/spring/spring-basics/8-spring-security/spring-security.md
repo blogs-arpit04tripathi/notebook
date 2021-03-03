@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring Security
-permalink: /:collection/spring/spring-security/
+permalink: /:collection/spring/security/
 ---
 
 - TOC

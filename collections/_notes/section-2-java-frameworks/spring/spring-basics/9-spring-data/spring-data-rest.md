@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring Data Rest
-permalink: /:collection/spring/spring-data-rest/
+permalink: /:collection/spring/data-rest/
 ---
 
 

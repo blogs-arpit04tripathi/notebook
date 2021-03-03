@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring Data
-permalink: /:collection/spring/spring-data/
+permalink: /:collection/spring/data/
 ---
 
 - TOC
