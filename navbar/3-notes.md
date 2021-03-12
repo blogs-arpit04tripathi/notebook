@@ -53,6 +53,7 @@ permalink: /notes/
   - [XML](xml)
 
 **Programming Basics**
+  - [Clean Code](clean-code)
   - [Programming Basics](programming/basics)
   - [Coding Cheatsheet](programming/cheatsheet)
   - [Puzzles](others/puzzles)
