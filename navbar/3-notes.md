@@ -23,6 +23,7 @@ permalink: /notes/
   - [Angular](angular)
   - [Bootstrap](bootstrap)
   - [Javascript](js)
+  - [HTML](html)
 
 **Common Patterns**
   - [Design Patterns](design-patterns)
