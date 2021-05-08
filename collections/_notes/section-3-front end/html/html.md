@@ -37,10 +37,16 @@ permalink: /:collection/html/
 ```
 
 ```html
+&nbsp;
+<!-- non-breaking space: entity in HTML -->
+```
+
+## Form
+```html
 <form action="/process" method="post">
     <pre>
         username: <input type="text" name="username" id="username" placeholder="name"><br>
-        password: <input type="password" name="password" id="password"><br>
+        password: <input type="password" name="password" id="password" required><br>
         email: <input type="email" name="email" id="email"><br>
         file: <input type="file" name="file" id="file"><br>
         telephone: <input type="tel" name="telephone" id="telephone"><br>
@@ -49,6 +55,7 @@ permalink: /:collection/html/
 </form>
 ```
 
+## Table
 ```html
 <table>
     <thead>

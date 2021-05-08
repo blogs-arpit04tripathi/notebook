@@ -17,8 +17,8 @@ permalink: /:collection/jekyll/
 - You give it text written in your favorite markup language and it uses layouts to create a static website.
 
 ```
-bundle exec jekyll serve --port=4000
 bundle exec jekyll serve --incremental
+bundle exec jekyll serve --port=4000
 ```
 
 # Blank Jekyll Project

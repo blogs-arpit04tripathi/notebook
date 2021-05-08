@@ -50,4 +50,6 @@ Complex fulcrumPoint = Complex.FromRealNumber(23.0);
 - One Level of Abstraction per Function.
 - Be consistent in your names. Use the same phrases, nouns, and verbs in the function names you choose for your modules.
   - Example - the names includeSetupAndTeardownPages, includeSetupPages, includeSuiteSetupPage, and includeSetupPage.
+- Function Arguments - max 3.
+  - Difficult for Unit testing all combinations of parameters.
 - 

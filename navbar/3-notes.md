@@ -20,6 +20,7 @@ permalink: /notes/
   - [Hibernate](hibernate)
 
 **FrontEnd Technologies**
+  - [Vue.js](vuejs)
   - [Angular](angular)
   - [Bootstrap](bootstrap)
   - [Javascript](js)
