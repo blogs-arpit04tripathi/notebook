@@ -12,4 +12,7 @@ Front end JavaScript framework for building user interfaces and single-page appl
 - [Vue.js](https://vuejs.org/){:target="_blank"}
 
 **Topics**
-- [Vue.js](intro)
+- [Introduction](intro)
+
+**Vuex - State Management**
+- 
