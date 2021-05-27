@@ -46,10 +46,23 @@ Complex fulcrumPoint = Complex.FromRealNumber(23.0);
 - blocks within if, else, while and so on should be one line long.
   - Probably that line should be a function call.
 - The indent level of a function should not be greater than one or two.
-- ***FUNCTIONS SHOULD DO ONE THING. THEY SHOULD DO IT WELL. THEY SHOULD DO IT ONLY.***
+
+>FUNCTIONS SHOULD DO ONE THING.
+THEY SHOULD DO IT WELL.
+THEY SHOULD DO IT ONLY.
+
 - One Level of Abstraction per Function.
 - Be consistent in your names. Use the same phrases, nouns, and verbs in the function names you choose for your modules.
   - Example - the names includeSetupAndTeardownPages, includeSetupPages, includeSuiteSetupPage, and includeSetupPage.
-- Function Arguments - max 3.
-  - Difficult for Unit testing all combinations of parameters.
+
+## Function Arguments - max 3.
+- Difficult for Unit testing all combinations of parameters.
+- One input argument is the next best thing to no arguments.
+- Flag Arguments
+  - Passing a boolean into a function is a truly terrible practice.
+  - It immediately complicates the signature of the method, loudly proclaiming that this function does more than one thing.
+    - It does one thing if the flag is true and another if the flag is false!
+  - method call render(true) is just plain confusing to a poor reader.
+  - We should have split the function into two: renderForSuite() and renderForSingleTest().
+- pg 72
 - 
