@@ -1,11 +1,7 @@
 # Site settings
 # accessed via {{ site.title }}, {{ site.email }}
 title: Arpit Tripathi
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Arpit Tripathi's blogs.
 
 # DNS config
 url: "http://blogs.arpit04tripathi.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -22,8 +18,7 @@ cdn: https://raw.githubusercontent.com/blogs-arpit04tripathi/files-cdn/cdn
 remote_theme: SupunKavinda/jekyll-theme-leaf    # For custom themes
 
 # social icons
-twitter_username: jekyllrb
-github_username:  blogs-arpit04tripathi
+github_username:  arpit04tripathi
 
 # Build settings
 plugins:
