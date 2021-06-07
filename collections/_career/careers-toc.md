@@ -13,4 +13,3 @@ permalink: /:collection/
 # Job Search
 - [Apply](jobs/apply)
 - [Discussion](jobs/discussion)
-- [Certifications](certs)
