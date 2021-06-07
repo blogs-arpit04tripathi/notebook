@@ -1,14 +1,14 @@
 # Site settings
 # accessed via {{ site.title }}, {{ site.email }}
-title: Arpit Tripathi
-description: Arpit Tripathi's blogs.
+title: Arpit Tripathi - Notebook
+description: Arpit Tripathi's Notebook.
 
 # DNS config
 url: "http://blogs.arpit04tripathi.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/notebook" # the subpath of your site, e.g. /blog
 
 # theme variables
-iconURL: "/notebook/assets/logo/logo-arpit04tripathi.jpeg" #url/iconURL
+iconURL: "/assets/logo/logo-arpit04tripathi.jpeg" #url/iconURL
 
 # custom variables
 cdn: https://raw.githubusercontent.com/blogs-arpit04tripathi/files-cdn/cdn
