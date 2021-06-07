@@ -27,7 +27,5 @@ plugins:
 # Collections - post, notes, etc.
 collections_dir: collections
 collections:
-  notes:
-    output: true
   career:
     output: true
