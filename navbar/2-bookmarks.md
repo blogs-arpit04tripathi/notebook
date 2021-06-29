@@ -10,10 +10,14 @@ permalink: /bookmarks/
   - **InterviewBit** - [InterviewBit](https://interviewbit.com){:target="_blank"}
   - **LeetCode** - [Home](https://leetcode.com){:target="_blank"} - [Dashboard](https://leetcode.com/explore/){:target="_blank"} - [Problems](https://leetcode.com/problemset/all/){:target="_blank"} - [Contests](https://leetcode.com/contest/){:target="_blank"}
 
-**MOOC**
+**MOOC** - [Udemy Collections]{:target="_blank"}
   - [Udemy](https://www.udemy.com/home/my-courses/collections){:target="_blank"}
   - [NPTEL](https://nptel.ac.in/){:target="_blank"}
   - [Swayam](https://swayam.gov.in/mycourses){:target="_blank"}
+
+[Udemy Collections]: https://www.udemy.com/home/my-courses/collections
+[NPTEL]: https://nptel.ac.in/
+[Swayam]: https://swayam.gov.in/mycourses
 
 **StackOverflow**
   - [StackOverflow](https://stackoverflow.com){:target="_blank"}
@@ -49,9 +53,7 @@ permalink: /bookmarks/
 - [howtodoinjava](https://howtodoinjava.com){:target="_blank"}
 - [2020 - Developer RoadMap](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html){:target="_blank"}
 
-**ebooks**
-- [All IT Books](http://www.allitebooks.org/){:target="_blank"}
-- [All IT Books.net](https://allitbooks.net/){:target="_blank"}
+**ebooks** - [All IT Books.net](https://allitbooks.net/){:target="_blank"}
 
 **Online DevTools**
 - [online java formatter](https://www.tutorialspoint.com/online_java_formatter.htm){:target="_blank"}
