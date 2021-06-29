@@ -17,7 +17,7 @@ permalink: /bookmarks/
 
 **StackOverflow**
   - [StackOverflow](https://stackoverflow.com){:target="_blank"}
-  - [My Career](/career)
+  - [My Career](career)
 
 **Data Structures and Algorithms**
 - [mycodeschool](https://www.youtube.com/user/mycodeschool/playlists){:target="_blank"}
