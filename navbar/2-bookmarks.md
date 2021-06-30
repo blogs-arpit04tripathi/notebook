@@ -11,7 +11,7 @@ permalink: /bookmarks/
 [InterviewBit]: https://interviewbit.com
 [LeetCode]: https://leetcode.com/contest
 
-**MOOC** - [Udemy]{:target="_blank"} - [NPTEL]{:target="_blank"} - [Swayam]({:target="_blank"}
+**MOOC** - [Udemy]{:target="_blank"} - [NPTEL]{:target="_blank"} - [Swayam]{:target="_blank"}
 
 [Udemy]: https://www.udemy.com/home/my-courses/collections
 [NPTEL]: https://nptel.ac.in/
@@ -59,12 +59,7 @@ permalink: /bookmarks/
 - [md icons](https://gist.github.com/rxaviers/7360908){:target="_blank"}
 - [ReadMe Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2){:target="_blank"}
 
-## Jekyll (Static Website Generator)
-1. [Jekyll Website](https://jekyllrb.com/docs/){:target="_blank"} - [Tutorials](https://www.youtube.com/watch?v=T1itpPvFWHI&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB){:target="_blank"}
-2. [CloudCannon](https://orange-ape.cloudvent.net/){:target="_blank"} - [GitHub](https://github.com/CloudCannon/base-jekyll-template){:target="_blank"}
-3. [Jekyll with BootStrap4](https://medium.com/better-programming/an-introduction-to-using-jekyll-with-bootstrap-4-6f2433afeda9){:target="_blank"}
-4. [Jekyll with Commit](https://medium.com/@mskyda/host-a-website-on-github-pages-from-a-private-repo-step-by-step-guide-7fd82b6ae65f){:target="_blank"}
+**Jekyll (Static Website Generator)** - [Jekyll Website](https://jekyllrb.com/docs/){:target="_blank"} - [CloudCannon](https://orange-ape.cloudvent.net/){:target="_blank"} - [CloudCannon GitHub](https://github.com/CloudCannon/base-jekyll-template){:target="_blank"}
 
-## Developers
-- [Tania Rascia](https://www.taniarascia.com/){:target="_blank"}
-- [Yuya Uzu](https://uzu.works/){:target="_blank"}
+
+**Developers** - [Tania Rascia](https://www.taniarascia.com/){:target="_blank"} - [Yuya Uzu](https://uzu.works/){:target="_blank"}
