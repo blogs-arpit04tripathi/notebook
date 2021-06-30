@@ -4,24 +4,21 @@ title: Bookmarks
 permalink: /bookmarks/
 ---
 
-**Online Programming**
-  - **HackerRank** - [Jobs](https://www.hackerrank.com/jobs/search){:target="_blank"} - [Contests](https://www.hackerrank.com/contests){:target="_blank"} - [Dashboard](https://www.hackerrank.com/dashboard){:target="_blank"} - [Profile](https://www.hackerrank.com/arpit04tripathi){:target="_blank"}
-  - **HackerEarth** - [Challenges (Jobs)](https://www.hackerearth.com/challenges/hiring/){:target="_blank"} - [Practice](https://www.hackerearth.com/practice){:target="_blank"} - [Blogs](https://www.hackerearth.com/blog/developers/){:target="_blank"} - [Profile](https://www.hackerearth.com/@arpit04tripathi){:target="_blank"}
-  - **InterviewBit** - [InterviewBit](https://interviewbit.com){:target="_blank"}
-  - **LeetCode** - [Home](https://leetcode.com){:target="_blank"} - [Dashboard](https://leetcode.com/explore/){:target="_blank"} - [Problems](https://leetcode.com/problemset/all/){:target="_blank"} - [Contests](https://leetcode.com/contest/){:target="_blank"}
+**Online Programming** - [HackerRank]{:target="_blank"} - [HackerEarth]{:target="_blank"} - [InterviewBit]{:target="_blank"} - [LeetCode]{:target="_blank"}
 
-**MOOC** - [Udemy Collections]{:target="_blank"}
-  - [Udemy](https://www.udemy.com/home/my-courses/collections){:target="_blank"}
-  - [NPTEL](https://nptel.ac.in/){:target="_blank"}
-  - [Swayam](https://swayam.gov.in/mycourses){:target="_blank"}
+[HackerRank]: https://www.hackerrank.com/jobs/search
+[HackerEarth]: https://www.hackerearth.com/challenges/hiring
+[InterviewBit]: https://interviewbit.com
+[LeetCode]: https://leetcode.com/contest
 
-[Udemy Collections]: https://www.udemy.com/home/my-courses/collections
+**MOOC** - [Udemy]{:target="_blank"} - [NPTEL]{:target="_blank"} - [Swayam]({:target="_blank"}
+
+[Udemy]: https://www.udemy.com/home/my-courses/collections
 [NPTEL]: https://nptel.ac.in/
 [Swayam]: https://swayam.gov.in/mycourses
 
 **StackOverflow**
-  - [StackOverflow](https://stackoverflow.com){:target="_blank"}
-  - [My Career](career)
+  - [StackOverflow](https://stackoverflow.com){:target="_blank"} - [Career](../career)
 
 **Data Structures and Algorithms**
 - [mycodeschool](https://www.youtube.com/user/mycodeschool/playlists){:target="_blank"}
@@ -56,8 +53,7 @@ permalink: /bookmarks/
 **ebooks** - [All IT Books.net](https://allitbooks.net/){:target="_blank"}
 
 **Online DevTools**
-- [online java formatter](https://www.tutorialspoint.com/online_java_formatter.htm){:target="_blank"}
-- [online java compiler](https://www.tutorialspoint.com/compile_java_online.php){:target="_blank"}
+- Java - [formatter](https://www.tutorialspoint.com/online_java_formatter.htm){:target="_blank"} - [compiler](https://www.tutorialspoint.com/compile_java_online.php){:target="_blank"}
 - [collabedit](http://collabedit.com/){:target="_blank"}
 - [WebSequenceDiagram](https://www.websequencediagrams.com/){:target="_blank"}
 - [md icons](https://gist.github.com/rxaviers/7360908){:target="_blank"}
