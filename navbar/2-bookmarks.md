@@ -5,7 +5,6 @@ permalink: /bookmarks/
 ---
 
 **Crash Courses** - [freeCodeCamp YT]{:target="_blank"} - [Edureka]{:target="_blank"} - [Simplilearn]{:target="_blank"}
-- [Java Brains (Khoushik)](https://www.youtube.com/user/koushks/playlists){:target="_blank"}
 
 [freeCodeCamp YT]: https://www.youtube.com/c/Freecodecamp/videos
 [Edureka]: https://www.youtube.com/user/edurekaIN/playlists
