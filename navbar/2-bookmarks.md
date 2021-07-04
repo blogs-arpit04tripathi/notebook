@@ -5,25 +5,16 @@ permalink: /bookmarks/
 ---
 
 **Crash Courses** - [freeCodeCamp YT]{:target="_blank"} - [Edureka]{:target="_blank"} - [Simplilearn]{:target="_blank"}
-- [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/playlists){:target="_blank"}
-- [Tech Primers](https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw/playlists){:target="_blank"}
-- [in 28 minutes](https://www.youtube.com/user/rithustutorials/playlists){:target="_blank"}
-- [Defog Tech](https://www.youtube.com/channel/UCiz26UeGvcTy4_M3Zhgk7FQ/playlists){:target="_blank"}
-- [AWS](https://www.youtube.com/c/amazonwebservices/playlists){:target="_blank"}
 - [Java Brains (Khoushik)](https://www.youtube.com/user/koushks/playlists){:target="_blank"}
-- [Learning Journal](https://www.youtube.com/channel/UC8OU1Tc1kxiI37uXBAbTX7A/playlists){:target="_blank"}
 
 [freeCodeCamp YT]: https://www.youtube.com/c/Freecodecamp/videos
 [Edureka]: https://www.youtube.com/user/edurekaIN/playlists
 [Simplilearn]: https://www.youtube.com/c/SimplilearnOfficial/videos
 
-**Blogs** - [12 Factor App]{:target="_blank"} - [2020 - Developer RoadMap]{:target="_blank"}
-- [Baeldung](https://www.baeldung.com){:target="_blank"}
-- [journaldev](https://www.journaldev.com){:target="_blank"}
-- [howtodoinjava](https://howtodoinjava.com){:target="_blank"}
+**Blogs** - [12 Factor App]{:target="_blank"} - [2021 Developer RoadMap]{:target="_blank"}
 
 [12 Factor App]: https://12factor.net
-[2020 - Developer RoadMap]: https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html
+[2021 Developer RoadMap]: https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html
 
 **Online Programming** - [HackerRank]{:target="_blank"} - [HackerEarth]{:target="_blank"} - [InterviewBit]{:target="_blank"} - [LeetCode]{:target="_blank"}
 
@@ -48,21 +39,16 @@ permalink: /bookmarks/
 [GFG]: https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ/playlists
 
 **System Design** - [Tech Dummies]{:target="_blank"} - [Gaurav Sen]{:target="_blank"} - [Grokking Index]{:target="_blank"}
-- [System Design Interview](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ){:target="_blank"}
-- [Code Karle](https://www.youtube.com/c/codeKarle/featured){:target="_blank"}
-
 [Tech Dummies]: https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA/playlists
 [Gaurav Sen]: https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw/playlists
 [Grokking Index]: https://www.educative.io/courses/grokking-the-system-design-interview
 
 **ebooks** - [All IT Books.net](https://allitbooks.net/){:target="_blank"}
 
-**Online DevTools**
+**Online Tools**
 - Java - [formatter](https://www.tutorialspoint.com/online_java_formatter.htm){:target="_blank"} - [compiler](https://www.tutorialspoint.com/compile_java_online.php){:target="_blank"}
 - [collabedit](http://collabedit.com/){:target="_blank"}
 - [WebSequenceDiagram](https://www.websequencediagrams.com/){:target="_blank"}
-- [md icons](https://gist.github.com/rxaviers/7360908){:target="_blank"}
-- [ReadMe Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2){:target="_blank"}
 
 **Jekyll (Static Website Generator)** - [Jekyll Website](https://jekyllrb.com/docs/){:target="_blank"} - [CloudCannon](https://orange-ape.cloudvent.net/){:target="_blank"} - [CloudCannon GitHub](https://github.com/CloudCannon/base-jekyll-template){:target="_blank"}
 
