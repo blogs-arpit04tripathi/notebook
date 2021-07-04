@@ -39,6 +39,7 @@ permalink: /bookmarks/
 [GFG]: https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ/playlists
 
 **System Design** - [Tech Dummies]{:target="_blank"} - [Gaurav Sen]{:target="_blank"} - [Grokking Index]{:target="_blank"}
+
 [Tech Dummies]: https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA/playlists
 [Gaurav Sen]: https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw/playlists
 [Grokking Index]: https://www.educative.io/courses/grokking-the-system-design-interview
